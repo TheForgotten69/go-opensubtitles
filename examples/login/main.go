@@ -1,22 +1,18 @@
 package main
 
 import (
-	"context"
-	"fmt"
 	"github.com/TheForgotten69/go-opensubtitles/opensubtitles"
+	"log"
 )
 
 func main() {
 	client := opensubtitles.NewClient(nil, "", opensubtitles.Credentials{
-		Username: "abdalaoe",
-		Password: "abdalaoe",
+		Username: "test",
+		Password: "test",
 	})
 
-	client, _ = client.Connect()
-	//fmt.Println(client)
-	a, _, err := client.Discover.MostDownloaded(context.Background(), nil)
+	client, err := client.Connect()
 	if err != nil {
-		fmt.Print(err)
+		log.Fatal(err)
 	}
-	fmt.Println(a)
 }
