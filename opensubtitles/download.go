@@ -28,6 +28,7 @@ type DownloadOptions struct {
 	Timeshift string `url:"timeshift,omitempty"`
 }
 
+//Download struct that return a given subtitle
 type Download struct {
 	Link      string `json:"link"`
 	Fname     string `json:"fname"`
