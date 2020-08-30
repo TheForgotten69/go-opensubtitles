@@ -232,7 +232,7 @@ func (c *Client) Do(ctx context.Context, req *http.Request, v interface{}) (*htt
 	c.rateMu.Lock()
 	//c.rateLimits[rateLimitCategory] = response.Rate
 	c.rateMu.Unlock()
-
+	//TODO: Check response
 	//err = CheckResponse(resp, b)
 
 	if v != nil {
