@@ -18,6 +18,11 @@ type LoggedIn struct {
 	Status int      `json:"status"`
 }
 
+//This endpoint provides an authentication token to the rest of the API
+//
+//The response will return an token which should be included in all API requests to the server in a header that looks like the following:
+//
+//Authorization: your-auth-token
 func (s *AuthenticationService) Login(ctx context.Context, opt *Credentials) (*LoggedIn, *http.Response, error) {
 	u := "/api/v1/login"
 	payload := fmt.Sprintf("{\n  \"username\": \"%s\",\n  \"password\": \"%s\"\n}", opt.Username, opt.Password)
