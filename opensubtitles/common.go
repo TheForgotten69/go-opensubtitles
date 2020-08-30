@@ -71,3 +71,73 @@ type SubtitlesOptions struct {
 	//Type (movie or tvshow)
 	Type string `url:"type,omitempty"`
 }
+
+// Movie/TV
+type Shows struct {
+	Data []Show `json:"data"`
+}
+type SubtitlesCounts struct {
+	Pl   int `json:"pl"`
+	En   int `json:"en"`
+	Tr   int `json:"tr"`
+	Ro   int `json:"ro"`
+	Cs   int `json:"cs"`
+	Es   int `json:"es"`
+	PtBR int `json:"pt-BR"`
+	Sl   int `json:"sl"`
+	PtPT int `json:"pt-PT"`
+	Sr   int `json:"sr"`
+	El   int `json:"el"`
+	Bg   int `json:"bg"`
+	He   int `json:"he"`
+	Nl   int `json:"nl"`
+	Fi   int `json:"fi"`
+	Fr   int `json:"fr"`
+	Hu   int `json:"hu"`
+	Ar   int `json:"ar"`
+	Ru   int `json:"ru"`
+	Hr   int `json:"hr"`
+	Da   int `json:"da"`
+	Et   int `json:"et"`
+	Sv   int `json:"sv"`
+	Sq   int `json:"sq"`
+	Bs   int `json:"bs"`
+	De   int `json:"de"`
+	It   int `json:"it"`
+	Ko   int `json:"ko"`
+	No   int `json:"no"`
+	Fa   int `json:"fa"`
+	Sk   int `json:"sk"`
+	Mk   int `json:"mk"`
+	ZhCN int `json:"zh-CN"`
+	Ms   int `json:"ms"`
+	ZhTW int `json:"zh-TW"`
+	Bn   int `json:"bn"`
+	ID   int `json:"id"`
+	Lt   int `json:"lt"`
+	Is   int `json:"is"`
+	Ja   int `json:"ja"`
+	Th   int `json:"th"`
+	Ca   int `json:"ca"`
+	Hi   int `json:"hi"`
+	Ml   int `json:"ml"`
+	Mn   int `json:"mn"`
+	Vi   int `json:"vi"`
+}
+type ShowAttributes struct {
+	Title           string          `json:"title"`
+	OriginalTitle   string          `json:"original_title"`
+	ImdbID          int             `json:"imdb_id"`
+	TmdbID          int             `json:"tmdb_id"`
+	FeatureID       string          `json:"feature_id"`
+	Year            string          `json:"year"`
+	TitleAka        []string        `json:"title_aka"`
+	SubtitlesCounts SubtitlesCounts `json:"subtitles_counts"`
+	URL             string          `json:"url"`
+	ImgURL          string          `json:"img_url"`
+}
+type Show struct {
+	ID         string     `json:"id"`
+	Type       string     `json:"type"`
+	Attributes ShowAttributes `json:"attributes"`
+}
