@@ -7,13 +7,12 @@ import (
 )
 
 func main() {
-	client, err := opensubtitles.NewClient(nil, "", opensubtitles.Credentials{
+	client := opensubtitles.NewClient(nil, "", opensubtitles.Credentials{
 		Username: "abdalaoe",
 		Password: "abdalaoe",
 	})
-	if err != nil {
-		fmt.Println(err)
-	}
+
+	client, _ = client.Connect()
 	//fmt.Println(client)
 	a, _, err := client.Discover.MostDownloaded(context.Background(), nil)
 	if err != nil {

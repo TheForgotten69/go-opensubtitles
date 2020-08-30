@@ -95,14 +95,14 @@ func addOptions(s string, opts interface{}) (string, error) {
 // provided, a new http.Client will be used. To use API methods which require
 // authentication, provide an http.Client that will perform the authentication
 // for you (such as that provided by the golang.org/x/oauth2 library).
-func NewClient(httpClient *http.Client, token string, cred Credentials) (*Client, error) {
+func NewClient(httpClient *http.Client, token string, cred Credentials) (c *Client) {
 	if httpClient == nil {
 		httpClient = &http.Client{}
 	}
 	baseURL, _ := url.Parse(defaultBaseURL)
 	//uploadURL, _ := url.Parse(uploadBaseURL)
 
-	c := &Client{client: httpClient, BaseURL: baseURL, UserAgent: userAgent, Token: token}
+	c = &Client{client: httpClient, BaseURL: baseURL, UserAgent: userAgent, Token: token}
 	c.common.client = c
 	c.Authentication = (*AuthenticationService)(&c.common)
 	c.Discover = (*DiscoverService)(&c.common)
@@ -114,6 +114,14 @@ func NewClient(httpClient *http.Client, token string, cred Credentials) (*Client
 	//Check if struct Credential is not empty
 	if (Credentials{}) != cred {
 		c.Credential = cred
+	}
+
+	return
+}
+
+func (c *Client) Connect() (*Client, error) {
+	if c == nil {
+		return nil, errors.New("no client provided")
 	}
 	if len(c.Token) < 1 {
 		log, resp, _ := c.Authentication.Login(context.Background(), &c.Credential)
