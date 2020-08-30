@@ -31,5 +31,5 @@ API token][]), you can use it with the oauth2 library using:
  
 
 ## Ressources
-- https://www.opensubtitles.com/docs/api/html/index.htm
+- [Open Subtitles API](https://www.opensubtitles.com/docs/api/html/index.htm)
 - https://forum.opensubtitles.org/viewtopic.php?f=8&t=17146

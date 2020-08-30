@@ -64,7 +64,7 @@ type Data struct {
 	Type       string     `json:"type"`
 	Attributes Attributes `json:"attributes"`
 }
-
+//SubtitlesOptions is used for the discover API
 type SubtitlesOptions struct {
 	//All, or language code
 	Language string `url:"language,omitempty"`
@@ -72,7 +72,7 @@ type SubtitlesOptions struct {
 	Type string `url:"type,omitempty"`
 }
 
-// Movie/TV
+//Shows represent a list of tv show or movies
 type Shows struct {
 	Data []Show `json:"data"`
 }
