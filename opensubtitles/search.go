@@ -35,7 +35,6 @@ func (s *SearchService) Movie(ctx context.Context, opt *SearchOptions) (shows *S
 		return nil, resp, err
 	}
 	return
-
 }
 
 //TV search a TV serie by name
@@ -56,7 +55,6 @@ func (s *SearchService) TV(ctx context.Context, opt *SearchOptions) (shows *Show
 		return nil, resp, err
 	}
 	return
-
 }
 
 //Title search for a feature by title (tv serie or movie)
@@ -77,5 +75,4 @@ func (s *SearchService) Title(ctx context.Context, opt *SearchOptions) (shows *S
 		return nil, resp, err
 	}
 	return
-
 }
