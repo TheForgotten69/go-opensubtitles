@@ -14,7 +14,7 @@ type SearchOptions struct {
 	Query string `url:"query,omitempty"`
 }
 
-//Search a TV serie by name
+//TV search a TV serie by name
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#search-for-a-tv-serie
 func (s *SearchService) TV(ctx context.Context, opt *SearchOptions) (shows *Shows, resp *http.Response, err error) {
 	u := "/api/v1/search/tv"
@@ -35,7 +35,7 @@ func (s *SearchService) TV(ctx context.Context, opt *SearchOptions) (shows *Show
 
 }
 
-//Search for a feature by title (tv serie or movie)
+//Title search for a feature by title (tv serie or movie)
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#search-for-a-feature-by-title
 func (s *SearchService) Title(ctx context.Context, opt *SearchOptions) (shows *Shows, resp *http.Response, err error) {
 	u := "/api/v1/search/title"
@@ -56,7 +56,7 @@ func (s *SearchService) Title(ctx context.Context, opt *SearchOptions) (shows *S
 
 }
 
-//Search a movie by name
+//Movie search a movie by name
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#search-for-a-movie
 func (s *SearchService) Movie(ctx context.Context, opt *SearchOptions) (shows *Shows, resp *http.Response, err error) {
 	u := "/api/v1/search/movie"
