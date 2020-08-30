@@ -5,7 +5,10 @@ import (
 	"net/http"
 )
 
-//OpenSubtitles API docs: https://www.opensubtitles.com/docs/api/html/index.htm#search
+// SearchService provides access to the search related functions
+// in the OpenSubtitles API.
+//
+// OpenSubtitles API docs: https://www.opensubtitles.com/docs/api/html/index.htm#search
 type SearchService service
 
 //SearchOptions contains the url parameter for the SearchService

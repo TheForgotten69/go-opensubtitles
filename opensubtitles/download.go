@@ -4,7 +4,10 @@ import (
 	"context"
 	"net/http"
 )
-
+// DownloadService provides access to the download related functions
+// in the OpenSubtitles API.
+//
+// OpenSubtitles API docs: https://www.opensubtitles.com/docs/api/html/index.htm#download
 type DownloadService service
 
 type DownloadOptions struct {
@@ -56,5 +59,4 @@ func (s *DownloadService) Download(ctx context.Context, opt *DownloadOptions) (d
 		return nil, resp, err
 	}
 	return
-
 }

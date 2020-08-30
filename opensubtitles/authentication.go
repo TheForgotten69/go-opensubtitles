@@ -36,5 +36,4 @@ func (s *AuthenticationService) Login(ctx context.Context, opt *Credentials) (lo
 		return nil, resp, err
 	}
 	return
-
 }

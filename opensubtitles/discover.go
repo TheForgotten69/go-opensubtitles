@@ -5,6 +5,10 @@ import (
 	"net/http"
 )
 
+// DiscoverService provides access to the discover related functions
+// in the OpenSubtitles API.
+//
+// OpenSubtitles API docs: https://www.opensubtitles.com/docs/api/html/index.htm#discover
 type DiscoverService service
 
 //MostDownloaded list the most downloaded subtitles
@@ -25,7 +29,6 @@ func (s *DiscoverService) MostDownloaded(ctx context.Context, opt *SubtitlesOpti
 		return nil, resp, err
 	}
 	return
-
 }
 
 //Popular list movies with most subtitles downloads
@@ -47,5 +50,4 @@ func (s *DiscoverService) Popular(ctx context.Context, opt *SubtitlesOptions) (*
 		return nil, resp, err
 	}
 	return subtitles, resp, nil
-
 }

@@ -5,6 +5,10 @@ import (
 	"net/http"
 )
 
+// FindService provides access to the find related functions
+// in the OpenSubtitles API.
+//
+// OpenSubtitles API docs: https://www.opensubtitles.com/docs/api/html/index.htm#find
 type FindService service
 
 type FeatureOptions struct {
@@ -63,7 +67,6 @@ func (s *FindService) Feature(ctx context.Context, opt *FeatureOptions) (feature
 		return nil, resp, err
 	}
 	return
-
 }
 
 type FindOptions struct {

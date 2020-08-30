@@ -4,7 +4,10 @@ import (
 	"context"
 	"net/http"
 )
-
+// InfoService provides access to the info related functions
+// in the OpenSubtitles API.
+//
+// OpenSubtitles API docs: https://www.opensubtitles.com/docs/api/html/index.htm#infos
 type InfoService service
 
 type UserData struct {
@@ -25,7 +28,7 @@ type LanguagesData struct {
 	LanguageName string `json:"language_name"`
 }
 
-//Get the languages used on opensubtitles and their codes
+//Languages get the languages used on opensubtitles and their codes
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#get-the-languages-table
 func (s *InfoService) Languages(ctx context.Context) (*Languages, *http.Response, error) {
 	u := "/api/v1/infos/languages"
@@ -40,7 +43,6 @@ func (s *InfoService) Languages(ctx context.Context) (*Languages, *http.Response
 		return nil, resp, err
 	}
 	return languages, resp, nil
-
 }
 
 type Formats struct {
@@ -50,7 +52,7 @@ type FormatsData struct {
 	OutputFormats []string `json:"output_formats"`
 }
 
-//List of subtitles formats that can be processed by our system
+//Formats return a list of subtitles formats that can be processed by our system
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#list-subtitle-formats
 func (s *InfoService) Formats(ctx context.Context) (*Formats, *http.Response, error) {
 	u := "/api/v1/infos/formats"
@@ -65,14 +67,13 @@ func (s *InfoService) Formats(ctx context.Context) (*Formats, *http.Response, er
 		return nil, resp, err
 	}
 	return formats, resp, nil
-
 }
 
 type User struct {
 	Data Data `json:"data"`
 }
 
-//Get user ID, level, total and remaining download quota
+//User get user ID, level, total and remaining download quota
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#get-user-data
 func (s *InfoService) User(ctx context.Context) (*User, *http.Response, error) {
 	u := "/api/v1/infos/user"
@@ -87,5 +88,4 @@ func (s *InfoService) User(ctx context.Context) (*User, *http.Response, error) {
 		return nil, resp, err
 	}
 	return user, resp, nil
-
 }
