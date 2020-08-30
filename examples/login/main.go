@@ -6,7 +6,7 @@ import (
 	"github.com/TheForgotten69/go-opensubtitles/opensubtitles"
 )
 
-func main(){
+func main() {
 	client, err := opensubtitles.NewClient(nil, "", opensubtitles.Credentials{
 		Username: "abdalaoe",
 		Password: "abdalae",

@@ -151,8 +151,8 @@ func (c *Client) NewRequest(method, urlStr string, body string) (*http.Request, 
 			return nil, err
 		}
 	}*/
-	var b  io.Reader
-	if body != ""{
+	var b io.Reader
+	if body != "" {
 		b = strings.NewReader(body)
 	}
 	req, err := http.NewRequest(method, u.String(), b)
@@ -161,7 +161,7 @@ func (c *Client) NewRequest(method, urlStr string, body string) (*http.Request, 
 	}
 	req.Header.Add(headerAccept, mediaTypeJSON)
 	req.Header.Set("Content-Type", mediaTypeJSON)
-	if c.Token != ""{
+	if c.Token != "" {
 		req.Header.Set("Authorization", c.Token)
 	}
 	//req.Header.Set("Accept", mediaTypeV3)

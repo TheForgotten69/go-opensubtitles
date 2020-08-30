@@ -13,11 +13,10 @@ import (
 type AuthenticationService service
 
 type LoggedIn struct {
-	User   User   `json:"user"`
-	Token  string `json:"token"`
-	Status int    `json:"status"`
+	User   UserData `json:"user"`
+	Token  string   `json:"token"`
+	Status int      `json:"status"`
 }
-
 
 func (s *AuthenticationService) Login(ctx context.Context, opt *Credentials) (*LoggedIn, *http.Response, error) {
 	u := "/api/v1/login"
