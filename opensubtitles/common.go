@@ -137,7 +137,7 @@ type ShowAttributes struct {
 	ImgURL          string          `json:"img_url"`
 }
 type Show struct {
-	ID         string     `json:"id"`
-	Type       string     `json:"type"`
+	ID         string         `json:"id"`
+	Type       string         `json:"type"`
 	Attributes ShowAttributes `json:"attributes"`
 }

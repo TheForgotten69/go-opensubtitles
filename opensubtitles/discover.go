@@ -7,11 +7,11 @@ import (
 
 type DiscoverService service
 
-//List most downloaded subtitles
+//MostDownloaded list the most downloaded subtitles
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#find-most-downloaded-movie-subtitles
-func (s *DiscoverService) MostDownloaded(ctx context.Context, opt *SubtitlesOptions) (*Subtitles, *http.Response, error) {
+func (s *DiscoverService) MostDownloaded(ctx context.Context, opt *SubtitlesOptions) (sub *Subtitles, resp *http.Response, err error) {
 	u := "/api/v1/discover/most_downloaded"
-	u, err := addOptions(u, opt)
+	u, err = addOptions(u, opt)
 	if err != nil {
 		return nil, nil, nil
 	}
@@ -20,16 +20,15 @@ func (s *DiscoverService) MostDownloaded(ctx context.Context, opt *SubtitlesOpti
 		return nil, nil, err
 	}
 
-	var subtitles *Subtitles
-	resp, err := s.client.Do(ctx, req, &subtitles)
+	resp, err = s.client.Do(ctx, req, &sub)
 	if err != nil {
 		return nil, resp, err
 	}
-	return subtitles, resp, nil
+	return
 
 }
 
-//List movies with most subtitles downloads
+//Popular list movies with most subtitles downloads
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#find-most-downloaded-movie-subtitles
 func (s *DiscoverService) Popular(ctx context.Context, opt *SubtitlesOptions) (*Data, *http.Response, error) {
 	u := "/api/v1/discover/most_downloaded"

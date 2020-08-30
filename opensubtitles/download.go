@@ -39,9 +39,9 @@ type Download struct {
 
 //Download file specified by an id
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#download-subtitle-file
-func (s *DownloadService) Download(ctx context.Context, opt *DownloadOptions) (*Download, *http.Response, error) {
+func (s *DownloadService) Download(ctx context.Context, opt *DownloadOptions) (download *Download, resp *http.Response, err error) {
 	u := "/api/v1/download"
-	u, err := addOptions(u, opt)
+	u, err = addOptions(u, opt)
 	if err != nil {
 		return nil, nil, nil
 	}
@@ -50,11 +50,10 @@ func (s *DownloadService) Download(ctx context.Context, opt *DownloadOptions) (*
 		return nil, nil, err
 	}
 
-	var download *Download
-	resp, err := s.client.Do(ctx, req, &download)
+	resp, err = s.client.Do(ctx, req, &download)
 	if err != nil {
 		return nil, resp, err
 	}
-	return download, resp, nil
+	return
 
 }
