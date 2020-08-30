@@ -9,7 +9,7 @@ import (
 func main() {
 	client, err := opensubtitles.NewClient(nil, "", opensubtitles.Credentials{
 		Username: "abdalaoe",
-		Password: "abdalae",
+		Password: "abdalaoe",
 	})
 	if err != nil {
 		fmt.Println(err)

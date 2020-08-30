@@ -1,7 +1,21 @@
 # go-opensubtitles #
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/99a6484956d0492db384e518e684e82a)](https://www.codacy.com/manual/TheForgotten69/go-opensubtitles?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TheForgotten69/go-opensubtitles&amp;utm_campaign=Badge_Grade)
 
-Go library for accessing the [OpenSubtitles API](https://www.opensubtitles.com/docs/api/html/index.htm).
+go-opensubtitles is a Go library for accessing the [OpenSubtitles API](https://www.opensubtitles.com/docs/api/html/index.htm).
+
+## Install
+
+To get a specific version from the list of [versions](https://github.com/TheForgotten69/go-opensubtitles/releases):
+
+```sh
+go get github.com/TheForgotten69/go-opensubtitles@vX.Y.Z
+```
+
+Or for the latest version:
+
+```sh
+go get github.com/TheForgotten69/go-opensubtitles
+```
 
 ### Authentication ###
 

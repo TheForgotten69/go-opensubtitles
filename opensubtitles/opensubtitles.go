@@ -118,7 +118,7 @@ func NewClient(httpClient *http.Client, token string, cred Credentials) (*Client
 	if len(c.Token) < 1 {
 		log, resp, _ := c.Authentication.Login(context.Background(), &c.Credential)
 		if (&LoggedIn{}) != log {
-			if len(log.Token) > 0 && resp.Status == "200" {
+			if len(log.Token) > 0 && resp.StatusCode == http.StatusOK {
 				c.Token = log.Token
 			} else {
 				return nil, errors.New("Wrong Username/Password")
