@@ -1,0 +1,3 @@
+package opensubtitles
+
+type DownloadService service
