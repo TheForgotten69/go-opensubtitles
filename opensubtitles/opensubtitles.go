@@ -4,7 +4,6 @@ import (
 	"context"
 	"encoding/json"
 	"errors"
-	"fmt"
 	"github.com/google/go-querystring/query"
 	"io"
 	"net/http"
@@ -58,12 +57,12 @@ type Client struct {
 	common service // Reuse a single struct instead of allocating one for each service on the heap.
 
 	// Services used for talking to different parts of the GitHub API.
-	Discover *DiscoverService
-	Download *DownloadService
-	Find     *FindService
-	Info     *InfoService
-	Login    *LoginService
-	Search   *SearchService
+	Authentication *AuthenticationService
+	Discover       *DiscoverService
+	Download       *DownloadService
+	Find           *FindService
+	Info           *InfoService
+	Search         *SearchService
 }
 
 type service struct {
@@ -105,12 +104,11 @@ func NewClient(httpClient *http.Client, token string, cred Credentials) (*Client
 
 	c := &Client{client: httpClient, BaseURL: baseURL, UserAgent: userAgent, Token: token}
 	c.common.client = c
-
+	c.Authentication = (*AuthenticationService)(&c.common)
 	c.Discover = (*DiscoverService)(&c.common)
 	c.Download = (*DownloadService)(&c.common)
 	c.Find = (*FindService)(&c.common)
 	c.Info = (*InfoService)(&c.common)
-	c.Login = (*LoginService)(&c.common)
 	c.Search = (*SearchService)(&c.common)
 
 	//Check if struct Credential is not empty
@@ -118,17 +116,15 @@ func NewClient(httpClient *http.Client, token string, cred Credentials) (*Client
 		c.Credential = cred
 	}
 	if len(c.Token) < 1 {
-		log, _, err := c.Login.Login(context.Background(), &c.Credential)
+		log, resp, _ := c.Authentication.Login(context.Background(), &c.Credential)
 		if (&LoggedIn{}) != log {
-			if len(log.Token)>0{
+			if len(log.Token) > 0 && resp.Status == "200" {
 				c.Token = log.Token
-			}else{
-				return nil, err
+			} else {
+				return nil, errors.New("Wrong Username/Password")
 			}
 
 		}
-
-		fmt.Println(log)
 	}
 
 	return c, nil
@@ -155,37 +151,20 @@ func (c *Client) NewRequest(method, urlStr string, body string) (*http.Request, 
 			return nil, err
 		}
 	}*/
-
-	req, err := http.NewRequest(method, u.String(), strings.NewReader(body))
+	var b  io.Reader
+	if body != ""{
+		b = strings.NewReader(body)
+	}
+	req, err := http.NewRequest(method, u.String(), b)
 	if err != nil {
 		return nil, err
 	}
-
-	if body != "" {
-		req.Header.Add(headerAccept, mediaTypeJSON)
-		req.Header.Set("Content-Type", mediaTypeJSON)
+	req.Header.Add(headerAccept, mediaTypeJSON)
+	req.Header.Set("Content-Type", mediaTypeJSON)
+	if c.Token != ""{
+		req.Header.Set("Authorization", c.Token)
 	}
 	//req.Header.Set("Accept", mediaTypeV3)
-	return req, nil
-}
-
-// NewRequestWithForm creates an API request with form data.
-// The path is the relative URL which will be resolves to the BaseURL of the Client.
-// It should always be specified without a preceding slash.
-func (c *Client) NewRequestWithForm(method string, urlStr string, form url.Values) (*http.Request, error) {
-	u, err := c.BaseURL.Parse(urlStr)
-	if err != nil {
-		return nil, err
-	}
-
-	req, err := http.NewRequest(method, u.String(), strings.NewReader(form.Encode()))
-	if err != nil {
-		return nil, err
-	}
-
-	req.Header.Add(headerContentType, mediaTypeForm)
-	req.Header.Add(headerAccept, mediaTypeJSON)
-
 	return req, nil
 }
 

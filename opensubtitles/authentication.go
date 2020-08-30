@@ -2,6 +2,7 @@ package opensubtitles
 
 import (
 	"context"
+	"fmt"
 	"net/http"
 )
 
@@ -9,7 +10,7 @@ import (
 // in the OpenSubtitles API.
 //
 // OpenSubtitles API docs: https://www.opensubtitles.com/docs/api/html/index.htm#authentication
-type LoginService service
+type AuthenticationService service
 
 type LoggedIn struct {
 	User   User   `json:"user"`
@@ -18,9 +19,9 @@ type LoggedIn struct {
 }
 
 
-func (s *LoginService) Login(ctx context.Context, opt *Credentials) (*LoggedIn, *http.Response, error) {
+func (s *AuthenticationService) Login(ctx context.Context, opt *Credentials) (*LoggedIn, *http.Response, error) {
 	u := "/api/v1/login"
-	payload := "{\n  \"username\": \"abdalaoe\",\n  \"password\": \"abdalaoe\"\n}"//fmt.Sprintf(`{"username": "%s","password": "%s"}`, opt.Username, opt.Password)
+	payload := fmt.Sprintf("{\n  \"username\": \"%s\",\n  \"password\": \"%s\"\n}", opt.Username, opt.Password)
 	req, err := s.client.NewRequest("POST", u, payload)
 	if err != nil {
 		return nil, nil, err
