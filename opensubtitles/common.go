@@ -2,17 +2,20 @@ package opensubtitles
 
 import "time"
 
+//Subtitles
 type Subtitles struct {
 	TotalPages int    `json:"total_pages"`
 	TotalCount int    `json:"total_count"`
 	Page       int    `json:"page"`
 	Data       []Data `json:"data"`
 }
+//Uploader
 type Uploader struct {
 	ID   int    `json:"id"`
 	Name string `json:"name"`
 	Rank string `json:"rank"`
 }
+//FeatureDetails
 type FeatureDetails struct {
 	FeatureID   int    `json:"feature_id"`
 	FeatureType string `json:"feature_type"`
@@ -22,16 +25,19 @@ type FeatureDetails struct {
 	ImdbID      int    `json:"imdb_id"`
 	TmdbID      int    `json:"tmdb_id"`
 }
+//RelatedLinks
 type RelatedLinks struct {
 	Label  string `json:"label"`
 	URL    string `json:"url"`
 	ImgURL string `json:"img_url"`
 }
+//Files
 type Files struct {
 	ID       int    `json:"id"`
 	CdNumber int    `json:"cd_number"`
 	FileName string `json:"file_name"`
 }
+//Attributes
 type Attributes struct {
 	Language          string         `json:"language"`
 	DownloadCount     int            `json:"download_count"`
@@ -59,6 +65,7 @@ type Attributes struct {
 	Files             []Files        `json:"files"`
 	SubtitleID        string         `json:"subtitle_id"`
 }
+//Data
 type Data struct {
 	ID         string     `json:"id"`
 	Type       string     `json:"type"`
@@ -76,6 +83,7 @@ type SubtitlesOptions struct {
 type Shows struct {
 	Data []Show `json:"data"`
 }
+//SubtitlesCounts return the subtitle count by language
 type SubtitlesCounts struct {
 	Pl   int `json:"pl"`
 	En   int `json:"en"`
@@ -124,6 +132,7 @@ type SubtitlesCounts struct {
 	Mn   int `json:"mn"`
 	Vi   int `json:"vi"`
 }
+//ShowAttributes represent the default show attributes
 type ShowAttributes struct {
 	Title           string          `json:"title"`
 	OriginalTitle   string          `json:"original_title"`
@@ -136,6 +145,7 @@ type ShowAttributes struct {
 	URL             string          `json:"url"`
 	ImgURL          string          `json:"img_url"`
 }
+//Show represent a movie or a tv show
 type Show struct {
 	ID         string         `json:"id"`
 	Type       string         `json:"type"`
