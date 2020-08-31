@@ -115,6 +115,7 @@ func NewClient(httpClient *http.Client, token string, cred Credentials) (c *Clie
 
 	return
 }
+
 //Connect return a new Client with a working token by making the authentication
 //with the Authentication Login function.
 func (c *Client) Connect() (*Client, error) {

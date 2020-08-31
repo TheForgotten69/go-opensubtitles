@@ -4,12 +4,14 @@ import (
 	"context"
 	"net/http"
 )
+
 // InfoService provides access to the info related functions
 // in the OpenSubtitles API.
 //
 // OpenSubtitles API docs: https://www.opensubtitles.com/docs/api/html/index.htm#infos
 type InfoService service
 
+//UserData represent all the information of a User
 type UserData struct {
 	Jti                string `json:"jti"`
 	AllowedDownloads   int    `json:"allowed_downloads"`
@@ -20,9 +22,12 @@ type UserData struct {
 	RemainingDownloads int    `json:"remaining_downloads"`
 }
 
+//Languages contains all the LanguagesData
 type Languages struct {
 	Data []LanguagesData `json:"data"`
 }
+
+//LanguagesData associates a code to a name
 type LanguagesData struct {
 	LanguageCode string `json:"language_code"`
 	LanguageName string `json:"language_name"`
