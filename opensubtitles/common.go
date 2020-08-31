@@ -2,20 +2,20 @@ package opensubtitles
 
 import "time"
 
-//Subtitles
+//Subtitles is all the subtitles for a given file/show
 type Subtitles struct {
 	TotalPages int    `json:"total_pages"`
 	TotalCount int    `json:"total_count"`
 	Page       int    `json:"page"`
 	Data       []Data `json:"data"`
 }
-//Uploader
+//Uploader returns basic information about the uploader
 type Uploader struct {
 	ID   int    `json:"id"`
 	Name string `json:"name"`
 	Rank string `json:"rank"`
 }
-//FeatureDetails
+//FeatureDetails provides the IMDB and TMDB ID among other basic description details
 type FeatureDetails struct {
 	FeatureID   int    `json:"feature_id"`
 	FeatureType string `json:"feature_type"`
@@ -25,19 +25,19 @@ type FeatureDetails struct {
 	ImdbID      int    `json:"imdb_id"`
 	TmdbID      int    `json:"tmdb_id"`
 }
-//RelatedLinks
+//RelatedLinks is not documented currently
 type RelatedLinks struct {
 	Label  string `json:"label"`
 	URL    string `json:"url"`
 	ImgURL string `json:"img_url"`
 }
-//Files
+//Files is not documented currently
 type Files struct {
 	ID       int    `json:"id"`
 	CdNumber int    `json:"cd_number"`
 	FileName string `json:"file_name"`
 }
-//Attributes
+//Attributes for a given Subtitle
 type Attributes struct {
 	Language          string         `json:"language"`
 	DownloadCount     int            `json:"download_count"`
