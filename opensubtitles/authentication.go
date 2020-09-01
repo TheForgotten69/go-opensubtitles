@@ -12,6 +12,7 @@ import (
 // OpenSubtitles API docs: https://www.opensubtitles.com/docs/api/html/index.htm#authentication
 type AuthenticationService service
 
+//LoggedIn is return when the AuthenticationService.Login is returned with a success
 type LoggedIn struct {
 	User   UserData `json:"user"`
 	Token  string   `json:"token"`

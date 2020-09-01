@@ -65,7 +65,7 @@ type Attributes struct {
 	Files             []Files        `json:"files"`
 	SubtitleID        string         `json:"subtitle_id"`
 }
-//Data
+//Data is not documented currently
 type Data struct {
 	ID         string     `json:"id"`
 	Type       string     `json:"type"`

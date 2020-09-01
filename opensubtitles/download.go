@@ -10,6 +10,7 @@ import (
 // OpenSubtitles API docs: https://www.opensubtitles.com/docs/api/html/index.htm#download
 type DownloadService service
 
+//DownloadOptions contains the parameters for the DownloadService.Download
 type DownloadOptions struct {
 	//ID of the file to download
 	FileID int `url:"file_id,omitempty"`
@@ -31,7 +32,7 @@ type DownloadOptions struct {
 	Timeshift string `url:"timeshift,omitempty"`
 }
 
-//Download struct that return a given subtitle
+//Download is the return of DownloadService.Download
 type Download struct {
 	Link      string `json:"link"`
 	Fname     string `json:"fname"`
