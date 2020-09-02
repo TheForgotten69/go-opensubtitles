@@ -4,6 +4,9 @@ import (
 	"testing"
 )
 
+const DiscoverServiceMostDownloadedTestData = ``
+
+
 func TestDiscoverService_MostDownloaded(t *testing.T) {
 	//TODO:
 }
