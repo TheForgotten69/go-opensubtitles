@@ -172,6 +172,24 @@ func (c *Client) NewRequest(method, urlStr string, body string) (*http.Request, 
 	return req, nil
 }
 
+// CheckResponse checks the API response for errors, and returns them if
+// present. A response is considered an error if it has a status code outside
+// the 200 range or equal to 202 Accepted.
+// API error responses are expected to have either no response
+// body, or a JSON response body that maps to ErrorResponse. Any other
+// response body will be silently ignored.
+func CheckResponse(r *http.Response, b []byte) error {
+	errorResponse := &ErrorResponse{Response: r}
+	if b != nil {
+		json.Unmarshal(b, errorResponse)
+	}
+	if errorResponse.Errors != nil {
+		return errorResponse
+	}
+	return nil
+
+}
+
 // Do sends an API request and returns the API response. The API response is
 // JSON decoded and stored in the value pointed to by v, or returned as an
 // error if an API error has occurred. If v implements the io.Writer
@@ -225,9 +243,9 @@ func (c *Client) Do(ctx context.Context, req *http.Request, v interface{}) (*htt
 		return nil, err
 	}*/
 
-	c.rateMu.Lock()
-	//c.rateLimits[rateLimitCategory] = response.Rate
-	c.rateMu.Unlock()
+	/*c.rateMu.Lock()
+	c.rateLimits[rateLimitCategory] = response.Rate
+	c.rateMu.Unlock()*/
 	//TODO: Check response
 	//err = CheckResponse(resp, b)
 
