@@ -74,7 +74,7 @@ func (s *FindService) Feature(ctx context.Context, opt *FeatureOptions) (feature
 	return
 }
 
-//FeatureOptions provide the parameters for FindService.Find
+//FindOptions provide the parameters for FindService.Find
 type FindOptions struct {
 	//Feature ID of the feature
 	ID string `url:"id,omitempty"`
@@ -119,7 +119,6 @@ func (s *FindService) Find(ctx context.Context, opt *FindOptions) (feature *Feat
 	if err != nil {
 		return nil, nil, err
 	}
-	//TODO
 	resp, err = s.client.Do(ctx, req, &feature)
 	if err != nil {
 		return nil, resp, err

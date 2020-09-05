@@ -35,15 +35,14 @@ type LanguagesData struct {
 
 //Languages get the languages used on opensubtitles and their codes
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#get-the-languages-table
-func (s *InfoService) Languages(ctx context.Context) (*Languages, *http.Response, error) {
+func (s *InfoService) Languages(ctx context.Context) (languages *Languages, resp *http.Response, err error) {
 	u := "/api/v1/infos/languages"
 	req, err := s.client.NewRequest("GET", u, "")
 	if err != nil {
 		return nil, nil, err
 	}
 
-	var languages *Languages
-	resp, err := s.client.Do(ctx, req, &languages)
+	resp, err = s.client.Do(ctx, req, &languages)
 	if err != nil {
 		return nil, resp, err
 	}
@@ -59,15 +58,14 @@ type FormatsData struct {
 
 //Formats return a list of subtitles formats that can be processed by our system
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#list-subtitle-formats
-func (s *InfoService) Formats(ctx context.Context) (*Formats, *http.Response, error) {
+func (s *InfoService) Formats(ctx context.Context) (formats *Formats, resp *http.Response, err error) {
 	u := "/api/v1/infos/formats"
 	req, err := s.client.NewRequest("GET", u, "")
 	if err != nil {
 		return nil, nil, err
 	}
 
-	var formats *Formats
-	resp, err := s.client.Do(ctx, req, &formats)
+	resp, err = s.client.Do(ctx, req, &formats)
 	if err != nil {
 		return nil, resp, err
 	}
@@ -80,15 +78,14 @@ type User struct {
 
 //User get user ID, level, total and remaining download quota
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#get-user-data
-func (s *InfoService) User(ctx context.Context) (*User, *http.Response, error) {
+func (s *InfoService) User(ctx context.Context) (user *User, resp *http.Response, err error) {
 	u := "/api/v1/infos/user"
 	req, err := s.client.NewRequest("GET", u, "")
 	if err != nil {
 		return nil, nil, err
 	}
 
-	var user *User
-	resp, err := s.client.Do(ctx, req, &user)
+	resp, err = s.client.Do(ctx, req, &user)
 	if err != nil {
 		return nil, resp, err
 	}
