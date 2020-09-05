@@ -4,6 +4,7 @@ import (
 	"context"
 	"net/http"
 )
+
 // DownloadService provides access to the download related functions
 // in the OpenSubtitles API.
 //

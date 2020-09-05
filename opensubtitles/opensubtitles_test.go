@@ -2,9 +2,11 @@ package opensubtitles
 
 import (
 	"context"
+	"io/ioutil"
 	"net/http"
 	"net/http/httptest"
 	"net/url"
+	"os"
 	"reflect"
 	"testing"
 )
@@ -43,4 +45,18 @@ func testFormValues(t *testing.T, r *http.Request, values values) {
 	if got := r.Form; !reflect.DeepEqual(got, want) {
 		t.Errorf("Request parameters: %v, want %v", got, want)
 	}
+}
+func readFileContents(path string) (string, error) {
+	file, err := os.Open(path)
+	if err != nil {
+		return "", err
+	}
+	defer file.Close()
+
+	bytes, err := ioutil.ReadAll(file)
+	if err != nil {
+		return "", err
+	}
+
+	return string(bytes), err
 }

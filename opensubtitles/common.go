@@ -9,12 +9,14 @@ type Subtitles struct {
 	Page       int    `json:"page"`
 	Data       []Data `json:"data"`
 }
+
 //Uploader returns basic information about the uploader
 type Uploader struct {
 	ID   int    `json:"id"`
 	Name string `json:"name"`
 	Rank string `json:"rank"`
 }
+
 //FeatureDetails provides the IMDB and TMDB ID among other basic description details
 type FeatureDetails struct {
 	FeatureID   int    `json:"feature_id"`
@@ -25,18 +27,21 @@ type FeatureDetails struct {
 	ImdbID      int    `json:"imdb_id"`
 	TmdbID      int    `json:"tmdb_id"`
 }
+
 //RelatedLinks is not documented currently
 type RelatedLinks struct {
 	Label  string `json:"label"`
 	URL    string `json:"url"`
 	ImgURL string `json:"img_url"`
 }
+
 //Files is not documented currently
 type Files struct {
 	ID       int    `json:"id"`
 	CdNumber int    `json:"cd_number"`
 	FileName string `json:"file_name"`
 }
+
 //Attributes for a given Subtitle
 type Attributes struct {
 	Language          string         `json:"language"`
@@ -65,12 +70,14 @@ type Attributes struct {
 	Files             []Files        `json:"files"`
 	SubtitleID        string         `json:"subtitle_id"`
 }
+
 //Data is not documented currently
 type Data struct {
 	ID         string     `json:"id"`
 	Type       string     `json:"type"`
 	Attributes Attributes `json:"attributes"`
 }
+
 //SubtitlesOptions is used for the discover API
 type SubtitlesOptions struct {
 	//All, or language code
@@ -83,6 +90,7 @@ type SubtitlesOptions struct {
 type Shows struct {
 	Data []Show `json:"data"`
 }
+
 //SubtitlesCounts return the subtitle count by language
 type SubtitlesCounts struct {
 	Pl   int `json:"pl"`
@@ -132,6 +140,7 @@ type SubtitlesCounts struct {
 	Mn   int `json:"mn"`
 	Vi   int `json:"vi"`
 }
+
 //ShowAttributes represent the default show attributes
 type ShowAttributes struct {
 	Title           string          `json:"title"`
@@ -145,6 +154,7 @@ type ShowAttributes struct {
 	URL             string          `json:"url"`
 	ImgURL          string          `json:"img_url"`
 }
+
 //Show represent a movie or a tv show
 type Show struct {
 	ID         string         `json:"id"`

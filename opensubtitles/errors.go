@@ -7,8 +7,8 @@ import (
 
 type ErrorResponse struct {
 	Response *http.Response
-	Errors []string `json:"errors"`
-	Status int      `json:"status"`
+	Errors   []string `json:"errors"`
+	Status   int      `json:"status"`
 }
 
 func (e *ErrorResponse) Error() string {

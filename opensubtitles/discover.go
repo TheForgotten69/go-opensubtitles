@@ -34,7 +34,7 @@ func (s *DiscoverService) MostDownloaded(ctx context.Context, opt *SubtitlesOpti
 //Popular list movies with most subtitles downloads
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#find-most-downloaded-movie-subtitles
 func (s *DiscoverService) Popular(ctx context.Context, opt *SubtitlesOptions) (*Data, *http.Response, error) {
-	u := "/api/v1/discover/most_downloaded"
+	u := "/api/v1/discover/popular"
 	u, err := addOptions(u, opt)
 	if err != nil {
 		return nil, nil, nil
