@@ -130,10 +130,8 @@ func (c *Client) Connect() (*Client, error) {
 			} else {
 				return nil, errors.New("Wrong Username/Password")
 			}
-
 		}
 	}
-
 	return c, nil
 }
 
@@ -187,7 +185,6 @@ func CheckResponse(r *http.Response, b []byte) error {
 		return errorResponse
 	}
 	return nil
-
 }
 
 // Do sends an API request and returns the API response. The API response is
