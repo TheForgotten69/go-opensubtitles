@@ -11,6 +11,7 @@ import (
 // OpenSubtitles API docs: https://www.opensubtitles.com/docs/api/html/index.htm#find
 type FindService service
 
+//FeatureOptions provide the parameters for FindService.Feature
 type FeatureOptions struct {
 	//Feature ID of the feature
 	ID string `url:"id,omitempty"`
@@ -20,10 +21,12 @@ type FeatureOptions struct {
 	TmdbID string `url:"tmdb_id,omitempty"`
 }
 
+//Feature contains the details returned by FindService.Feature
 type Feature struct {
 	Data []FeatureData `json:"data"`
 }
 
+//AttributesFeature is the detail for a given movie or tv contains in FeatureData
 type AttributesFeature struct {
 	Title           string          `json:"title"`
 	OriginalTitle   string          `json:"original_title"`
@@ -44,13 +47,15 @@ type AttributesFeature struct {
 	ImgURL          string          `json:"img_url"`
 	Seasons         []interface{}   `json:"seasons"`
 }
+
+//FeatureData contains the detail for only a given ID, be it a tv or show
 type FeatureData struct {
 	ID         string            `json:"id"`
 	Type       string            `json:"type"`
 	Attributes AttributesFeature `json:"attributes"`
 }
 
-//Find details for a movie or tv serie specified by an ID.
+//Feature find details for a movie or tv serie specified by an ID.
 //OpenSubtitles API docs : https://www.opensubtitles.com/docs/api/html/index.htm#find-details-for-a-feature
 func (s *FindService) Feature(ctx context.Context, opt *FeatureOptions) (feature *Feature, resp *http.Response, err error) {
 	u := "/api/v1/find/feature"
@@ -69,6 +74,7 @@ func (s *FindService) Feature(ctx context.Context, opt *FeatureOptions) (feature
 	return
 }
 
+//FeatureOptions provide the parameters for FindService.Find
 type FindOptions struct {
 	//Feature ID of the feature
 	ID string `url:"id,omitempty"`

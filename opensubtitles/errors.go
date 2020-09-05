@@ -5,6 +5,7 @@ import (
 	"net/http"
 )
 
+//ErrorResponse contains the http response, the list of Errors and the status
 type ErrorResponse struct {
 	Response *http.Response
 	Errors   []string `json:"errors"`
