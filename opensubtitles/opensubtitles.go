@@ -183,7 +183,7 @@ func CheckResponse(r *http.Response, b []byte) error {
 	if b != nil {
 		json.Unmarshal(b, errorResponse)
 	}
-	if errorResponse.Errors != nil {
+	if errorResponse.Errors != nil || r.StatusCode != http.StatusOK {
 		return errorResponse
 	}
 	return nil
