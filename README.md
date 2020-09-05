@@ -3,7 +3,7 @@
 
 go-opensubtitles is a Go library for accessing the [OpenSubtitles API](https://www.opensubtitles.com/docs/api/html/index.htm).
 
-## Install
+## Install ##
 
 To get a specific version from the list of [versions](https://github.com/TheForgotten69/go-opensubtitles/releases):
 
@@ -17,19 +17,18 @@ Or for the latest version:
 go get github.com/TheForgotten69/go-opensubtitles
 ```
 
-### Authentication ###
+## Usage ##
+Make sure to have a working account on [Opensubtitles](https://www.opensubtitles.com/) else you will never have a working token.
 
-The go-github library does not directly handle authentication. Instead, when
-creating a new client, pass an `http.Client` that can handle authentication for
-you. The easiest and recommended way to do this is using the [oauth2][]
-library, but you can always use any other library that provides an
-`http.Client`. If you have an OAuth2 access token (for example, a [personal
-API token][]), you can use it with the oauth2 library using:
+## Examples ##
+More examples are available in the [examples](examples) folder.
 
+## Design ##
+The package design is heavily inspired by [Google go-github](https://github.com/google/go-github).
 
-## TODO
- 
+## Roadmap ##
+ - Rate limit
 
-## Ressources
+## Resources ##
 - [Open Subtitles API](https://www.opensubtitles.com/docs/api/html/index.htm)
-- https://forum.opensubtitles.org/viewtopic.php?f=8&t=17146
+- [Open Subtitles Forum](https://forum.opensubtitles.org/viewtopic.php?f=8&t=17146)
