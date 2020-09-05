@@ -1,11 +1,13 @@
 package opensubtitles
 
 import (
+	"bytes"
 	"context"
 	"encoding/json"
 	"errors"
 	"github.com/google/go-querystring/query"
 	"io"
+	"io/ioutil"
 	"net/http"
 	"net/url"
 	"reflect"
@@ -196,7 +198,7 @@ func CheckResponse(r *http.Response, b []byte) error {
 //
 // The provided ctx must be non-nil, if it is nil an error is returned. If it is canceled or times out,
 // ctx.Err() will be returned.
-func (c *Client) Do(ctx context.Context, req *http.Request, v interface{}) (*http.Response, error) {
+func (c *Client) Do(ctx context.Context, req *http.Request, v interface{}) (resp *http.Response, err error) {
 	if ctx == nil {
 		return nil, errors.New("context must be non-nil")
 	}
@@ -212,7 +214,7 @@ func (c *Client) Do(ctx context.Context, req *http.Request, v interface{}) (*htt
 		}, err
 	}*/
 
-	resp, err := c.client.Do(req)
+	resp, err = c.client.Do(req)
 	if err != nil {
 		// If we got an error, and the context has been canceled,
 		// the context's error is probably more useful.
@@ -235,22 +237,22 @@ func (c *Client) Do(ctx context.Context, req *http.Request, v interface{}) (*htt
 
 	defer resp.Body.Close()
 
-	/*b, err := ioutil.ReadAll(resp.Body)
+	b, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
-	}*/
+	}
 
 	/*c.rateMu.Lock()
 	c.rateLimits[rateLimitCategory] = response.Rate
 	c.rateMu.Unlock()*/
 	//TODO: Check response
-	//err = CheckResponse(resp, b)
+	err = CheckResponse(resp, b)
 
 	if v != nil {
 		if w, ok := v.(io.Writer); ok {
-			io.Copy(w, resp.Body)
+			io.Copy(w, bytes.NewReader(b))
 		} else {
-			decErr := json.NewDecoder(resp.Body).Decode(v)
+			decErr := json.NewDecoder(bytes.NewReader(b)).Decode(v)
 			if decErr == io.EOF {
 				decErr = nil // ignore EOF errors caused by empty response body
 			}
