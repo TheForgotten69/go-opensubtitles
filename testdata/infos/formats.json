@@ -1,0 +1,12 @@
+{
+  "data": {
+    "output_formats": [
+      "srt",
+      "sub",
+      "mpl",
+      "webvtt",
+      "dfxp",
+      "txt"
+    ]
+  }
+}
