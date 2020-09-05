@@ -49,9 +49,12 @@ func (s *InfoService) Languages(ctx context.Context) (languages *Languages, resp
 	return languages, resp, nil
 }
 
+//Formats contains the list of all available formats
 type Formats struct {
 	Data FormatsData `json:"data"`
 }
+
+//FormatsData is contain in the Formats struct
 type FormatsData struct {
 	OutputFormats []string `json:"output_formats"`
 }
@@ -72,6 +75,7 @@ func (s *InfoService) Formats(ctx context.Context) (formats *Formats, resp *http
 	return formats, resp, nil
 }
 
+// User is return by InfoService.User
 type User struct {
 	Data Data `json:"data"`
 }
