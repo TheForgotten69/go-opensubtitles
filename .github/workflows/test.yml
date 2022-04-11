@@ -18,7 +18,7 @@ jobs:
           go get -u golang.org/x/lint/golint
           make test-coverage
       - name: Upload test coverage report
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: test_coverage_report
           path: coverage.html
