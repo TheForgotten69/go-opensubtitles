@@ -1,0 +1,3247 @@
+{
+  "total_pages": 1,
+  "total_count": 60,
+  "page": 1,
+  "data": [
+    {
+      "id": "7650202",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650202",
+        "language": "el",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T11:02:11Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "memory-2023-1080p-webrip-x264-aac5-1-yts-mx-calamity-jane",
+        "comments": "",
+        "legacy_subtitle_id": 9928090,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 1778665,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Memory",
+          "movie_name": "2023 - Memory",
+          "imdb_id": 19864828,
+          "tmdb_id": 979097
+        },
+        "url": "https://www.opensubtitles.com/el/subtitles/legacy/9928090",
+        "related_links": [
+          {
+            "label": "All subtitles for memory",
+            "url": "https://www.opensubtitles.com/el/movies/2023-memory",
+            "img_url": "https://s9.opensubtitles.com/features/5/6/6/1778665.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575962,
+            "cd_number": 1,
+            "file_name": "memory-2023-1080p-webrip-x264-aac5-1-yts-mx-calamity-jane"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650200",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650200",
+        "language": "uk",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": false,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T10:57:13Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "3 Ninjas Knuckle Up (1995)",
+        "comments": "from Netflix",
+        "legacy_subtitle_id": 9928089,
+        "legacy_uploader_id": 9455221,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 516175,
+          "feature_type": "Movie",
+          "year": 1995,
+          "title": "3 Ninjas Knuckle Up",
+          "movie_name": "1995 - 3 Ninjas Knuckle Up",
+          "imdb_id": 112255,
+          "tmdb_id": 40508
+        },
+        "url": "https://www.opensubtitles.com/uk/subtitles/legacy/9928089",
+        "related_links": [
+          {
+            "label": "All subtitles for 3 ninjas knuckle up",
+            "url": "https://www.opensubtitles.com/uk/movies/1995-3-ninjas-knuckle-up",
+            "img_url": "https://s9.opensubtitles.com/features/5/7/1/516175.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575960,
+            "cd_number": 1,
+            "file_name": "3 Ninjas Knuckle Up (1995) (Netflix)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650189",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650189",
+        "language": "tr",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T10:49:42Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Jeanne.Du.Barry.2023.720p.BluRay.x264.AAC-[YTS.MX]",
+        "comments": "",
+        "legacy_subtitle_id": 9928086,
+        "legacy_uploader_id": 9625855,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1500520,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Jeanne du Barry",
+          "movie_name": "2023 - Jeanne du Barry",
+          "imdb_id": 17277414,
+          "tmdb_id": 921452
+        },
+        "url": "https://www.opensubtitles.com/tr/subtitles/legacy/9928086",
+        "related_links": [
+          {
+            "label": "All subtitles for jeanne du barry",
+            "url": "https://www.opensubtitles.com/tr/movies/2023-jeanne-du-barry",
+            "img_url": "https://s9.opensubtitles.com/features/0/2/5/1500520.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575950,
+            "cd_number": 1,
+            "file_name": "Jeanne.Du.Barry.2023.720p.BluRay.x264.AAC-[YTS.MX]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650190",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650190",
+        "language": "sv",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T10:42:57Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Perfect.Days.2023.2160p.WEB.H265-PancakeBreakfastPizzaLunchSteakDinner",
+        "comments": "",
+        "legacy_subtitle_id": 9928084,
+        "legacy_uploader_id": 2683191,
+        "uploader": {
+          "uploader_id": 69757,
+          "name": "godeman",
+          "rank": "Bronze Member"
+        },
+        "feature_details": {
+          "feature_id": 1769926,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Perfect Days",
+          "movie_name": "2023 - Perfect Days",
+          "imdb_id": 27503384,
+          "tmdb_id": 976893
+        },
+        "url": "https://www.opensubtitles.com/sv/subtitles/legacy/9928084",
+        "related_links": [
+          {
+            "label": "All subtitles for perfect days",
+            "url": "https://www.opensubtitles.com/sv/movies/2023-perfect-days",
+            "img_url": "https://s9.opensubtitles.com/features/6/2/9/1769926.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575951,
+            "cd_number": 1,
+            "file_name": "Perfect.Days.2023.1080p.WEB.H264-PancakeBreakfastPizzaLunchSteakDinner.swe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650183",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650183",
+        "language": "nl",
+        "download_count": 10,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T10:22:15Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Aurora.Teagarden.Mysteries.An.Inheritance.to.Die.For.2019.1080p.WEBRip.x264-RARBG.mp4",
+        "comments": "",
+        "legacy_subtitle_id": 9928080,
+        "legacy_uploader_id": 3159166,
+        "uploader": {
+          "uploader_id": 71529,
+          "name": "doglover3920",
+          "rank": "Platinum Member"
+        },
+        "feature_details": {
+          "feature_id": 1299913,
+          "feature_type": "Movie",
+          "year": 2019,
+          "title": "Aurora Teagarden Mysteries: An Inheritance to Die For",
+          "movie_name": "2019 - Aurora Teagarden Mysteries: An Inheritance to Die For",
+          "imdb_id": 9703326,
+          "tmdb_id": 590121
+        },
+        "url": "https://www.opensubtitles.com/nl/subtitles/legacy/9928080",
+        "related_links": [
+          {
+            "label": "All subtitles for aurora teagarden mysteries: an inheritance to die for",
+            "url": "https://www.opensubtitles.com/nl/movies/2019-aurora-teagarden-mysteries-aurora-teagarden-mysteries-an-inheritance-to-die-for",
+            "img_url": "https://s9.opensubtitles.com/features/3/1/9/1299913.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575944,
+            "cd_number": 1,
+            "file_name": "Aurora.Teagarden.Mysteries.An.Inheritance.to.Die.For.2019.1080p.WEBRip.x264-RARBG.dut"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650180",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650180",
+        "language": "fr",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": false,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T10:15:20Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Viy",
+        "comments": "Le thème principal de l'histoire de Mykola Hohol est l'orientation sexuelle des femmes lorsqu'elles entrent dans la puberté. Selon les croyances anciennes, cet âge se situe entre 10 et 18 ans, car les peuples anciens se mariaient souvent très tôt par rapport aux hommes modernes. Par exemple, au Viêtnam avant le XXe siècle, avoir 20 ans sans être marié pouvait être considéré comme vieux.\r\n\r\nDans cette histoire, le démon Viy est en fait une version de Veles, le dieu du sexe dans la culture païenne d'Europe de l'Est. Ici, le harcèlement du séminariste Khoma par le cadavre est une manifestation du comportement rebelle des adolescents. Il s'agit d'un sujet d'un grand intérêt pour la période de la littérature existentielle, c’est-à-dire le milieu du XXe siècle.\r\n\r\nJe citerai une autre histoire de la fin du XVIIIe siècle chez les Viêtnamiens : «Le fantôme de la terrible mère» (桑滄偶錄·乾剎鬼母, Tang thương ngẫu lục - Mẹ ranh càn sát).\r\n\r\nDans le district rural de Từ-Liêm (aujourd'hui district urbain du Nord Từ-Liêm, Hanoï), vivait un orphelin qui demandait chaque nuit à son jeune oncle la permission d'aller dormir chez ses grands-parents maternels. Cependant, le plus jeune oncle a découvert par hasard qu'il n'était pas allé chez ses grands-parents maternels depuis longtemps.\r\n\r\nUne fois, l'oncle suivit secrètement l'orphelin et vit son neveu entrer dans la tombe du village. Il y avait une femme avec des seins d'un mètre de long qui tenait le garçon pour l'allaiter, et il y avait quelques autres enfants autour.\r\n\r\nQuand l'orphelin a voulu aller avec cette mère, elle lui a dit : La sécheresse était encore dans quelques années, et en attendant, le garçon doit absolument rester à l'écart de la viande de carpe et de tortue molle.\r\n\r\nIci, la «sécheresse» (hạn) est une catégorie de la philosophie Est-asiatique, très proche du concept chrétien de «dette» (nợ). Les Asiatiques croient que les gens vivent dans ce monde pour rembourser une dette d'une vie antérieure, ils ne se détendent donc que lorsqu'ils ont payé cette dette. Ainsi, cette femme a un rôle très similaire à celui de Viy. Elle séduit les enfants par son instinct maternel pour qu'elle puisse mourir en paix. Autrement dit : Ces enfants doivent mourir s'ils la suivent, en même temps, cette femme semble pitoyable car elle a dû mourir avant de pouvoir se marier ou avoir des enfants.\r\n\r\nPourquoi je dis ça ? Les carpes et les tortues molles sont des animaux très communs dans les rivières Viêtnamiennes et sont souvent considérées comme les aliments de choix pour les femmes enceintes. Leur odeur est très louche lorsqu'elle n'est pas transformée, c'est pourquoi les hormones féminines ne la supportent souvent pas. Par conséquent, la femme de l'histoire n'a définitivement pas eu la chance de se marier.",
+        "legacy_subtitle_id": 9928078,
+        "legacy_uploader_id": 9931963,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1369587,
+          "feature_type": "Movie",
+          "year": 1996,
+          "title": "Viy",
+          "movie_name": "1996 - Viy",
+          "imdb_id": 4130062,
+          "tmdb_id": 130944
+        },
+        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/9928078",
+        "related_links": [
+          {
+            "label": "All subtitles for viy",
+            "url": "https://www.opensubtitles.com/fr/movies/1996-viy",
+            "img_url": "https://s9.opensubtitles.com/features/7/8/5/1369587.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575941,
+            "cd_number": 1,
+            "file_name": "Viy.1996.FR"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650199",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650199",
+        "language": "fr",
+        "download_count": 0,
+        "new_download_count": 20,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 25,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T10:10:37Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "L.Etat.Sauvage.2019.FRENCH.1080p.WEB.H264-NLX5",
+        "comments": "HI Removed | Full subtitles (ENGLiSH + FRENCH parts) | Works with all HDRip/WEBRip/WEB-DL versions | Not to be used by RARBG & TurkceAltyazi thieves =) -- Please don't reupload on OpenSubtitles and give credit where it's due. Thanks!",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 117966,
+          "name": "explosiveskull",
+          "rank": "Trusted member"
+        },
+        "feature_details": {
+          "feature_id": 1198245,
+          "feature_type": "Movie",
+          "year": 2019,
+          "title": "Savage State",
+          "movie_name": "2019 - Savage State",
+          "imdb_id": 8770976,
+          "tmdb_id": 582919
+        },
+        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for savage state",
+            "url": "https://www.opensubtitles.com/fr/movies/2019-l-etat-sauvage",
+            "img_url": "https://s9.opensubtitles.com/features/5/4/2/1198245.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575959,
+            "cd_number": 1,
+            "file_name": "L.Etat.Sauvage.2019.FRENCH.WEBRip.x264-NLX5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650198",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650198",
+        "language": "bg",
+        "download_count": 0,
+        "new_download_count": 19,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 25,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T10:10:30Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "L.Etat.Sauvage.2019.FRENCH.1080p.WEB.H264-NLX5",
+        "comments": "HI Removed | Full subtitles (ENGLiSH + FRENCH parts) | Works with all HDRip/WEBRip/WEB-DL versions | Not to be used by RARBG & TurkceAltyazi thieves =) -- Please don't reupload on OpenSubtitles and give credit where it's due. Thanks!",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 117966,
+          "name": "explosiveskull",
+          "rank": "Trusted member"
+        },
+        "feature_details": {
+          "feature_id": 1198245,
+          "feature_type": "Movie",
+          "year": 2019,
+          "title": "Savage State",
+          "movie_name": "2019 - Savage State",
+          "imdb_id": 8770976,
+          "tmdb_id": 582919
+        },
+        "url": "https://www.opensubtitles.com/bg/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for savage state",
+            "url": "https://www.opensubtitles.com/bg/movies/2019-l-etat-sauvage",
+            "img_url": "https://s9.opensubtitles.com/features/5/4/2/1198245.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575958,
+            "cd_number": 1,
+            "file_name": "L.Etat.Sauvage.2019.FRENCH.WEBRip.x264-NLX5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650195",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650195",
+        "language": "it",
+        "download_count": 0,
+        "new_download_count": 9,
+        "hearing_impaired": false,
+        "hd": false,
+        "fps": 25,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T10:08:28Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "webrip HMax",
+        "comments": "official sub",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 78811,
+          "name": "mienczyslaw",
+          "rank": "Platinum Member"
+        },
+        "feature_details": {
+          "feature_id": 1779463,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "The Shadowless Tower",
+          "movie_name": "2023 - The Shadowless Tower",
+          "imdb_id": 26441793,
+          "tmdb_id": 1075840
+        },
+        "url": "https://www.opensubtitles.com/it/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for the shadowless tower",
+            "url": "https://www.opensubtitles.com/it/movies/2023-the-shadowless-tower",
+            "img_url": "https://s9.opensubtitles.com/features/3/6/4/1779463.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575956,
+            "cd_number": 1,
+            "file_name": "The Shadowless Tower.eng"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650194",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650194",
+        "language": "fr",
+        "download_count": 0,
+        "new_download_count": 11,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 24,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T10:07:31Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Savage.State.2019.FRENCH.1080p.WEB-DL.DD5.1.H.264-FGT",
+        "comments": "",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 1198245,
+          "feature_type": "Movie",
+          "year": 2019,
+          "title": "Savage State",
+          "movie_name": "2019 - Savage State",
+          "imdb_id": 8770976,
+          "tmdb_id": 582919
+        },
+        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for savage state",
+            "url": "https://www.opensubtitles.com/fr/movies/2019-l-etat-sauvage",
+            "img_url": "https://s9.opensubtitles.com/features/5/4/2/1198245.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575955,
+            "cd_number": 1,
+            "file_name": "Savage.State.2019.FRENCH.1080p.WEB-DL.DD5.1.H.264-FGT"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650192",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650192",
+        "language": "fr",
+        "download_count": 0,
+        "new_download_count": 5,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 25,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T10:01:18Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Stranger.In.My.Own.Skin.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX]",
+        "comments": "",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780871,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Stranger in My Own Skin",
+          "movie_name": "2023 - Stranger in My Own Skin",
+          "imdb_id": 16311390,
+          "tmdb_id": 958163
+        },
+        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for stranger in my own skin",
+            "url": "https://www.opensubtitles.com/fr/movies/2023-stranger-in-my-own-skin",
+            "img_url": "https://s9.opensubtitles.com/features/1/7/8/1780871.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575953,
+            "cd_number": 1,
+            "file_name": "Stranger.In.My.Own.Skin.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650191",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650191",
+        "language": "fr",
+        "download_count": 0,
+        "new_download_count": 496,
+        "hearing_impaired": true,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:56:43Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Dive.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264",
+        "comments": "Hi:WebRip/WebDl|| Duration: 01:31:05\r\nThe.Dive.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX\r\nT D 2023 1080p Webrip X264 Aac5 1 YTS MX\r\nThe.Dive.2023.1080p.WEB-DL.DDP5.1.X264-AOC\r\nThe.Dive.2023.720p.WEBRip.X264.AAC-LAMA",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1496165,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "The Dive",
+          "movie_name": "2023 - The Dive",
+          "imdb_id": 13566172,
+          "tmdb_id": 1109534
+        },
+        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for the dive",
+            "url": "https://www.opensubtitles.com/fr/movies/2023-the-dive",
+            "img_url": "https://s9.opensubtitles.com/features/5/6/1/1496165.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575952,
+            "cd_number": 1,
+            "file_name": "The.Dive.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264 (SDH)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650135",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650135",
+        "language": "fi",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:54:50Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "[Arid] Night is Short, Walk on Girl [Dual-Audio][BDRip 1920x1080 HEVC FLAC AC-3]",
+        "comments": "Käännetty käyttäen sekä japaninkielistä alkuperäistä audiota että englanninkielistä, suosien alkuperäistä ajastuksissa. Jos siis teksteissä lukee jotain, mitä ei ääniraidalla kuulu, johtunee se tästä.\r\n\r\nVauhdikas leffa kaikin puolin, suosittelen.",
+        "legacy_subtitle_id": 9928071,
+        "legacy_uploader_id": 9444631,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 623518,
+          "feature_type": "Movie",
+          "year": 2017,
+          "title": "Night is Short, Walk on Girl",
+          "movie_name": "2017 - Night is Short, Walk on Girl",
+          "imdb_id": 6335734,
+          "tmdb_id": 430214
+        },
+        "url": "https://www.opensubtitles.com/fi/subtitles/legacy/9928071",
+        "related_links": [
+          {
+            "label": "All subtitles for night is short, walk on girl",
+            "url": "https://www.opensubtitles.com/fi/movies/2017-night-is-short-walk-on-girl",
+            "img_url": "https://s9.opensubtitles.com/features/8/1/5/623518.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575896,
+            "cd_number": 1,
+            "file_name": "[Arid] Night Is Short_ Walk on Girl [26295AB0]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650148",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650148",
+        "language": "ru",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": false,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:54:22Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Храбрец-удалец",
+        "comments": "Это добрая поучительная русская сказка режиссёра Романа Давыдова, в создании которой принимал участие известный актер Владимир Басов. Ехал как-то по лесу голубоглазый веселый парень по прозвищу Синяя свита наизнанку сшита да повстречал на тропинке красну девицу Марью. Влюбился он в нее с первого взгляда и тут же решил сватов заслать к ней. Да только девушка непростая оказалась, дочь колдуна, не всяк осмелится засватать. Но и парень вышел не робкого десятка. Пришел удалец поутру к отцу-колдуну Марьиному и попросил руки ее. Колдун встретил его настороженно. Отказом не огорчил сразу, но условие поставил суровое - если спрячется парень до вечера так, чтоб его колдун не нашел, тогда быть ему зятем. А коль сыщет - то превратит в топор или какой другой полезный предмет. Делать нечего. Спрятался первый раз храбрец в баранью шкуру, но с помощью волшебной книги был найден тут же. Тогда колдун дал парню второй шанс. И пришлось молодцу в болоте сидеть да дышать через трубочку, но и тут его нашли. Осталась третья, последняя попытка. Удастся ли простому деревенскому парню добиться любви прекрасной Марьюшки, можно увидеть онлайн в рисованном советском мультфильме «Храбрец-удалец». Рекомендован к просмотру всем любителям русских народных сказок.",
+        "legacy_subtitle_id": 9928070,
+        "legacy_uploader_id": 9931963,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780963,
+          "feature_type": "Movie",
+          "year": 1976,
+          "title": "Slashing Fellow",
+          "movie_name": "1976 - Slashing Fellow",
+          "imdb_id": 2160249,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/ru/subtitles/legacy/9928070",
+        "related_links": [
+          {
+            "label": "All subtitles for slashing fellow",
+            "url": "https://www.opensubtitles.com/ru/movies/1976-slashing-fellow",
+            "img_url": "https://s9.opensubtitles.com/features/3/6/9/1780963.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575908,
+            "cd_number": 1,
+            "file_name": "Khrabrets.udalets.1976.RU"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650188",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650188",
+        "language": "uk",
+        "download_count": 0,
+        "new_download_count": 184,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:45:52Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Disappearance.Of.Shere.Hite.2023.720p.WEBRip.x264.AAC-[YTS.MX]",
+        "comments": "",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1773813,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "The Disappearance of Shere Hite",
+          "movie_name": "2023 - The Disappearance of Shere Hite",
+          "imdb_id": 24078380,
+          "tmdb_id": 1058648
+        },
+        "url": "https://www.opensubtitles.com/uk/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for the disappearance of shere hite",
+            "url": "https://www.opensubtitles.com/uk/movies/2023-the-disappearance-of-shere-hite",
+            "img_url": "https://s9.opensubtitles.com/features/3/1/8/1773813.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575949,
+            "cd_number": 1,
+            "file_name": "The.Disappearance.Of.Shere.Hite.2023.720p.WEBRip.x264.AAC-[YTS.MX]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650185",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650185",
+        "language": "fr",
+        "download_count": 0,
+        "new_download_count": 564,
+        "hearing_impaired": true,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:42:33Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Candy.Land.2022.720p.WEB.H264-JFF",
+        "comments": "✨\r\nHI | works with all WEB/WEB-DL\r\nDuration = 01:32:41 - Thanks to Vikram",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 82503,
+          "name": "scooby74",
+          "rank": "Administrator"
+        },
+        "feature_details": {
+          "feature_id": 1431502,
+          "feature_type": "Movie",
+          "year": 2022,
+          "title": "Candy Land",
+          "movie_name": "2022 - Candy Land",
+          "imdb_id": 13857556,
+          "tmdb_id": 826753
+        },
+        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for candy land",
+            "url": "https://www.opensubtitles.com/fr/movies/2022-candy-land",
+            "img_url": "https://s9.opensubtitles.com/features/2/0/5/1431502.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575946,
+            "cd_number": 1,
+            "file_name": "Candy.Land.2022.1080p.EAC3.AMZN.WEB-DL.H264-BobDobbs-HI"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650173",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650173",
+        "language": "de",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": true,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:42:19Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Hai-Alarm am Müggelsee (2013) (Netflix) [sdh]",
+        "comments": "",
+        "legacy_subtitle_id": 9928042,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 586152,
+          "feature_type": "Movie",
+          "year": 2013,
+          "title": "Shark Alarm at Müggel Lake",
+          "movie_name": "2013 - Shark Alarm at Müggel Lake",
+          "imdb_id": 2352394,
+          "tmdb_id": 185562
+        },
+        "url": "https://www.opensubtitles.com/de/subtitles/legacy/9928042",
+        "related_links": [
+          {
+            "label": "All subtitles for shark alarm at müggel lake",
+            "url": "https://www.opensubtitles.com/de/movies/2013-hai-alarm-am-muggelsee",
+            "img_url": "https://s9.opensubtitles.com/features/2/5/1/586152.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575934,
+            "cd_number": 1,
+            "file_name": "Hai-Alarm am Müggelsee (2013) (Netflix) [sdh]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650106",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650106",
+        "language": "be",
+        "download_count": 3,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:32:27Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Прывітанне, страчаныя вочы - За Украіну, ад В'етнамцаў з-за мяжы з любоўю",
+        "comments": "Вялікая Айчынная вайна Ўкраінскага народа глыбока закранула многіх дзеячаў інтэлігенцыі і мастацтва В'етнама. Падчас прагляду навінаў кампазітар Трук-Хо быў уражаны фотаздымкам хлопчыка-перасяленца з заплаканымі вачыма ў дзень развітання з прыгожым горадам. Ён з тугой успамінаў сваё дзяцінства, калі ён перажыў шмат жорсткіх эвакуацый з-за грамадзянскай вайны ў Паўднёвым В'етнаме, пасля чаго шмат цяжкіх дзён перасякаў мора, каб знайсці свабоду. Ён вырашыў напісаць песню, каб перадаць свае асабістыя пачуцці невядомым украінцам.\r\n\r\nhttps://youtu.be/e7zfUokKaHo\r\nhttps://youtu.be/aL3mh-lHzXA\r\nhttps://youtu.be/2_957eviO7I\r\n\r\nhttps://youtu.be/gHZalDpHzNc\r\nhttps://youtu.be/IrDxPGywd_I",
+        "legacy_subtitle_id": 9927994,
+        "legacy_uploader_id": 9931963,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780904,
+          "feature_type": "Movie",
+          "year": 2022,
+          "title": "With Ukraine in my heart!",
+          "movie_name": "2022 - With Ukraine in my heart!",
+          "imdb_id": 24079748,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/be/subtitles/legacy/9927994",
+        "related_links": [
+          {
+            "label": "All subtitles for with ukraine in my heart!",
+            "url": "https://www.opensubtitles.com/be/movies/2022-with-ukraine-in-my-heart",
+            "img_url": "https://s9.opensubtitles.com/features/4/0/9/1780904.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575867,
+            "cd_number": 1,
+            "file_name": "Pryvitannie.stracanyja.vocy.2022.BE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650085",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650085",
+        "language": "es",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.98,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:27:24Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": true,
+        "release": "The King and four Queens 1956 Repack720p BluRay x264 YTS",
+        "comments": "",
+        "legacy_subtitle_id": 9927980,
+        "legacy_uploader_id": 6500386,
+        "uploader": {
+          "uploader_id": 399293,
+          "name": "lxps655",
+          "rank": "VIP Member"
+        },
+        "feature_details": {
+          "feature_id": 557365,
+          "feature_type": "Movie",
+          "year": 1956,
+          "title": "The King and Four Queens",
+          "movie_name": "1956 - Le Roi et quatre Reines",
+          "imdb_id": 49407,
+          "tmdb_id": 43310
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/9927980",
+        "related_links": [
+          {
+            "label": "All subtitles for the king and four queens",
+            "url": "https://www.opensubtitles.com/es/movies/1956-the-king-and-four-queens",
+            "img_url": "https://s9.opensubtitles.com/features/5/6/3/557365.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575846,
+            "cd_number": 1,
+            "file_name": "The King and four Queens 1956 Repack720p BluRay x264"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650179",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650179",
+        "language": "fr",
+        "download_count": 0,
+        "new_download_count": 393,
+        "hearing_impaired": true,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 1,
+        "ratings": 5,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:26:53Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Big.Driver.2014.720p.BluRay.x264-GUACAMOLE",
+        "comments": "",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 63405,
+          "name": "Luis-subs",
+          "rank": "translator"
+        },
+        "feature_details": {
+          "feature_id": 594774,
+          "feature_type": "Movie",
+          "year": 2014,
+          "title": "Big Driver",
+          "movie_name": "2014 - Big Driver",
+          "imdb_id": 3831810,
+          "tmdb_id": 297961
+        },
+        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for big driver",
+            "url": "https://www.opensubtitles.com/fr/movies/2014-big-driver",
+            "img_url": "https://s9.opensubtitles.com/features/4/7/7/594774.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575940,
+            "cd_number": 1,
+            "file_name": "Big.Driver.2014.720p.BluRay.x264-GUACAMOLE-HI"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650086",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650086",
+        "language": "es",
+        "download_count": 2,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.98,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:26:28Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": true,
+        "release": "Snooker man 2024 1080p WEBRip x264 YTS",
+        "comments": "",
+        "legacy_subtitle_id": 9927979,
+        "legacy_uploader_id": 6500386,
+        "uploader": {
+          "uploader_id": 399293,
+          "name": "lxps655",
+          "rank": "VIP Member"
+        },
+        "feature_details": {
+          "feature_id": 1780950,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Snooker Man",
+          "movie_name": "2024 - Snooker Man",
+          "imdb_id": 30325406,
+          "tmdb_id": 1236553
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/9927979",
+        "related_links": [
+          {
+            "label": "All subtitles for snooker man",
+            "url": "https://www.opensubtitles.com/es/movies/2024-snooker-man",
+            "img_url": "https://s9.opensubtitles.com/features/0/5/9/1780950.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575847,
+            "cd_number": 1,
+            "file_name": "Snooker man 2024 1080p WEBRip x264"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650087",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650087",
+        "language": "de",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": true,
+        "hd": true,
+        "fps": 25,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": true,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:26:08Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "dTV ARD color",
+        "comments": "",
+        "legacy_subtitle_id": 9927978,
+        "legacy_uploader_id": 3952211,
+        "uploader": {
+          "uploader_id": 74759,
+          "name": "holti_surfer",
+          "rank": "Trusted member"
+        },
+        "feature_details": {
+          "feature_id": 1780951,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Am Abgrund",
+          "movie_name": "2024 - Am Abgrund",
+          "imdb_id": 31242738,
+          "tmdb_id": 1252487
+        },
+        "url": "https://www.opensubtitles.com/de/subtitles/legacy/9927978",
+        "related_links": [
+          {
+            "label": "All subtitles for am abgrund",
+            "url": "https://www.opensubtitles.com/de/movies/2024-am-abgrund",
+            "img_url": "https://s9.opensubtitles.com/features/1/5/9/1780951.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575848,
+            "cd_number": 1,
+            "file_name": "2024_Am Abgrund.deu"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650088",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650088",
+        "language": "es",
+        "download_count": 2,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.98,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:25:26Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": true,
+        "release": "Ro Gi Wan 2024 1080p WEBRip x264 YTS",
+        "comments": "",
+        "legacy_subtitle_id": 9927977,
+        "legacy_uploader_id": 6500386,
+        "uploader": {
+          "uploader_id": 399293,
+          "name": "lxps655",
+          "rank": "VIP Member"
+        },
+        "feature_details": {
+          "feature_id": 1780358,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "My Name Is Loh Kiwan",
+          "movie_name": "2024 - My Name Is Loh Kiwan",
+          "imdb_id": 26672512,
+          "tmdb_id": 1039882
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/9927977",
+        "related_links": [
+          {
+            "label": "All subtitles for my name is loh kiwan",
+            "url": "https://www.opensubtitles.com/es/movies/2024-my-name-is-loh-kiwan",
+            "img_url": "https://s9.opensubtitles.com/features/8/5/3/1780358.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575849,
+            "cd_number": 1,
+            "file_name": "Ro Gi Wan 2024 1080p WEBRip x264"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650176",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650176",
+        "language": "fr",
+        "download_count": 0,
+        "new_download_count": 13,
+        "hearing_impaired": true,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:22:21Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "War.Trap.2022.DUBBED.1080p.WEB-DL.DD5.1.H.264 (SDH)",
+        "comments": "[NOT OUT YET] - Thanks to Vikram",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 82503,
+          "name": "scooby74",
+          "rank": "Administrator"
+        },
+        "feature_details": {
+          "feature_id": 1381945,
+          "feature_type": "Movie",
+          "year": 2022,
+          "title": "War Trap",
+          "movie_name": "2022 - War Trap",
+          "imdb_id": 18646750,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for war trap",
+            "url": "https://www.opensubtitles.com/fr/movies/2022-war-trap",
+            "img_url": "https://s9.opensubtitles.com/features/5/4/9/1381945.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575937,
+            "cd_number": 1,
+            "file_name": "War.Trap.2022.DUBBED.1080p.WEB-DL.DD5.1.H"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650076",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650076",
+        "language": "id",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": true,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:04:48Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Visionary.2012.WEBRip.CATCHPLAY",
+        "comments": "Retail Catchplay | 01:24:34\r\nFix common errors",
+        "legacy_subtitle_id": 9927904,
+        "legacy_uploader_id": 437690,
+        "uploader": {
+          "uploader_id": 428192,
+          "name": "tedi",
+          "rank": "Bronze Member"
+        },
+        "feature_details": {
+          "feature_id": 1780946,
+          "feature_type": "Movie",
+          "year": 2012,
+          "title": "Visionary",
+          "movie_name": "2012 - Visionary",
+          "imdb_id": 1714148,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/id/subtitles/legacy/9927904",
+        "related_links": [
+          {
+            "label": "All subtitles for visionary",
+            "url": "https://www.opensubtitles.com/id/movies/2012-visionary",
+            "img_url": "https://s9.opensubtitles.com/features/6/4/9/1780946.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575837,
+            "cd_number": 1,
+            "file_name": "Visionary.2012.WEBRip.CATCHPLAY.id"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650077",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650077",
+        "language": "en",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": true,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T09:04:10Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Visionary.2012.WEBRip.CATCHPLAY",
+        "comments": "Retail Catchplay | 01:24:34\r\nFix common errors",
+        "legacy_subtitle_id": 9927903,
+        "legacy_uploader_id": 437690,
+        "uploader": {
+          "uploader_id": 428192,
+          "name": "tedi",
+          "rank": "Bronze Member"
+        },
+        "feature_details": {
+          "feature_id": 1780946,
+          "feature_type": "Movie",
+          "year": 2012,
+          "title": "Visionary",
+          "movie_name": "2012 - Visionary",
+          "imdb_id": 1714148,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9927903",
+        "related_links": [
+          {
+            "label": "All subtitles for visionary",
+            "url": "https://www.opensubtitles.com/en/movies/2012-visionary",
+            "img_url": "https://s9.opensubtitles.com/features/6/4/9/1780946.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575836,
+            "cd_number": 1,
+            "file_name": "Visionary.2012.WEBRip.CATCHPLAY.en"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650055",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650055",
+        "language": "id",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": true,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:56:17Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Hell.Or.High.Water.2016.BluRay.x264-[YTS.AG]",
+        "comments": "Retail Catchplay| 1h 42m\r\nResync for BluRay",
+        "legacy_subtitle_id": 9927896,
+        "legacy_uploader_id": 437690,
+        "uploader": {
+          "uploader_id": 428192,
+          "name": "tedi",
+          "rank": "Bronze Member"
+        },
+        "feature_details": {
+          "feature_id": 609139,
+          "feature_type": "Movie",
+          "year": 2016,
+          "title": "Hell or High Water",
+          "movie_name": "2016 - Hell or High Water",
+          "imdb_id": 2582782,
+          "tmdb_id": 338766
+        },
+        "url": "https://www.opensubtitles.com/id/subtitles/legacy/9927896",
+        "related_links": [
+          {
+            "label": "All subtitles for hell or high water",
+            "url": "https://www.opensubtitles.com/id/movies/2016-hell-or-high-water",
+            "img_url": "https://s9.opensubtitles.com/features/9/3/1/609139.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575814,
+            "cd_number": 1,
+            "file_name": "Hell.Or.High.Water.2016.BluRay.x264-[YTS.AG].id"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650131",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650131",
+        "language": "fr",
+        "download_count": 0,
+        "new_download_count": 27,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:54:16Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "War.Trap.2022.DUBBED.1080p.WEB-DL.DD5.1.H.264",
+        "comments": "[NOT OUT YET] - Thanks to Vikram",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 82503,
+          "name": "scooby74",
+          "rank": "Administrator"
+        },
+        "feature_details": {
+          "feature_id": 1381945,
+          "feature_type": "Movie",
+          "year": 2022,
+          "title": "War Trap",
+          "movie_name": "2022 - War Trap",
+          "imdb_id": 18646750,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for war trap",
+            "url": "https://www.opensubtitles.com/fr/movies/2022-war-trap",
+            "img_url": "https://s9.opensubtitles.com/features/5/4/9/1381945.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575892,
+            "cd_number": 1,
+            "file_name": "War.Trap.2022.DUBBED.1080p.WEB-DL.DD5.1.H.264"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650041",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650041",
+        "language": "id",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": true,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:48:50Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Before.I.Wake.2016.ALL.BluRay",
+        "comments": "Retail VIDIO\r\nResync for BluRay",
+        "legacy_subtitle_id": 9927880,
+        "legacy_uploader_id": 437690,
+        "uploader": {
+          "uploader_id": 428192,
+          "name": "tedi",
+          "rank": "Bronze Member"
+        },
+        "feature_details": {
+          "feature_id": 601924,
+          "feature_type": "Movie",
+          "year": 2016,
+          "title": "Before I Wake",
+          "movie_name": "2016 - Before I Wake",
+          "imdb_id": 3174376,
+          "tmdb_id": 301804
+        },
+        "url": "https://www.opensubtitles.com/id/subtitles/legacy/9927880",
+        "related_links": [
+          {
+            "label": "All subtitles for before i wake",
+            "url": "https://www.opensubtitles.com/id/movies/2016-before-i-wake",
+            "img_url": "https://s9.opensubtitles.com/features/4/2/9/601924.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575800,
+            "cd_number": 1,
+            "file_name": "Before.I.Wake.2016.ALL.BluRay.id"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650042",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650042",
+        "language": "es",
+        "download_count": 3,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.98,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:40:15Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": true,
+        "release": "We dive at dawn 1943 720p WEBRip x264 YTS",
+        "comments": "",
+        "legacy_subtitle_id": 9927873,
+        "legacy_uploader_id": 6500386,
+        "uploader": {
+          "uploader_id": 399293,
+          "name": "lxps655",
+          "rank": "VIP Member"
+        },
+        "feature_details": {
+          "feature_id": 549306,
+          "feature_type": "Movie",
+          "year": 1943,
+          "title": "We Dive at Dawn",
+          "movie_name": "1943 - We Dive at Dawn",
+          "imdb_id": 36516,
+          "tmdb_id": 43519
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/9927873",
+        "related_links": [
+          {
+            "label": "All subtitles for we dive at dawn",
+            "url": "https://www.opensubtitles.com/es/movies/1943-we-dive-at-dawn",
+            "img_url": "https://s9.opensubtitles.com/features/6/0/3/549306.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575801,
+            "cd_number": 1,
+            "file_name": "We dive at dawn 1943 720p WEBRip x264"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650054",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650054",
+        "language": "es",
+        "download_count": 2,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.98,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:39:24Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": true,
+        "release": "Romance with a twist 2024 1080p WEBRip x264 YTS",
+        "comments": "",
+        "legacy_subtitle_id": 9927872,
+        "legacy_uploader_id": 6500386,
+        "uploader": {
+          "uploader_id": 399293,
+          "name": "lxps655",
+          "rank": "VIP Member"
+        },
+        "feature_details": {
+          "feature_id": 1776540,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Romance with a Twist",
+          "movie_name": "2024 - Romance with a Twist",
+          "imdb_id": 30259980,
+          "tmdb_id": 1212667
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/9927872",
+        "related_links": [
+          {
+            "label": "All subtitles for romance with a twist",
+            "url": "https://www.opensubtitles.com/es/movies/2024-romance-with-a-twist",
+            "img_url": "https://s9.opensubtitles.com/features/0/4/5/1776540.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575813,
+            "cd_number": 1,
+            "file_name": "Romance with a twist 2024 1080p WEBRip x264"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650033",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650033",
+        "language": "en",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.98,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:38:34Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": true,
+        "release": "La confesion 2024 1080p WEBRip x264 YTS",
+        "comments": "",
+        "legacy_subtitle_id": 9927871,
+        "legacy_uploader_id": 6500386,
+        "uploader": {
+          "uploader_id": 399293,
+          "name": "lxps655",
+          "rank": "VIP Member"
+        },
+        "feature_details": {
+          "feature_id": 1776539,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "La Confesión",
+          "movie_name": "2024 - La Confesión",
+          "imdb_id": 21808830,
+          "tmdb_id": 1204914
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9927871",
+        "related_links": [
+          {
+            "label": "All subtitles for la confesión",
+            "url": "https://www.opensubtitles.com/en/movies/2024-la-confesion",
+            "img_url": "https://s9.opensubtitles.com/features/9/3/5/1776539.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575792,
+            "cd_number": 1,
+            "file_name": "La confesion 2024 1080p WEBRip x264"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650035",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650035",
+        "language": "id",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": true,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:38:16Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Max.Steel.2016.BluRay.x264-GECKOS",
+        "comments": "Retail Catchplay | 1h 32m\r\nResync for BluRay",
+        "legacy_subtitle_id": 9927870,
+        "legacy_uploader_id": 437690,
+        "uploader": {
+          "uploader_id": 428192,
+          "name": "tedi",
+          "rank": "Bronze Member"
+        },
+        "feature_details": {
+          "feature_id": 611341,
+          "feature_type": "Movie",
+          "year": 2016,
+          "title": "Max Steel",
+          "movie_name": "2016 - Max Steel",
+          "imdb_id": 1472584,
+          "tmdb_id": 286567
+        },
+        "url": "https://www.opensubtitles.com/id/subtitles/legacy/9927870",
+        "related_links": [
+          {
+            "label": "All subtitles for max steel",
+            "url": "https://www.opensubtitles.com/id/movies/2016-max-steel",
+            "img_url": "https://s9.opensubtitles.com/features/1/4/3/611341.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575794,
+            "cd_number": 1,
+            "file_name": "Max.Steel.2016.BluRay.x264-GECKOS.id"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650034",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650034",
+        "language": "es",
+        "download_count": 26,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.98,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:37:36Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": true,
+        "release": "Gilded Newport mysteries murder at the breakers 2024 1080p WEBRip x264 YTS",
+        "comments": "",
+        "legacy_subtitle_id": 9927869,
+        "legacy_uploader_id": 6500386,
+        "uploader": {
+          "uploader_id": 399293,
+          "name": "lxps655",
+          "rank": "VIP Member"
+        },
+        "feature_details": {
+          "feature_id": 1777248,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Gilded Newport Mysteries: Murder at the Breakers",
+          "movie_name": "2024 - Gilded Newport Mysteries: Murder at the Breakers",
+          "imdb_id": 30852822,
+          "tmdb_id": 1221661
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/9927869",
+        "related_links": [
+          {
+            "label": "All subtitles for gilded newport mysteries: murder at the breakers",
+            "url": "https://www.opensubtitles.com/es/movies/2024-gilded-newport-mysteries-murder-at-the-breakers",
+            "img_url": "https://s9.opensubtitles.com/features/8/4/2/1777248.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575793,
+            "cd_number": 1,
+            "file_name": "Gilded Newport mysteries murder at the breakers 2024 1080p WEBRip x264"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650036",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650036",
+        "language": "es",
+        "download_count": 2,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.98,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:36:43Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": true,
+        "release": "Enter Arsene Lupin 1944 720p BluRay x264 YTS",
+        "comments": "",
+        "legacy_subtitle_id": 9927868,
+        "legacy_uploader_id": 6500386,
+        "uploader": {
+          "uploader_id": 399293,
+          "name": "lxps655",
+          "rank": "VIP Member"
+        },
+        "feature_details": {
+          "feature_id": 527034,
+          "feature_type": "Movie",
+          "year": 1944,
+          "title": "Enter Arsene Lupin",
+          "movie_name": "1944 - Enter Arsene Lupin",
+          "imdb_id": 36794,
+          "tmdb_id": 171594
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/9927868",
+        "related_links": [
+          {
+            "label": "All subtitles for enter arsene lupin",
+            "url": "https://www.opensubtitles.com/es/movies/1944-enter-arsene-lupin",
+            "img_url": "https://s9.opensubtitles.com/features/4/3/0/527034.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575795,
+            "cd_number": 1,
+            "file_name": "Enter Arsene Lupin 1944 720p BluRay x264"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650070",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650070",
+        "language": "es",
+        "download_count": 2,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.98,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:35:48Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": true,
+        "release": "Aventure malgache 1944 720p BluRay x264 YTS",
+        "comments": "",
+        "legacy_subtitle_id": 9927864,
+        "legacy_uploader_id": 6500386,
+        "uploader": {
+          "uploader_id": 399293,
+          "name": "lxps655",
+          "rank": "VIP Member"
+        },
+        "feature_details": {
+          "feature_id": 533766,
+          "feature_type": "Movie",
+          "year": 1944,
+          "title": "Aventure Malgache",
+          "movie_name": "1944 - Aventure Malgache",
+          "imdb_id": 36621,
+          "tmdb_id": 48133
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/9927864",
+        "related_links": [
+          {
+            "label": "All subtitles for aventure malgache",
+            "url": "https://www.opensubtitles.com/es/movies/1944-aventure-malgache",
+            "img_url": "https://s9.opensubtitles.com/features/6/6/7/533766.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575829,
+            "cd_number": 1,
+            "file_name": "Aventure malgache 1944 720p BluRay x264"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650181",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650181",
+        "language": "en",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": true,
+        "hd": false,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:30:08Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Yogi's First Christmas [1980] DVDRip x264 [Tuddorr]",
+        "comments": "",
+        "legacy_subtitle_id": 9927845,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 567232,
+          "feature_type": "Movie",
+          "year": 1980,
+          "title": "Yogi's First Christmas",
+          "movie_name": "1980 - Yogi's First Christmas",
+          "imdb_id": 199161,
+          "tmdb_id": 45851
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9927845",
+        "related_links": [
+          {
+            "label": "All subtitles for yogi's first christmas",
+            "url": "https://www.opensubtitles.com/en/movies/1980-yogi-s-first-christmas",
+            "img_url": "https://s9.opensubtitles.com/features/2/3/2/567232.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575942,
+            "cd_number": 1,
+            "file_name": "Yogis First Christmas [1980] DVDRip x264 [Tuddorr].English"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649994",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649994",
+        "language": "en",
+        "download_count": 1,
+        "new_download_count": 20,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:28:22Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Perfect.Days.2023.1080p.WEB.H264-PancakeBreakfastPizzaLunchSteakDinner",
+        "comments": "",
+        "legacy_subtitle_id": 9927844,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 1769926,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Perfect Days",
+          "movie_name": "2023 - Perfect Days",
+          "imdb_id": 27503384,
+          "tmdb_id": 976893
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9927844",
+        "related_links": [
+          {
+            "label": "All subtitles for perfect days",
+            "url": "https://www.opensubtitles.com/en/movies/2023-perfect-days",
+            "img_url": "https://s9.opensubtitles.com/features/6/2/9/1769926.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575752,
+            "cd_number": 1,
+            "file_name": "Perfect.Days.2023.1080p.WEB.H264-PancakeBreakfastPizzaLunchSteakDinner"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649995",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649995",
+        "language": "en",
+        "download_count": 1,
+        "new_download_count": 3,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:27:16Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Heroic.Trio.2.Executioners.1993.720p.BluRay.x264.AAC-[YTS.MX]",
+        "comments": "",
+        "legacy_subtitle_id": 9927843,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 523589,
+          "feature_type": "Movie",
+          "year": 1993,
+          "title": "Executioners",
+          "movie_name": "1993 - Executioners",
+          "imdb_id": 108606,
+          "tmdb_id": 58311
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9927843",
+        "related_links": [
+          {
+            "label": "All subtitles for executioners",
+            "url": "https://www.opensubtitles.com/en/movies/1993-jin-doi-hou-hap-cyun",
+            "img_url": "https://s9.opensubtitles.com/features/9/8/5/523589.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575753,
+            "cd_number": 1,
+            "file_name": "Heroic.Trio.2.Executioners.1993.720p.BluRay.x264.AAC-[YTS.MX]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649997",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649997",
+        "language": "en",
+        "download_count": 21,
+        "new_download_count": 16,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 25,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:26:57Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Smurfs.A.Christmas.Carol.2011.720p.WEBRip.x264.AAC-[YTS.MX]",
+        "comments": "",
+        "legacy_subtitle_id": 9927842,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 571075,
+          "feature_type": "Movie",
+          "year": 2011,
+          "title": "The Smurfs: A Christmas Carol",
+          "movie_name": "2011 - Les Schtroumpfs : Un Chant de Noël",
+          "imdb_id": 2062677,
+          "tmdb_id": 79443
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9927842",
+        "related_links": [
+          {
+            "label": "All subtitles for the smurfs: a christmas carol",
+            "url": "https://www.opensubtitles.com/en/movies/2011-the-smurfs-a-christmas-carol",
+            "img_url": "https://s9.opensubtitles.com/features/5/7/0/571075.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575755,
+            "cd_number": 1,
+            "file_name": "The.Smurfs.A.Christmas.Carol.2011.720p.WEBRip.x264.AAC-[YTS.MX]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649996",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649996",
+        "language": "uk",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:26:33Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Breezy (1973)",
+        "comments": "власний переклад",
+        "legacy_subtitle_id": 9927841,
+        "legacy_uploader_id": 9455221,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 523121,
+          "feature_type": "Movie",
+          "year": 1973,
+          "title": "Breezy",
+          "movie_name": "1973 - Жвава",
+          "imdb_id": 69822,
+          "tmdb_id": 40374
+        },
+        "url": "https://www.opensubtitles.com/uk/subtitles/legacy/9927841",
+        "related_links": [
+          {
+            "label": "All subtitles for breezy",
+            "url": "https://www.opensubtitles.com/uk/movies/1973-breezy",
+            "img_url": "https://s9.opensubtitles.com/features/1/2/1/523121.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575754,
+            "cd_number": 1,
+            "file_name": "Breezy (1973) (Bond1976)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650005",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650005",
+        "language": "en",
+        "download_count": 21,
+        "new_download_count": 2,
+        "hearing_impaired": true,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:25:50Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Smurfs.A.Christmas.Carol.2011.720p.WEBRip.x264.AAC-[YTS.MX]",
+        "comments": "",
+        "legacy_subtitle_id": 9927839,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 571075,
+          "feature_type": "Movie",
+          "year": 2011,
+          "title": "The Smurfs: A Christmas Carol",
+          "movie_name": "2011 - Les Schtroumpfs : Un Chant de Noël",
+          "imdb_id": 2062677,
+          "tmdb_id": 79443
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9927839",
+        "related_links": [
+          {
+            "label": "All subtitles for the smurfs: a christmas carol",
+            "url": "https://www.opensubtitles.com/en/movies/2011-the-smurfs-a-christmas-carol",
+            "img_url": "https://s9.opensubtitles.com/features/5/7/0/571075.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575763,
+            "cd_number": 1,
+            "file_name": "The.Smurfs.A.Christmas.Carol.2011.720p.WEBRip.x264.AAC-[YTS.MX]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649999",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649999",
+        "language": "hr",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": false,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:22:03Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Slow.Horses.S03E02.WEB.x264-TORRENTGALAXY",
+        "comments": "",
+        "legacy_subtitle_id": 9927833,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 1735078,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "\"Slow Horses\" Episode #3.2",
+          "movie_name": "2023 - \"Slow Horses\" Episode #3.2",
+          "imdb_id": 21289592,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/hr/subtitles/legacy/9927833",
+        "related_links": [
+          {
+            "label": "All subtitles for \"slow horses\" episode #3.2",
+            "url": "https://www.opensubtitles.com/hr/movies/2023-slow-horses-episode-3-2",
+            "img_url": "https://s9.opensubtitles.com/features/8/7/0/1735078.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575757,
+            "cd_number": 1,
+            "file_name": "Slow.Horses.S03E02.WEB.x264-TORRENTGALAXY-hrv"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650027",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650027",
+        "language": "ro",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:14:14Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "NCIS S21E04 720p AMZN WEB-DL DDP5 1 H 264-NTb",
+        "comments": "",
+        "legacy_subtitle_id": 9927801,
+        "legacy_uploader_id": 9988424,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780776,
+          "feature_type": "Movie",
+          "year": null,
+          "title": "\"NCIS\" Left Unsaid",
+          "movie_name": " - \"NCIS\" Left Unsaid",
+          "imdb_id": 31249380,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/ro/subtitles/legacy/9927801",
+        "related_links": [
+          {
+            "label": "All subtitles for \"ncis\" left unsaid",
+            "url": "https://www.opensubtitles.com/ro/movies/ncis-left-unsaid",
+            "img_url": "https://s9.opensubtitles.com/features/6/7/7/1780776.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575785,
+            "cd_number": 1,
+            "file_name": "NCIS S21E04 720p AMZN WEB-DL DDP5 1 H 264-NTb"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650003",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650003",
+        "language": "fa",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": false,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:13:18Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "2. Loft2008-Dvdrip",
+        "comments": "",
+        "legacy_subtitle_id": 9927800,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 596988,
+          "feature_type": "Movie",
+          "year": 2014,
+          "title": "The Loft",
+          "movie_name": "2014 - The Loft",
+          "imdb_id": 1850397,
+          "tmdb_id": 72784
+        },
+        "url": "https://www.opensubtitles.com/fa/subtitles/legacy/9927800",
+        "related_links": [
+          {
+            "label": "All subtitles for the loft",
+            "url": "https://www.opensubtitles.com/fa/movies/2014-the-loft",
+            "img_url": "https://s9.opensubtitles.com/features/8/8/9/596988.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575762,
+            "cd_number": 1,
+            "file_name": "2. Loft2008-Dvdrip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650020",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650020",
+        "language": "ro",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T08:13:12Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "NCIS.S21E04.1080p.HEVC.x265-MeGusta",
+        "comments": "",
+        "legacy_subtitle_id": 9927799,
+        "legacy_uploader_id": 9988424,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780776,
+          "feature_type": "Movie",
+          "year": null,
+          "title": "\"NCIS\" Left Unsaid",
+          "movie_name": " - \"NCIS\" Left Unsaid",
+          "imdb_id": 31249380,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/ro/subtitles/legacy/9927799",
+        "related_links": [
+          {
+            "label": "All subtitles for \"ncis\" left unsaid",
+            "url": "https://www.opensubtitles.com/ro/movies/ncis-left-unsaid",
+            "img_url": "https://s9.opensubtitles.com/features/6/7/7/1780776.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575778,
+            "cd_number": 1,
+            "file_name": "NCIS.S21E04.1080p.HEVC.x265-MeGusta"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650040",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650040",
+        "language": "es",
+        "download_count": 0,
+        "new_download_count": 23,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 1,
+        "ratings": 10,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T07:56:10Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.King.and.Four.Queens.1956.720p.BluRay.x264-SADPANDA",
+        "comments": "",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 73075,
+          "name": "Diodato",
+          "rank": "VIP Member"
+        },
+        "feature_details": {
+          "feature_id": 557365,
+          "feature_type": "Movie",
+          "year": 1956,
+          "title": "The King and Four Queens",
+          "movie_name": "1956 - The King and Four Queens",
+          "imdb_id": 49407,
+          "tmdb_id": 43310
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for the king and four queens",
+            "url": "https://www.opensubtitles.com/es/movies/1956-the-king-and-four-queens",
+            "img_url": "https://s9.opensubtitles.com/features/5/6/3/557365.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575799,
+            "cd_number": 1,
+            "file_name": "The.King.and.Four.Queens.1956.720p.BluRay.x264-SADPANDA.eng"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7650039",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7650039",
+        "language": "es",
+        "download_count": 0,
+        "new_download_count": 29,
+        "hearing_impaired": false,
+        "hd": false,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T07:49:57Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The Butcher Boy",
+        "comments": "https://youtu.be/0aV848bkXZA",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 593648,
+          "feature_type": "Movie",
+          "year": 1917,
+          "title": "The Butcher Boy",
+          "movie_name": "1917 - The Butcher Boy",
+          "imdb_id": 7761,
+          "tmdb_id": 51468
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for the butcher boy",
+            "url": "https://www.opensubtitles.com/es/movies/1917-the-butcher-boy",
+            "img_url": "https://s9.opensubtitles.com/features/8/4/6/593648.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575798,
+            "cd_number": 1,
+            "file_name": "The Butcher Boy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649951",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649951",
+        "language": "fr",
+        "download_count": 0,
+        "new_download_count": 1,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T07:44:42Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Bonjour, yeux perdus - Pour l'Ukraïne des Viêtnamiens d'Outre-mer avec amour",
+        "comments": "La Grande Guerre Patriotique du peuple Ukraïnien a profondément ému de nombreux intellectuels et artistes Viêtnamiens. En regardant les informations, compositeur Trúc-Hồ a été très impressionné par la photo d'un garçon déplacé, les yeux remplis de larmes, le jour de ses adieux à cette belle ville. Il se souvient tristement de son enfance où il a connu de nombreuses évacuations féroces dues à la guerre civile au Sud-Viêtnam, suivies de nombreuses journées pénibles de traversée de la mer pour trouver un peu de liberté. Il a décidé de composer une chanson pour transmettre ses sentiments personnels à des Ukraïniens inconnus.\r\n\r\nhttps://youtu.be/e7zfUokKaHo\r\nhttps://youtu.be/aL3mh-lHzXA\r\nhttps://youtu.be/2_957eviO7I\r\n\r\nhttps://youtu.be/gHZalDpHzNc\r\nhttps://youtu.be/IrDxPGywd_I",
+        "legacy_subtitle_id": 9927726,
+        "legacy_uploader_id": 9931963,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780904,
+          "feature_type": "Movie",
+          "year": 2022,
+          "title": "With Ukraine in my heart!",
+          "movie_name": "2022 - With Ukraine in my heart!",
+          "imdb_id": 24079748,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/9927726",
+        "related_links": [
+          {
+            "label": "All subtitles for with ukraine in my heart!",
+            "url": "https://www.opensubtitles.com/fr/movies/2022-with-ukraine-in-my-heart",
+            "img_url": "https://s9.opensubtitles.com/features/4/0/9/1780904.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575709,
+            "cd_number": 1,
+            "file_name": "Bonjour.yeux.perdus.2022.FR"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649946",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649946",
+        "language": "ru",
+        "download_count": 2,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T07:35:29Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Привет, потерянные глаза - Для Украины, от Вьетнамцев из-за границы с любовью",
+        "comments": "Великая Отечественная Война Украинского народа поразила многих Вьетнамских интеллигентов и художников. Во время просмотра новостей композитор Трук-Хо был потрясен фотографией мальчика-переселенца с наполненными слезами глазами в день прощания с прекрасным городом. Он с грустью вспоминал свое детство, когда пережил много жестоких эвакуаций из-за гражданской войны в Южном Вьетнаме, после чего было много трудных дней пересечения моря, чтобы обрести немного свободы. Он решил написать песню, чтобы передать свои личные чувства незнакомым Украинцам.\r\n\r\nhttps://youtu.be/e7zfUokKaHo\r\nhttps://youtu.be/aL3mh-lHzXA\r\nhttps://youtu.be/2_957eviO7I\r\n\r\nhttps://youtu.be/gHZalDpHzNc\r\nhttps://youtu.be/IrDxPGywd_I",
+        "legacy_subtitle_id": 9927715,
+        "legacy_uploader_id": 9931963,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780904,
+          "feature_type": "Movie",
+          "year": 2022,
+          "title": "With Ukraine in my heart!",
+          "movie_name": "2022 - With Ukraine in my heart!",
+          "imdb_id": 24079748,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/ru/subtitles/legacy/9927715",
+        "related_links": [
+          {
+            "label": "All subtitles for with ukraine in my heart!",
+            "url": "https://www.opensubtitles.com/ru/movies/2022-with-ukraine-in-my-heart",
+            "img_url": "https://s9.opensubtitles.com/features/4/0/9/1780904.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575704,
+            "cd_number": 1,
+            "file_name": "Privet.poteryannyye.glaza.2022.RU"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649989",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649989",
+        "language": "es",
+        "download_count": 0,
+        "new_download_count": 143,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T07:27:40Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Romance.With.A.Twist.2024.720p.WEBRip.x264.AAC-[YTS.MX]",
+        "comments": "",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1776540,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Romance with a Twist",
+          "movie_name": "2024 - Romance with a Twist",
+          "imdb_id": 30259980,
+          "tmdb_id": 1212667
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for romance with a twist",
+            "url": "https://www.opensubtitles.com/es/movies/2024-romance-with-a-twist",
+            "img_url": "https://s9.opensubtitles.com/features/0/4/5/1776540.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575747,
+            "cd_number": 1,
+            "file_name": "Romance.With.A.Twist.2024.720p.WEBRip.x264.AAC-[YTS.MX]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649917",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649917",
+        "language": "uk",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T07:25:15Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Привіт, загублені очі - Для України, від В'єтнамців з-за кордону з любов'ю",
+        "comments": "Велика Вітчизняна Війна Українського народу глибоко вразила багатьох В'єтнамських інтелігентів і митців. Під час перегляду новин композитор Трук-Хо був дуже вражений фотографією хлопчика-переселенця з наповненими слізьми очима в день прощання з прекрасним містом. Він із сумом згадував своє дитинство, коли пережив багато жорстоких евакуацій через громадянську війну у Південному В'єтнамі, після чого було багато важких днів перетину моря, щоб знайти трохи свободи. Він вирішив написати пісню, щоб передати свої особисті почуття незнайомим Українцям.\r\n\r\nhttps://youtu.be/e7zfUokKaHo\r\nhttps://youtu.be/aL3mh-lHzXA\r\nhttps://youtu.be/2_957eviO7I\r\n\r\nhttps://youtu.be/gHZalDpHzNc\r\nhttps://youtu.be/IrDxPGywd_I",
+        "legacy_subtitle_id": 9927712,
+        "legacy_uploader_id": 9931963,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780904,
+          "feature_type": "Movie",
+          "year": 2022,
+          "title": "With Ukraine in my heart!",
+          "movie_name": "2022 - With Ukraine in my heart!",
+          "imdb_id": 24079748,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/uk/subtitles/legacy/9927712",
+        "related_links": [
+          {
+            "label": "All subtitles for with ukraine in my heart!",
+            "url": "https://www.opensubtitles.com/uk/movies/2022-with-ukraine-in-my-heart",
+            "img_url": "https://s9.opensubtitles.com/features/4/0/9/1780904.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575674,
+            "cd_number": 1,
+            "file_name": "Pryvit.zahubleni.ochi.2022.UA"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649986",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649986",
+        "language": "es",
+        "download_count": 0,
+        "new_download_count": 5,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 25,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T07:18:22Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "We.Dive.At.Dawn.1943.AMZN.WEBRip.DDP2.0.x264-squalor",
+        "comments": "",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 62564,
+          "name": "claudio28medina",
+          "rank": "Trusted member"
+        },
+        "feature_details": {
+          "feature_id": 549306,
+          "feature_type": "Movie",
+          "year": 1943,
+          "title": "We Dive at Dawn",
+          "movie_name": "1943 - We Dive at Dawn",
+          "imdb_id": 36516,
+          "tmdb_id": 43519
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for we dive at dawn",
+            "url": "https://www.opensubtitles.com/es/movies/1943-we-dive-at-dawn",
+            "img_url": "https://s9.opensubtitles.com/features/6/0/3/549306.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575744,
+            "cd_number": 1,
+            "file_name": "We.Dive.At.Dawn.1943.WEB-DL.DDP2.0.H.264-squalor"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649910",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649910",
+        "language": "pt-BR",
+        "download_count": 2,
+        "new_download_count": 3,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T07:04:09Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Karusell.2023.SWEDiSH.1080p.WEB.h264-FiLMTiME",
+        "comments": "",
+        "legacy_subtitle_id": 9927693,
+        "legacy_uploader_id": 9957243,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780685,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Carousel",
+          "movie_name": "2023 - Carousel",
+          "imdb_id": 24017902,
+          "tmdb_id": 1058078
+        },
+        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/9927693",
+        "related_links": [
+          {
+            "label": "All subtitles for carousel",
+            "url": "https://www.opensubtitles.com/pt-BR/movies/2023-carousel",
+            "img_url": "https://s9.opensubtitles.com/features/5/8/6/1780685.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575666,
+            "cd_number": 1,
+            "file_name": "Karusell.2023.SWEDiSH.1080p.WEB"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649902",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649902",
+        "language": "en",
+        "download_count": 0,
+        "new_download_count": 1,
+        "hearing_impaired": true,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T07:03:21Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Raveland.2023.1080p.WEB-DL.DD+2.0.H264-BobDobbs",
+        "comments": "",
+        "legacy_subtitle_id": 9927692,
+        "legacy_uploader_id": 9542571,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780903,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Raveland",
+          "movie_name": "2023 - Raveland",
+          "imdb_id": 19177650,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9927692",
+        "related_links": [
+          {
+            "label": "All subtitles for raveland",
+            "url": "https://www.opensubtitles.com/en/movies/2023-raveland",
+            "img_url": "https://s9.opensubtitles.com/features/3/0/9/1780903.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575658,
+            "cd_number": 1,
+            "file_name": "Raveland.2023.1080p.WEB-DL.DD+2.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649905",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649905",
+        "language": "en",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T07:03:15Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Raveland.2023.1080p.WEB-DL.DD+2.0.H264-BobDobbs",
+        "comments": "",
+        "legacy_subtitle_id": 9927691,
+        "legacy_uploader_id": 9542571,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780903,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Raveland",
+          "movie_name": "2023 - Raveland",
+          "imdb_id": 19177650,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9927691",
+        "related_links": [
+          {
+            "label": "All subtitles for raveland",
+            "url": "https://www.opensubtitles.com/en/movies/2023-raveland",
+            "img_url": "https://s9.opensubtitles.com/features/3/0/9/1780903.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575661,
+            "cd_number": 1,
+            "file_name": "Raveland.2023.1080p.WEB-DL.DD+2.0.H264-BobDobbs"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649907",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649907",
+        "language": "pt-BR",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T07:01:35Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Here.for.Blood.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264",
+        "comments": "",
+        "legacy_subtitle_id": 9927688,
+        "legacy_uploader_id": 9957243,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1387492,
+          "feature_type": "Movie",
+          "year": 2022,
+          "title": "Last the Night",
+          "movie_name": "2022 - Last the Night",
+          "imdb_id": 15658626,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/9927688",
+        "related_links": [
+          {
+            "label": "All subtitles for last the night",
+            "url": "https://www.opensubtitles.com/pt-BR/movies/2022-last-the-night",
+            "img_url": "https://s9.opensubtitles.com/features/2/9/4/1387492.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575663,
+            "cd_number": 1,
+            "file_name": "Here.for.Blood.2022.1080p.AMZN.WEB-DL.DDP5.1.H.264"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649908",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649908",
+        "language": "pt-BR",
+        "download_count": 0,
+        "new_download_count": 2,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T06:59:26Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Stranger.in.the.Woods.2024.1080p.AMZN.WEBRip.DD5.1.x264-GalaxyRG",
+        "comments": "",
+        "legacy_subtitle_id": 9927687,
+        "legacy_uploader_id": 9957243,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1779732,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Stranger in the Woods",
+          "movie_name": "2024 - Stranger in the Woods",
+          "imdb_id": 19316408,
+          "tmdb_id": 1175038
+        },
+        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/9927687",
+        "related_links": [
+          {
+            "label": "All subtitles for stranger in the woods",
+            "url": "https://www.opensubtitles.com/pt-BR/movies/2024-stranger-in-the-woods",
+            "img_url": "https://s9.opensubtitles.com/features/2/3/7/1779732.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575664,
+            "cd_number": 1,
+            "file_name": "Stranger.in.the.Woods.2024.1080p.AMZN.WEBRip.800MB.x264-GalaxyRG_eng"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649911",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649911",
+        "language": "pt-BR",
+        "download_count": 0,
+        "new_download_count": 3,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T06:57:25Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Millers.Girl.2024.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG",
+        "comments": "",
+        "legacy_subtitle_id": 9927685,
+        "legacy_uploader_id": 9957243,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1777617,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Miller's Girl",
+          "movie_name": "2024 - Miller's Girl",
+          "imdb_id": 8310486,
+          "tmdb_id": 1026436
+        },
+        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/9927685",
+        "related_links": [
+          {
+            "label": "All subtitles for miller's girl",
+            "url": "https://www.opensubtitles.com/pt-BR/movies/2024-miller-s-girl",
+            "img_url": "https://s9.opensubtitles.com/features/7/1/6/1777617.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575667,
+            "cd_number": 1,
+            "file_name": "Millers.Girl.2024.1080p.WEBRip.1400MB.DD5.1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649900",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649900",
+        "language": "fr",
+        "download_count": 0,
+        "new_download_count": 3,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-06T06:56:24Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Day.of.the.Jackal.1973.BDRemux",
+        "comments": "OCR-rip\r\nCorrigée",
+        "legacy_subtitle_id": 9927683,
+        "legacy_uploader_id": 1551768,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 528727,
+          "feature_type": "Movie",
+          "year": 1973,
+          "title": "The Day of the Jackal",
+          "movie_name": "1973 - The Day of the Jackal",
+          "imdb_id": 69947,
+          "tmdb_id": 4909
+        },
+        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/9927683",
+        "related_links": [
+          {
+            "label": "All subtitles for the day of the jackal",
+            "url": "https://www.opensubtitles.com/fr/movies/1973-the-day-of-the-jackal",
+            "img_url": "https://s9.opensubtitles.com/features/7/2/7/528727.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8575656,
+            "cd_number": 1,
+            "file_name": "The.Day.of.the.Jackal.1973.BDRemux.fr"
+          }
+        ]
+      }
+    }
+  ]
+}
