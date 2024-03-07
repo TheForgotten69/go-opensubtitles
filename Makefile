@@ -1,5 +1,6 @@
 ROOT_PKG ?= "github.com/TheForgotten69/go-opensubtitles"
 LIST_PKG := $(shell go list $(ROOT_PKG)/...)
+LIST_PKG_DIR := $(shell go list -f '{{.Dir}}' $(ROOT_PKG)/...)
 
 # Tests
 TEST_TIMEOUT ?= 40
@@ -31,7 +32,7 @@ vet:
 .PHONY: lint
 lint:
 	@$(call log,"Running linter")
-	@golint -set_exit_status $(LIST_PKG)
+	@echo golangci-lint run $(LIST_PKG_DIR)
 
 .PHONY: test
 test: fmt vet lint

@@ -5,25 +5,31 @@ import (
 	"context"
 	"encoding/json"
 	"errors"
-	"github.com/google/go-querystring/query"
+	"fmt"
 	"io"
-	"io/ioutil"
+	"log"
 	"net/http"
 	"net/url"
 	"reflect"
 	"strings"
 	"sync"
+
+	"github.com/google/go-querystring/query"
+)
+
+var (
+	BaseURL   = "https://api.opensubtitles.com"
+	UserAgent = "go-opensubtitles v1.0.0"
 )
 
 const (
-	defaultBaseURL = "https://www.opensubtitles.com"
-	userAgent      = "go-opensubtitles"
-
 	mediaTypeJSON = "application/json"
 
-	headerContentType = "Content-Type"
-	headerAccept      = "Accept"
-	headerUserAgent   = "User-Agent"
+	headerContentType   = "Content-Type"
+	headerAccept        = "Accept"
+	headerUserAgent     = "User-Agent"
+	headerApiKey        = "Api-Key"
+	headerAuthorization = "Authorization"
 )
 
 // Credentials used to authenticate to make requests to the OpenSubtitles API.
@@ -51,6 +57,8 @@ type Client struct {
 	rateMu sync.Mutex
 
 	Token string
+
+	ApiKey string
 	//rateLimits [categories]Rate // Rate limits for the client as determined by the most recent API calls.
 
 	common service // Reuse a single struct instead of allocating one for each service on the heap.
@@ -61,7 +69,8 @@ type Client struct {
 	Download       *DownloadService
 	Find           *FindService
 	Info           *InfoService
-	Search         *SearchService
+
+	User *UserData
 }
 
 type service struct {
@@ -94,21 +103,20 @@ func addOptions(s string, opts interface{}) (string, error) {
 // provided, a new http.Client will be used. To use API methods which require
 // authentication, provide an http.Client that will perform the authentication
 // for you (such as that provided by the golang.org/x/oauth2 library).
-func NewClient(httpClient *http.Client, token string, cred Credentials) (c *Client) {
+func NewClient(httpClient *http.Client, token string, cred Credentials, apiKey string) (c *Client) {
 	if httpClient == nil {
 		httpClient = &http.Client{}
 	}
-	baseURL, _ := url.Parse(defaultBaseURL)
+	baseURL, _ := url.Parse(BaseURL)
 	//uploadURL, _ := url.Parse(uploadBaseURL)
 
-	c = &Client{client: httpClient, BaseURL: baseURL, UserAgent: userAgent, Token: token}
+	c = &Client{client: httpClient, BaseURL: baseURL, UserAgent: UserAgent, Token: token, ApiKey: apiKey}
 	c.common.client = c
 	c.Authentication = (*AuthenticationService)(&c.common)
 	c.Discover = (*DiscoverService)(&c.common)
 	c.Download = (*DownloadService)(&c.common)
 	c.Find = (*FindService)(&c.common)
 	c.Info = (*InfoService)(&c.common)
-	c.Search = (*SearchService)(&c.common)
 
 	//Check if struct Credential is not empty
 	if (Credentials{}) != cred {
@@ -118,20 +126,29 @@ func NewClient(httpClient *http.Client, token string, cred Credentials) (c *Clie
 	return
 }
 
-//Connect return a new Client with a working token by making the authentication
-//with the Authentication Login function.
+// Connect return a new Client with a working token by making the authentication
+// with the Authentication Login function.
 func (c *Client) Connect() (*Client, error) {
 	if c == nil {
 		return nil, errors.New("no client provided")
 	}
 	if len(c.Token) < 1 {
-		log, resp, _ := c.Authentication.Login(context.Background(), &c.Credential)
-		if (&LoggedIn{}) != log {
-			if len(log.Token) > 0 && resp.StatusCode == http.StatusOK {
-				c.Token = log.Token
+		login, resp, err := c.Authentication.Login(context.Background(), &c.Credential)
+		if err == nil && login != nil {
+			if len(login.Token) > 0 && resp.StatusCode == http.StatusOK {
+				c.Token = login.Token
 			} else {
-				return nil, errors.New("Wrong Username/Password")
+				return nil, fmt.Errorf("Failed to get a token, got %q with status %q", login.Token, resp.Status)
 			}
+			if login.BaseURL != "" {
+				newBaseURL, err := url.Parse(login.BaseURL)
+				if err != nil {
+					c.BaseURL = newBaseURL
+				}
+			}
+			c.User = &login.User
+		} else {
+			return nil, errors.Join(err, errors.New("Failed to login"))
 		}
 	}
 	return c, nil
@@ -164,9 +181,11 @@ func (c *Client) NewRequest(method, urlStr string, body string) (*http.Request, 
 		return nil, err
 	}
 	req.Header.Add(headerAccept, mediaTypeJSON)
-	req.Header.Set("Content-Type", mediaTypeJSON)
+	req.Header.Set(headerContentType, mediaTypeJSON)
+	req.Header.Set(headerUserAgent, c.UserAgent)
+	req.Header.Set(headerApiKey, c.ApiKey)
 	if c.Token != "" {
-		req.Header.Set("Authorization", c.Token)
+		req.Header.Set(headerAuthorization, "Bearer "+c.Token)
 	}
 	//req.Header.Set("Accept", mediaTypeV3)
 	return req, nil
@@ -179,11 +198,15 @@ func (c *Client) NewRequest(method, urlStr string, body string) (*http.Request, 
 // body, or a JSON response body that maps to ErrorResponse. Any other
 // response body will be silently ignored.
 func CheckResponse(r *http.Response, b []byte) error {
+	if c := r.StatusCode; 200 <= c && c <= 299 {
+		return nil
+	}
+
 	errorResponse := &ErrorResponse{Response: r}
 	if b != nil {
-		json.Unmarshal(b, errorResponse)
+		_ = json.Unmarshal(b, errorResponse)
 	}
-	if errorResponse.Errors != nil || r.StatusCode != http.StatusOK {
+	if errorResponse.Message != "" {
 		return errorResponse
 	}
 	return nil
@@ -237,23 +260,29 @@ func (c *Client) Do(ctx context.Context, req *http.Request, v interface{}) (resp
 
 	defer resp.Body.Close()
 
-	b, err := ioutil.ReadAll(resp.Body)
+	b, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, err
 	}
+	//log.Println("resp.Body:", string(b))
+	//log.Println("resp.Status:", resp.Status)
 
 	/*c.rateMu.Lock()
 	c.rateLimits[rateLimitCategory] = response.Rate
 	c.rateMu.Unlock()*/
-	//TODO: Check response
-	err = CheckResponse(resp, b)
 
-	if v != nil {
+	err = CheckResponse(resp, b)
+	if err != nil {
+		return nil, err
+	}
+
+	if v != nil { // This is true only of we received literally a nil, not some type with nil value.
 		if w, ok := v.(io.Writer); ok {
-			io.Copy(w, bytes.NewReader(b))
+			_, err = io.Copy(w, bytes.NewReader(b))
 		} else {
 			decErr := json.NewDecoder(bytes.NewReader(b)).Decode(v)
 			if decErr == io.EOF {
+				log.Println("Ignoring decoding error:", decErr)
 				decErr = nil // ignore EOF errors caused by empty response body
 			}
 			if decErr != nil {

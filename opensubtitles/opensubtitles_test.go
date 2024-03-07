@@ -1,7 +1,6 @@
 package opensubtitles
 
 import (
-	"context"
 	"io/ioutil"
 	"net/http"
 	"net/http/httptest"
@@ -11,14 +10,11 @@ import (
 	"testing"
 )
 
-var ctx = context.Background()
-
 func setup() (*Client, *http.ServeMux, func()) {
 	mux := http.NewServeMux()
 	server := httptest.NewServer(mux)
 
-	client := NewClient(nil, "", Credentials{},
-	)
+	client := NewClient(nil, "", Credentials{}, "test api key")
 	urlserver, _ := url.Parse(server.URL)
 	client.BaseURL = urlserver
 
@@ -32,9 +28,9 @@ func testMethod(t *testing.T, r *http.Request, want string) {
 	}
 }
 
-type values map[string]string
+type Values map[string]string
 
-func testFormValues(t *testing.T, r *http.Request, values values) {
+func testFormValues(t *testing.T, r *http.Request, values Values) {
 	t.Helper()
 	want := url.Values{}
 	for k, v := range values {
