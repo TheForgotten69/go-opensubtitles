@@ -1,2643 +1,3246 @@
 {
   "total_pages": 1,
-  "total_count": 46,
+  "total_count": 60,
   "page": 1,
   "data": [
     {
-      "id": "493721",
+      "id": "7649112",
       "type": "subtitle",
       "attributes": {
+        "subtitle_id": "7649112",
         "language": "en",
-        "download_count": 16956,
-        "new_download_count": 4,
+        "download_count": 0,
+        "new_download_count": 0,
         "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 25.0,
-        "votes": 7,
-        "points": 67,
-        "ratings": 9.6,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2007-05-16T09:07:38Z",
-        "file_hashes": [
-          "16901fa309ca08bf",
-          "4cb5bace3ecb4cd7",
-          "ce545c943b352b66",
-          "ffb60e55912f0f3b"
-        ],
-        "release": "Hannibal",
-        "comments": "",
-        "legacy_subtitle_id": 3123830,
-        "uploader": {
-          "id": 34153,
-          "name": "arkymedes",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 517991,
-          "feature_type": "Movie",
-          "year": 2001,
-          "title": "Hannibal",
-          "movie_name": "2001 - Hannibal",
-          "imdb_id": 212985,
-          "tmdb_id": 9740
-        },
-        "url": "https://www.opensubtitles.com/en/subtitles/legacy/3123830",
-        "related_links": {
-          "label": "All subtitles for Hannibal",
-          "url": "https://www.opensubtitles.com/en/movies/2001-hannibal",
-          "img_url": "https://s9.osdb.link/features/1/9/9/517991.jpg"
-        },
-        "files": [
-          {
-            "id": 544852,
-            "cd_number": 1,
-            "file_name": "Hannibal.en.srt"
-          }
-        ],
-        "subtitle_id": "493721"
-      }
-    },
-    {
-      "id": "493023",
-      "type": "subtitle",
-      "attributes": {
-        "language": "nl",
-        "download_count": 3889,
-        "new_download_count": 10,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 29.97,
+        "hd": true,
+        "fps": 23.976,
         "votes": 0,
-        "points": 0,
         "ratings": 0.0,
         "from_trusted": false,
-        "auto_translation": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T18:46:40Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2010-11-15T14:55:39Z",
-        "file_hashes": [
-          "e0ecd4008abf13db",
-          "616f1f645baa405b",
-          "67d999832d1f0ea3",
-          "ba5373a124739c61"
-        ],
-        "release": "Major League WS DVDRip",
-        "comments": "",
-        "legacy_subtitle_id": 3956266,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The Killer A Girl Who Deserves To Die (2022) 1080p BluRay H264 DolbyD 5.1 + nickarad",
+        "comments": "not too sure about the frame rate so I've had to guess.Hope I got it right",
+        "legacy_subtitle_id": 9926902,
+        "legacy_uploader_id": 8847500,
         "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
         },
         "feature_details": {
-          "feature_id": 518105,
+          "feature_id": 1397695,
           "feature_type": "Movie",
-          "year": 1989,
-          "title": "Major League",
-          "movie_name": "1989 - Major League",
-          "imdb_id": 97815,
-          "tmdb_id": 9942
+          "year": 2022,
+          "title": "The Killer",
+          "movie_name": "2022 - The Killer",
+          "imdb_id": 19713090,
+          "tmdb_id": 938008
         },
-        "url": "https://www.opensubtitles.com/nl/subtitles/legacy/3956266",
-        "related_links": {
-          "label": "All subtitles for Major League",
-          "url": "https://www.opensubtitles.com/nl/movies/1989-major-league",
-          "img_url": "https://s9.osdb.link/features/5/0/1/518105.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926902",
+        "related_links": [
           {
-            "id": 544077,
-            "cd_number": 1,
-            "file_name": "Major League WS DVDRip.srt"
+            "label": "All subtitles for the killer",
+            "url": "https://www.opensubtitles.com/en/movies/2022-the-killer",
+            "img_url": "https://s9.opensubtitles.com/features/5/9/6/1397695.jpg"
           }
         ],
-        "subtitle_id": "493023"
+        "files": [
+          {
+            "file_id": 8574857,
+            "cd_number": 1,
+            "file_name": "The Killer A Girl Who Deserves To Die (2022) 1080p BluRay H264 DolbyD 5.1 + nickarad"
+          }
+        ]
       }
     },
     {
-      "id": "496017",
+      "id": "7649071",
       "type": "subtitle",
       "attributes": {
+        "subtitle_id": "7649071",
         "language": "en",
-        "download_count": 24642,
-        "new_download_count": 8,
+        "download_count": 1,
+        "new_download_count": 0,
         "hearing_impaired": false,
         "hd": false,
-        "format": null,
-        "fps": 23.98,
-        "votes": 13,
-        "points": 81,
-        "ratings": 6.2,
+        "fps": 24.0,
+        "votes": 0,
+        "ratings": 0.0,
         "from_trusted": false,
-        "auto_translation": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T18:37:44Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2002-10-10T22:00:00Z",
-        "file_hashes": [
-          "3346cd8dfe464ef9",
-          "3b010bffb1be941a",
-          "7e89be9984ccee52",
-          "99f7c878d35bb76e",
-          "c30e90bb59dbee3b",
-          "c5624ed6986d80bb",
-          "d6617da1cd3338a2",
-          "ddc252b95a2e651a",
-          "fd8f603ab6f717ac"
-        ],
-        "release": "Jingle All the Way (1996)",
-        "comments": null,
-        "legacy_subtitle_id": 32268,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Die Sex-Abenteuer der drei Musketiere (1971)",
+        "comments": "",
+        "legacy_subtitle_id": 9926872,
+        "legacy_uploader_id": 0,
         "uploader": {
-          "id": 6872,
-          "name": "alxmota (a)",
-          "rank": "bronze member"
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
         },
         "feature_details": {
-          "feature_id": 518213,
+          "feature_id": 597936,
           "feature_type": "Movie",
-          "year": 1996,
-          "title": "Jingle All the Way",
-          "movie_name": "1996 - Jingle All the Way",
-          "imdb_id": 116705,
-          "tmdb_id": 9279
+          "year": 1971,
+          "title": "The Sex Adventures of the Three Musketeers",
+          "movie_name": "1971 - The Sex Adventures of the Three Musketeers",
+          "imdb_id": 67739,
+          "tmdb_id": 264959
         },
-        "url": "https://www.opensubtitles.com/en/subtitles/legacy/32268",
-        "related_links": {
-          "label": "All subtitles for Jingle All the Way",
-          "url": "https://www.opensubtitles.com/en/movies/1996-jingle-all-the-way",
-          "img_url": "https://s9.osdb.link/features/3/1/2/518213.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926872",
+        "related_links": [
           {
-            "id": 547446,
-            "cd_number": 1,
-            "file_name": "ingles.srt"
+            "label": "All subtitles for the sex adventures of the three musketeers",
+            "url": "https://www.opensubtitles.com/en/movies/1971-the-sex-adventures-of-the-three-musketeers",
+            "img_url": "https://s9.opensubtitles.com/features/6/3/9/597936.jpg"
           }
         ],
-        "subtitle_id": "496017"
+        "files": [
+          {
+            "file_id": 8574815,
+            "cd_number": 1,
+            "file_name": "Die Sex-Abenteuer der drei Musketiere (1971)"
+          }
+        ]
       }
     },
     {
-      "id": "492427",
+      "id": "7649110",
       "type": "subtitle",
       "attributes": {
-        "language": "pt-BR",
-        "download_count": 358,
+        "subtitle_id": "7649110",
+        "language": "sl",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T18:37:01Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Beyond.Paradise.2015.1080p.WEBRip.x264.AAC5.1-[YTS.MX]",
+        "comments": "Beyond.Paradise.2015.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG",
+        "legacy_subtitle_id": 9926868,
+        "legacy_uploader_id": 148151,
+        "uploader": {
+          "uploader_id": 118011,
+          "name": "amitri55",
+          "rank": "Bronze Member"
+        },
+        "feature_details": {
+          "feature_id": 1418592,
+          "feature_type": "Movie",
+          "year": 2016,
+          "title": "Beyond Paradise",
+          "movie_name": "2016 - Beyond Paradise",
+          "imdb_id": 1937340,
+          "tmdb_id": 366675
+        },
+        "url": "https://www.opensubtitles.com/sl/subtitles/legacy/9926868",
+        "related_links": [
+          {
+            "label": "All subtitles for beyond paradise",
+            "url": "https://www.opensubtitles.com/sl/movies/2016-beyond-paradise",
+            "img_url": "https://s9.opensubtitles.com/features/2/9/5/1418592.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574855,
+            "cd_number": 1,
+            "file_name": "Beyond.Paradise.2015.1080p.WEBRip.x264.AAC5.1-[YTS.MX]"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649066",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649066",
+        "language": "hu",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T18:22:04Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.BFG.2016.HDR.2160p.WEB.H265-RVKD",
+        "comments": "SubRip időzítve, passzol még:\r\nThe.BFG.2016.DV.2160p.WEB.H265-RVKD",
+        "legacy_subtitle_id": 9926853,
+        "legacy_uploader_id": 544590,
+        "uploader": {
+          "uploader_id": 42947,
+          "name": "Re-Hard",
+          "rank": "Platinum Member"
+        },
+        "feature_details": {
+          "feature_id": 609075,
+          "feature_type": "Movie",
+          "year": 2016,
+          "title": "The BFG",
+          "movie_name": "2016 - A barátságos óriás",
+          "imdb_id": 3691740,
+          "tmdb_id": 267935
+        },
+        "url": "https://www.opensubtitles.com/hu/subtitles/legacy/9926853",
+        "related_links": [
+          {
+            "label": "All subtitles for the bfg",
+            "url": "https://www.opensubtitles.com/hu/movies/2016-the-bfg",
+            "img_url": "https://s9.opensubtitles.com/features/5/7/0/609075.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574810,
+            "cd_number": 1,
+            "file_name": "rvkd-the.bfg.2016.hdr.2160p.web.h265"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649092",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649092",
+        "language": "el",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": true,
+        "hd": true,
+        "fps": 0.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T18:14:32Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "annette-2021-1080p-bluray-x264-blow",
+        "comments": "",
+        "legacy_subtitle_id": 9926835,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 1269733,
+          "feature_type": "Movie",
+          "year": 2021,
+          "title": "Annette",
+          "movie_name": "2021 - Annette",
+          "imdb_id": 6217926,
+          "tmdb_id": 424277
+        },
+        "url": "https://www.opensubtitles.com/el/subtitles/legacy/9926835",
+        "related_links": [
+          {
+            "label": "All subtitles for annette",
+            "url": "https://www.opensubtitles.com/el/movies/2021-annette",
+            "img_url": "https://s9.opensubtitles.com/features/3/3/7/1269733.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574837,
+            "cd_number": 1,
+            "file_name": "annette-2021-1080p-bluray-x264-blow"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649060",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649060",
+        "language": "hu",
+        "download_count": 0,
+        "new_download_count": 1,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T18:10:34Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Migration.2023.1080p.BluRay.x264-ROEN",
+        "comments": "SubRip, passzol még:\r\nMigration.2023.BDRip.x264-ROEN\r\nMigration.2023.720p.BluRay.x264.AAC-[YTS.MX]\r\nMigration.2023.1080p.BluRay.x264.AAC5.1-[YTS.MX]\r\nMigration.2023.720p.BluRay.x264-ROEN\r\nMigration.2023.1080p.BluRay.H264-RiSEHD\r\nMigration.2023.1080p.BluRay.DD+7.1.x264-SbR\r\nMigration.2023.1080p.UHD.BluRay.DDP.7.1.DoVi.HDR.x265-SPHD\r\nMigration.2023.1080p.Blu-ray.Remux.AVC.TrueHD.7.1-HDT\r\nMigration.2023.1080p.COMPLETE.BLURAY-RiSEHD\r\nMigration.2023.2160p.UHD.BluRay.H265-GAZPROM\r\nMigration.2023.2160p.UHD.BluRay.REMUX.DV.HDR.HEVC.Atmos-TRiToN\r\nMigration.2023.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam",
+        "legacy_subtitle_id": 9926831,
+        "legacy_uploader_id": 544590,
+        "uploader": {
+          "uploader_id": 42947,
+          "name": "Re-Hard",
+          "rank": "Platinum Member"
+        },
+        "feature_details": {
+          "feature_id": 1771555,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Migration",
+          "movie_name": "2023 - Migration",
+          "imdb_id": 6495056,
+          "tmdb_id": 940551
+        },
+        "url": "https://www.opensubtitles.com/hu/subtitles/legacy/9926831",
+        "related_links": [
+          {
+            "label": "All subtitles for migration",
+            "url": "https://www.opensubtitles.com/hu/movies/2023-migration",
+            "img_url": "https://s9.opensubtitles.com/features/5/5/5/1771555.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574804,
+            "cd_number": 1,
+            "file_name": "Migration.2023.1080p.BluRay.x264-ROEN"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649058",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649058",
+        "language": "pt-PT",
+        "download_count": 0,
         "new_download_count": 2,
         "hearing_impaired": false,
         "hd": true,
-        "format": null,
-        "fps": 23.98,
-        "votes": 1,
-        "points": 1,
-        "ratings": 1.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2015-12-26T15:19:56Z",
-        "file_hashes": [],
-        "release": "Rambo.First.Blood.II.1985.Ultimate.Uncut.Remastered.Edition.1080p.BluRay.x264.AAC-ETRG",
-        "comments": "PT-BR subtitle uploaded by saidleugim",
-        "legacy_subtitle_id": 6437707,
-        "uploader": {
-          "id": 71162,
-          "name": "saidleugim",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 517867,
-          "feature_type": "Movie",
-          "year": 1985,
-          "title": "Rambo: First Blood Part II",
-          "movie_name": "1985 - Rambo: First Blood Part II",
-          "imdb_id": 89880,
-          "tmdb_id": 1369
-        },
-        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/6437707",
-        "related_links": {
-          "label": "All subtitles for Rambo: First Blood Part II",
-          "url": "https://www.opensubtitles.com/pt-BR/movies/1985-rambo-first-blood-part-ii",
-          "img_url": "https://s9.osdb.link/features/7/6/8/517867.jpg"
-        },
-        "files": [
-          {
-            "id": 6026410,
-            "cd_number": 1,
-            "file_name": "Rambo.First.Blood.II.1985.Ultimate.Uncut.Remastered.Edition.1080p.BluRay.x264.AAC-ETRG.srt"
-          }
-        ],
-        "subtitle_id": "492427"
-      }
-    },
-    {
-      "id": "492641",
-      "type": "subtitle",
-      "attributes": {
-        "language": "es",
-        "download_count": 1477,
-        "new_download_count": 2,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
         "fps": 0.0,
         "votes": 0,
-        "points": 0,
         "ratings": 0.0,
         "from_trusted": false,
-        "auto_translation": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T18:08:09Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2005-08-19T22:00:00Z",
-        "file_hashes": [],
-        "release": "Philadelphia Story, The (1940)",
-        "comments": null,
-        "legacy_subtitle_id": 101000,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The Zone of Interest (2023)",
+        "comments": "Legendas: Jocraft (letterboxd)\r\n- Traduzidas da fonte e manualmente escritas",
+        "legacy_subtitle_id": 9926829,
+        "legacy_uploader_id": 10022538,
         "uploader": {
-          "id": 14715,
-          "name": "marlowe62 (a)",
-          "rank": "bronze member"
+          "uploader_id": 638846,
+          "name": "jocraft",
+          "rank": "Sub leecher"
         },
         "feature_details": {
-          "feature_id": 518136,
+          "feature_id": 1779162,
           "feature_type": "Movie",
-          "year": 1940,
-          "title": "The Philadelphia Story",
-          "movie_name": "1940 - The Philadelphia Story",
-          "imdb_id": 32904,
-          "tmdb_id": 981
+          "year": 2023,
+          "title": "The Zone of Interest",
+          "movie_name": "2023 - The Zone of Interest",
+          "imdb_id": 7160372,
+          "tmdb_id": 467244
         },
-        "url": "https://www.opensubtitles.com/es/subtitles/legacy/101000",
-        "related_links": {
-          "label": "All subtitles for The Philadelphia Story",
-          "url": "https://www.opensubtitles.com/es/movies/1940-the-philadelphia-story",
-          "img_url": "https://s9.osdb.link/features/6/3/1/518136.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/pt-PT/subtitles/legacy/9926829",
+        "related_links": [
           {
-            "id": 6026506,
-            "cd_number": 1,
-            "file_name": "George Cukor - Historias de Filadelfia (1940) DvdRip XviD Mp3 Dual Divxclasico.Esp.srt"
+            "label": "All subtitles for the zone of interest",
+            "url": "https://www.opensubtitles.com/pt-PT/movies/2023-the-zone-of-interest",
+            "img_url": "https://s9.opensubtitles.com/features/2/6/1/1779162.jpg"
           }
         ],
-        "subtitle_id": "492641"
+        "files": [
+          {
+            "file_id": 8574802,
+            "cd_number": 1,
+            "file_name": "The Zone of Interest 2023 2160p WEBRip"
+          }
+        ]
       }
     },
     {
-      "id": "496423",
+      "id": "7649061",
       "type": "subtitle",
       "attributes": {
-        "language": "es",
-        "download_count": 674,
+        "subtitle_id": "7649061",
+        "language": "hu",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T18:06:38Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Migration.2023.1080p.WEB-DL.DDP5.1.Atmos.H.264-FLUX",
+        "comments": "SubRip, passzol még:\r\nMigration.2023.WEB.H264-MUSiCANA\r\nMigration.2023.720p.WEBRip.x264.AAC-[YTS.MX]\r\nMigration.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX]\r\nMigration.2023.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX]\r\nMigration.2023.720p.WEBRip.800MB.x264-GalaxyRG\r\nMigration.2023.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG\r\nMigration.2023.720p.10bit.WEBRip.6CH.X265.HEVC-PSA\r\nMigration.2023.1080p.10bit.WEBRip.6CH.X265.HEVC-PSA\r\nMigration.2023.720p.WEB.H264-EDITH\r\nMigration.2023.1080p.WEB.H264-ETHEL\r\nMigration.2023.DV.2160p.WEB.h265-ETHEL\r\nMigration.2023.HDR.2160p.WEB.H265-ETHEL\r\nMigration.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.H.265-FLUX\r\nMigration.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX\r\nMigration.2023.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-FLUX",
+        "legacy_subtitle_id": 9926827,
+        "legacy_uploader_id": 544590,
+        "uploader": {
+          "uploader_id": 42947,
+          "name": "Re-Hard",
+          "rank": "Platinum Member"
+        },
+        "feature_details": {
+          "feature_id": 1771555,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Migration",
+          "movie_name": "2023 - Migration",
+          "imdb_id": 6495056,
+          "tmdb_id": 940551
+        },
+        "url": "https://www.opensubtitles.com/hu/subtitles/legacy/9926827",
+        "related_links": [
+          {
+            "label": "All subtitles for migration",
+            "url": "https://www.opensubtitles.com/hu/movies/2023-migration",
+            "img_url": "https://s9.opensubtitles.com/features/5/5/5/1771555.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574805,
+            "cd_number": 1,
+            "file_name": "Migration.2023.1080p.WEB-DL.DDP5.1.Atmos.H.264-FLUX"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649049",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649049",
+        "language": "nl",
+        "download_count": 1,
         "new_download_count": 3,
         "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 29.97,
+        "hd": true,
+        "fps": 0.0,
         "votes": 0,
-        "points": 0,
         "ratings": 0.0,
         "from_trusted": false,
-        "auto_translation": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T18:02:12Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2008-03-23T21:04:04Z",
-        "file_hashes": [],
-        "release": "Le mépris",
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Migration.2023.1080p.BluRay.x264-ROEN",
         "comments": "",
-        "legacy_subtitle_id": 3264195,
+        "legacy_subtitle_id": 9926823,
+        "legacy_uploader_id": 9208730,
         "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
         },
         "feature_details": {
-          "feature_id": 518020,
+          "feature_id": 1771555,
           "feature_type": "Movie",
-          "year": 1963,
-          "title": "Contempt",
-          "movie_name": "1963 - Contempt",
-          "imdb_id": 57345,
-          "tmdb_id": 266
+          "year": 2023,
+          "title": "Migration",
+          "movie_name": "2023 - Migration",
+          "imdb_id": 6495056,
+          "tmdb_id": 940551
         },
-        "url": "https://www.opensubtitles.com/es/subtitles/legacy/3264195",
-        "related_links": {
-          "label": "All subtitles for Contempt",
-          "url": "https://www.opensubtitles.com/es/movies/1963-contempt",
-          "img_url": "https://s9.osdb.link/features/0/2/0/518020.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/nl/subtitles/legacy/9926823",
+        "related_links": [
           {
-            "id": 6028018,
-            "cd_number": 1,
-            "file_name": "Le mepris-es.srt"
+            "label": "All subtitles for migration",
+            "url": "https://www.opensubtitles.com/nl/movies/2023-migration",
+            "img_url": "https://s9.opensubtitles.com/features/5/5/5/1771555.jpg"
           }
         ],
-        "subtitle_id": "496423"
+        "files": [
+          {
+            "file_id": 8574793,
+            "cd_number": 1,
+            "file_name": "Migration.2023.1080p.BluRay.x264-ROEN"
+          }
+        ]
       }
     },
     {
-      "id": "496722",
+      "id": "7649055",
       "type": "subtitle",
       "attributes": {
+        "subtitle_id": "7649055",
+        "language": "pl",
+        "download_count": 2,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": false,
+        "fps": 25.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T17:55:02Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "webrip",
+        "comments": "oficjalne",
+        "legacy_subtitle_id": 9926816,
+        "legacy_uploader_id": 5084183,
+        "uploader": {
+          "uploader_id": 78811,
+          "name": "mienczyslaw",
+          "rank": "Platinum Member"
+        },
+        "feature_details": {
+          "feature_id": 1279839,
+          "feature_type": "Movie",
+          "year": 2020,
+          "title": "Numbers",
+          "movie_name": "2020 - Numbers",
+          "imdb_id": 11771626,
+          "tmdb_id": 661566
+        },
+        "url": "https://www.opensubtitles.com/pl/subtitles/legacy/9926816",
+        "related_links": [
+          {
+            "label": "All subtitles for numbers",
+            "url": "https://www.opensubtitles.com/pl/movies/2020-numbers",
+            "img_url": "https://s9.opensubtitles.com/features/9/3/8/1279839.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574799,
+            "cd_number": 1,
+            "file_name": "webrip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649042",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649042",
+        "language": "ru",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T17:47:39Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Trailer.of.a.Film.That.Will.Never.Exist.Phony.Wars.2023.1080p.Bluray.DTS.5.1.x264-SaL",
+        "comments": "",
+        "legacy_subtitle_id": 9926814,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 1774064,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Trailer of a Film That Will Never Exist: Phony Wars",
+          "movie_name": "2023 - Trailer of a Film That Will Never Exist: Phony Wars",
+          "imdb_id": 27770872,
+          "tmdb_id": 1065727
+        },
+        "url": "https://www.opensubtitles.com/ru/subtitles/legacy/9926814",
+        "related_links": [
+          {
+            "label": "All subtitles for trailer of a film that will never exist: phony wars",
+            "url": "https://www.opensubtitles.com/ru/movies/2023-trailer-of-the-film-that-will-never-exist-phony-wars",
+            "img_url": "https://s9.opensubtitles.com/features/4/6/0/1774064.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574786,
+            "cd_number": 1,
+            "file_name": "Trailer.of.a.Film.That.Will.Never.Exist.Phony.Wars.2023.1080p.Bluray.DTS.5.1.x264-SaL.rus"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649043",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649043",
+        "language": "nl",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": true,
+        "upload_date": "2024-03-05T17:47:12Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Kenau.2014.BLURAY.720p.BluRay.x264.AAC-YTS.MX",
+        "comments": "sync",
+        "legacy_subtitle_id": 9926813,
+        "legacy_uploader_id": 5549394,
+        "uploader": {
+          "uploader_id": 80196,
+          "name": "xint",
+          "rank": "Gold member"
+        },
+        "feature_details": {
+          "feature_id": 593284,
+          "feature_type": "Movie",
+          "year": 2014,
+          "title": "Kenau",
+          "movie_name": "2014 - Kenau",
+          "imdb_id": 2512170,
+          "tmdb_id": 251619
+        },
+        "url": "https://www.opensubtitles.com/nl/subtitles/legacy/9926813",
+        "related_links": [
+          {
+            "label": "All subtitles for kenau",
+            "url": "https://www.opensubtitles.com/nl/movies/2014-kenau",
+            "img_url": "https://s9.opensubtitles.com/features/4/8/2/593284.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574787,
+            "cd_number": 1,
+            "file_name": "Kenau.2014.BLURAY.720p.BluRay.x264.AAC-YTS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649041",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649041",
+        "language": "fr",
+        "download_count": 2,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T17:42:35Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Woman of Tokyo (1933) 1080i HDTV MPEG-2 AAC2.0",
+        "comments": "",
+        "legacy_subtitle_id": 9926812,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 521864,
+          "feature_type": "Movie",
+          "year": 1933,
+          "title": "Woman of Tokyo",
+          "movie_name": "1933 - Une femme de Tokyo",
+          "imdb_id": 24676,
+          "tmdb_id": 142918
+        },
+        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/9926812",
+        "related_links": [
+          {
+            "label": "All subtitles for woman of tokyo",
+            "url": "https://www.opensubtitles.com/fr/movies/1933-tokyo-no-onna",
+            "img_url": "https://s9.opensubtitles.com/features/4/6/8/521864.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574785,
+            "cd_number": 1,
+            "file_name": "Woman of Tokyo (1933) 1080i HDTV MPEG-2 AAC2.0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649045",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649045",
+        "language": "pt-PT",
+        "download_count": 7,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T17:35:18Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Blue.Bloods.S14E03.1080p.WEB.h264-EDITH-por",
+        "comments": "Trabalho puramente amador",
+        "legacy_subtitle_id": 9926811,
+        "legacy_uploader_id": 6895782,
+        "uploader": {
+          "uploader_id": 259172,
+          "name": "pjrpinheiro",
+          "rank": "Bronze Member"
+        },
+        "feature_details": {
+          "feature_id": 1780496,
+          "feature_type": "Movie",
+          "year": null,
+          "title": "\"Blue Bloods\" Fear No Evil",
+          "movie_name": " - \"Blue Bloods\" Fear No Evil",
+          "imdb_id": 31149641,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/pt-PT/subtitles/legacy/9926811",
+        "related_links": [
+          {
+            "label": "All subtitles for \"blue bloods\" fear no evil",
+            "url": "https://www.opensubtitles.com/pt-PT/movies/blue-bloods-fear-no-evil",
+            "img_url": "https://s9.opensubtitles.com/features/6/9/4/1780496.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574789,
+            "cd_number": 1,
+            "file_name": "Blue.Bloods.S14E03.1080p.WEB.h264-EDITH-por"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649037",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649037",
+        "language": "en",
+        "download_count": 3,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 24.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T17:24:56Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Sang.Krasue.2019.BLURAY.720p.BluRay.x264.AAC-[YTS.MX]",
+        "comments": "",
+        "legacy_subtitle_id": 9926805,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 782059,
+          "feature_type": "Movie",
+          "year": 2019,
+          "title": "Inhuman Kiss",
+          "movie_name": "2019 - Inhuman Kiss",
+          "imdb_id": 9799992,
+          "tmdb_id": 587488
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926805",
+        "related_links": [
+          {
+            "label": "All subtitles for inhuman kiss",
+            "url": "https://www.opensubtitles.com/en/movies/2019-krasue-inhuman-kiss",
+            "img_url": "https://s9.opensubtitles.com/features/9/5/0/782059.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574781,
+            "cd_number": 1,
+            "file_name": "Sang.Krasue.2019.BLURAY.720p.BluRay.x264.AAC-[YTS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649035",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649035",
+        "language": "en",
+        "download_count": 1,
+        "new_download_count": 4,
+        "hearing_impaired": false,
+        "hd": false,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T17:24:35Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Midsommar 2019 Directors Cut 1080p BluRay REMUX AVC DTS-HD MA 5.1-EPSiLON",
+        "comments": "",
+        "legacy_subtitle_id": 9926804,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 697969,
+          "feature_type": "Movie",
+          "year": 2019,
+          "title": "Midsommar",
+          "movie_name": "2019 - Midsommar",
+          "imdb_id": 8772262,
+          "tmdb_id": 530385
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926804",
+        "related_links": [
+          {
+            "label": "All subtitles for midsommar",
+            "url": "https://www.opensubtitles.com/en/movies/2019-midsommar",
+            "img_url": "https://s9.opensubtitles.com/features/9/6/9/697969.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574779,
+            "cd_number": 1,
+            "file_name": "Midsommar 2019 Directors Cut 1080p BluRay REMUX AVC DTS-HD MA 5.1-EPSiLON"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649039",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649039",
+        "language": "en",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T17:24:11Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "T.o.a.F.T.W.N.E.P.W.2023.1080p.Bluray.Dream",
+        "comments": "",
+        "legacy_subtitle_id": 9926803,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 1774064,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Trailer of a Film That Will Never Exist: Phony Wars",
+          "movie_name": "2023 - Trailer of a Film That Will Never Exist: Phony Wars",
+          "imdb_id": 27770872,
+          "tmdb_id": 1065727
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926803",
+        "related_links": [
+          {
+            "label": "All subtitles for trailer of a film that will never exist: phony wars",
+            "url": "https://www.opensubtitles.com/en/movies/2023-trailer-of-the-film-that-will-never-exist-phony-wars",
+            "img_url": "https://s9.opensubtitles.com/features/4/6/0/1774064.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574783,
+            "cd_number": 1,
+            "file_name": "T.o.a.F.T.W.N.E.P.W.2023.1080p.Bluray.Dream.Eng"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649029",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649029",
+        "language": "pt-BR",
+        "download_count": 13,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 24.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T17:13:48Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Zone.of.Interest.2023.GERMAN.1080p.AMZN.WEBRip.800MB.x264-GalaxyRG",
+        "comments": "",
+        "legacy_subtitle_id": 9926802,
+        "legacy_uploader_id": 10026545,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1779162,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "The Zone of Interest",
+          "movie_name": "2023 - The Zone of Interest",
+          "imdb_id": 7160372,
+          "tmdb_id": 467244
+        },
+        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/9926802",
+        "related_links": [
+          {
+            "label": "All subtitles for the zone of interest",
+            "url": "https://www.opensubtitles.com/pt-BR/movies/2023-the-zone-of-interest",
+            "img_url": "https://s9.opensubtitles.com/features/2/6/1/1779162.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574773,
+            "cd_number": 1,
+            "file_name": "The.Zone.of.Interest.2023.GERMAN.1080p.AMZN.WEBRip.800MB.x264-GalaxyRG"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649023",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649023",
+        "language": "he",
+        "download_count": 2,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": true,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T17:04:30Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Grizzly.Park.2008.1080p.BluRay.x264.AAC5.1-[YTS.MX]",
+        "comments": "",
+        "legacy_subtitle_id": 9926800,
+        "legacy_uploader_id": 6125905,
+        "uploader": {
+          "uploader_id": 82372,
+          "name": "transit2_",
+          "rank": "Trusted member"
+        },
+        "feature_details": {
+          "feature_id": 542160,
+          "feature_type": "Movie",
+          "year": 2008,
+          "title": "Grizzly Park",
+          "movie_name": "2008 - Grizzly Park",
+          "imdb_id": 915460,
+          "tmdb_id": 18505
+        },
+        "url": "https://www.opensubtitles.com/he/subtitles/legacy/9926800",
+        "related_links": [
+          {
+            "label": "All subtitles for grizzly park",
+            "url": "https://www.opensubtitles.com/he/movies/2008-grizzly-park",
+            "img_url": "https://s9.opensubtitles.com/features/0/6/1/542160.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574767,
+            "cd_number": 1,
+            "file_name": "Grizzly.Park.2008.1080p.BluRay.x264.AAC5.1-[YTS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649025",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649025",
+        "language": "fa",
+        "download_count": 2,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T17:03:31Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Becoming Nobody (2019) 720p WEB x264 Dr3adLoX",
+        "comments": "اولین زیرنویس فارسی نیاز به تصحیح",
+        "legacy_subtitle_id": 9926799,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 1070395,
+          "feature_type": "Movie",
+          "year": 2019,
+          "title": "Becoming Nobody",
+          "movie_name": "2019 - Becoming Nobody",
+          "imdb_id": 10534256,
+          "tmdb_id": 626013
+        },
+        "url": "https://www.opensubtitles.com/fa/subtitles/legacy/9926799",
+        "related_links": [
+          {
+            "label": "All subtitles for becoming nobody",
+            "url": "https://www.opensubtitles.com/fa/movies/2019-becoming-nobody",
+            "img_url": "https://s9.opensubtitles.com/features/5/9/3/1070395.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574769,
+            "cd_number": 1,
+            "file_name": "Becoming Nobody (2019) 720p WEB x264 Dr3adLoX.fa"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649026",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649026",
+        "language": "en",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T17:02:53Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Rogue River (2011)",
+        "comments": "Transcribed and beautifully sync'd.",
+        "legacy_subtitle_id": 9926798,
+        "legacy_uploader_id": 5613066,
+        "uploader": {
+          "uploader_id": 141379,
+          "name": "randoggy",
+          "rank": "VIP Member"
+        },
+        "feature_details": {
+          "feature_id": 572400,
+          "feature_type": "Movie",
+          "year": 2012,
+          "title": "Rogue River",
+          "movie_name": "2012 - Rogue River",
+          "imdb_id": 1560978,
+          "tmdb_id": 79550
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926798",
+        "related_links": [
+          {
+            "label": "All subtitles for rogue river",
+            "url": "https://www.opensubtitles.com/en/movies/2012-rogue-river",
+            "img_url": "https://s9.opensubtitles.com/features/0/0/4/572400.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574770,
+            "cd_number": 1,
+            "file_name": "Rogue River (2011)_eng"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649046",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649046",
+        "language": "el",
+        "download_count": 0,
+        "new_download_count": 229,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:58:36Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Dark.Windows.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264",
+        "comments": "release date: August 18",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1496170,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Dark windows",
+          "movie_name": "2023 - Dark windows",
+          "imdb_id": 13318942,
+          "tmdb_id": 1089228
+        },
+        "url": "https://www.opensubtitles.com/el/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for dark windows",
+            "url": "https://www.opensubtitles.com/el/movies/2023-dark-windows",
+            "img_url": "https://s9.opensubtitles.com/features/0/7/1/1496170.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574790,
+            "cd_number": 1,
+            "file_name": "Dark.Windows.2023.1080p.AMZN.WEB-DL.DDP5.1.H"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649016",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649016",
+        "language": "en",
+        "download_count": 13,
+        "new_download_count": 3,
+        "hearing_impaired": true,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:52:00Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Sight.Unseen.2024.S01E07.WEB",
+        "comments": "",
+        "legacy_subtitle_id": 9926793,
+        "legacy_uploader_id": 9542571,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780813,
+          "feature_type": "Movie",
+          "year": null,
+          "title": "\"Sight Unseen\" Episode #1.7",
+          "movie_name": " - \"Sight Unseen\" Episode #1.7",
+          "imdb_id": 30767008,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926793",
+        "related_links": [
+          {
+            "label": "All subtitles for \"sight unseen\" episode #1.7",
+            "url": "https://www.opensubtitles.com/en/movies/sight-unseen-episode-1-7",
+            "img_url": "https://s9.opensubtitles.com/features/3/1/8/1780813.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574759,
+            "cd_number": 1,
+            "file_name": "Sight.Unseen.2024.S01E07.WEB (SDH)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649014",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649014",
+        "language": "en",
+        "download_count": 23,
+        "new_download_count": 4,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:51:55Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Sight.Unseen.2024.S01E07.WEB",
+        "comments": "",
+        "legacy_subtitle_id": 9926792,
+        "legacy_uploader_id": 9542571,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780813,
+          "feature_type": "Movie",
+          "year": null,
+          "title": "\"Sight Unseen\" Episode #1.7",
+          "movie_name": " - \"Sight Unseen\" Episode #1.7",
+          "imdb_id": 30767008,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926792",
+        "related_links": [
+          {
+            "label": "All subtitles for \"sight unseen\" episode #1.7",
+            "url": "https://www.opensubtitles.com/en/movies/sight-unseen-episode-1-7",
+            "img_url": "https://s9.opensubtitles.com/features/3/1/8/1780813.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574757,
+            "cd_number": 1,
+            "file_name": "Sight.Unseen.2024.S01E07.WEB"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649004",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649004",
+        "language": "ar",
+        "download_count": 6,
+        "new_download_count": 3,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:41:33Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Argylle.2024.720p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX",
+        "comments": "",
+        "legacy_subtitle_id": 9926788,
+        "legacy_uploader_id": 9885383,
+        "uploader": {
+          "uploader_id": 517521,
+          "name": "kokolakiss",
+          "rank": "Platinum Member"
+        },
+        "feature_details": {
+          "feature_id": 1777362,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Argylle",
+          "movie_name": "2024 - Argylle",
+          "imdb_id": 15009428,
+          "tmdb_id": 848538
+        },
+        "url": "https://www.opensubtitles.com/ar/subtitles/legacy/9926788",
+        "related_links": [
+          {
+            "label": "All subtitles for argylle",
+            "url": "https://www.opensubtitles.com/ar/movies/2024-argylle",
+            "img_url": "https://s9.opensubtitles.com/features/2/6/3/1777362.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574747,
+            "cd_number": 1,
+            "file_name": "Argylle.2024.720p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX_ara"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649003",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649003",
+        "language": "pl",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:41:22Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.LEGO.Batman.Movie.2017.ATMOS.DL.2160p.UHD.BluRay.HDR.HEVC.Remux-NIMA4K",
+        "comments": "Synchro do wersji Bluray UHD 2160p",
+        "legacy_subtitle_id": 9926787,
+        "legacy_uploader_id": 8116719,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 613445,
+          "feature_type": "Movie",
+          "year": 2017,
+          "title": "The Lego Batman Movie",
+          "movie_name": "2017 - Lego® Batman: Film",
+          "imdb_id": 4116284,
+          "tmdb_id": 324849
+        },
+        "url": "https://www.opensubtitles.com/pl/subtitles/legacy/9926787",
+        "related_links": [
+          {
+            "label": "All subtitles for the lego batman movie",
+            "url": "https://www.opensubtitles.com/pl/movies/2017-the-lego-batman-movie",
+            "img_url": "https://s9.opensubtitles.com/features/5/4/4/613445.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574746,
+            "cd_number": 1,
+            "file_name": "The.LEGO.Batman.Movie.2017.German.Dubbed.ATMOS.DL.2160p.UHD.BluRay.HDR.HEVC.Remux-NIMA4K"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649002",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649002",
+        "language": "en",
+        "download_count": 6,
+        "new_download_count": 2,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:37:00Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "NCIS.S21E04.1080p.HEVC.x265-MeGusta",
+        "comments": "42:01",
+        "legacy_subtitle_id": 9926785,
+        "legacy_uploader_id": 3457702,
+        "uploader": {
+          "uploader_id": 72584,
+          "name": "class123",
+          "rank": "Admin Warning"
+        },
+        "feature_details": {
+          "feature_id": 1780776,
+          "feature_type": "Movie",
+          "year": null,
+          "title": "\"NCIS\" Left Unsaid",
+          "movie_name": " - \"NCIS\" Left Unsaid",
+          "imdb_id": 31249380,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926785",
+        "related_links": [
+          {
+            "label": "All subtitles for \"ncis\" left unsaid",
+            "url": "https://www.opensubtitles.com/en/movies/ncis-left-unsaid",
+            "img_url": "https://s9.opensubtitles.com/features/6/7/7/1780776.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574745,
+            "cd_number": 1,
+            "file_name": "NCIS.S21E04.1080p.HEVC.x265-MeGusta"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649005",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649005",
+        "language": "sl",
+        "download_count": 6,
+        "new_download_count": 1,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:36:49Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Argylle.2024.SLOSubs.WEBRip.XviD-metalcamp",
+        "comments": "Argylle.2024.720p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX\r\nArgylle.2024.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG\r\nArgylle.2024.1080p.WEBRip.x264.AAC5.1-YTS.MX\r\nArgylle.2024.1080p.WEB.H264-SupermanPeacemakerWalterWhite\r\nArgylle.2024.SLOSubs.WEBRip.XviD-Blazer\r\nArgylle.2024.720p.WEBRip.900MB.x264-GalaxyRG\r\nArgylle.2024.720p.WEBRip.x264.AAC-YTS.MX\r\nArgylle.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX\r\nArgylle.2024.2160p.WEB.H265-SupermanPeacemakerWalterWhite",
+        "legacy_subtitle_id": 9926784,
+        "legacy_uploader_id": 6368780,
+        "uploader": {
+          "uploader_id": 83310,
+          "name": "blazcare89_",
+          "rank": "Administrator"
+        },
+        "feature_details": {
+          "feature_id": 1777362,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Argylle",
+          "movie_name": "2024 - Argylle",
+          "imdb_id": 15009428,
+          "tmdb_id": 848538
+        },
+        "url": "https://www.opensubtitles.com/sl/subtitles/legacy/9926784",
+        "related_links": [
+          {
+            "label": "All subtitles for argylle",
+            "url": "https://www.opensubtitles.com/sl/movies/2024-argylle",
+            "img_url": "https://s9.opensubtitles.com/features/2/6/3/1777362.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574748,
+            "cd_number": 1,
+            "file_name": "Argylle.2024.SLOSubs.WEBRip.XviD-metalcamp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649007",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649007",
+        "language": "en",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 25.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:35:33Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "BBC.Storyville.2023.Blue.Bag.Life.1080p.HDTV.x265.AAC.MVGroup.org",
+        "comments": "",
+        "legacy_subtitle_id": 9926782,
+        "legacy_uploader_id": 3105768,
+        "uploader": {
+          "uploader_id": 71301,
+          "name": "alienps",
+          "rank": "Gold member"
+        },
+        "feature_details": {
+          "feature_id": 1780812,
+          "feature_type": "Movie",
+          "year": 2022,
+          "title": "Blue Bag Life",
+          "movie_name": "2022 - Blue Bag Life",
+          "imdb_id": 22052280,
+          "tmdb_id": 1019165
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926782",
+        "related_links": [
+          {
+            "label": "All subtitles for blue bag life",
+            "url": "https://www.opensubtitles.com/en/movies/2022-blue-bag-life",
+            "img_url": "https://s9.opensubtitles.com/features/2/1/8/1780812.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574750,
+            "cd_number": 1,
+            "file_name": "BBC.Storyville.2023.Blue.Bag.Life.1080p.HDTV.x265.AAC.MVGroup.org.en"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649009",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649009",
+        "language": "pt-BR",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:32:44Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Frost Nixon 2008 1080p BluRay x264 NVEE",
+        "comments": "Feito apenas um ajuste de sincro de +0,65 segundos na excelente legenda traduzida pela Equipe Quicksubs para ficar perfeita no release NVEE.\r\n.\r\n\r\nFrost/Nixon (2008)\r\n12 anos \r\n05/12/2008 (BR) \r\nDrama, História \r\nTime 2h2m\r\nSinopse\r\nTrês anos depois do escândalo político de Watergate, o que o levou à renúncia, Richard Nixon seleciona o jornalista britânico David Frost para conduzir uma entrevista exclusiva. Apesar de o ex-presidente acreditar que será fácil despistar o jornalista, a conversa acaba tornando-se uma entrevista franca e reveladora.\r\n.",
+        "legacy_subtitle_id": 9926778,
+        "legacy_uploader_id": 825270,
+        "uploader": {
+          "uploader_id": 47683,
+          "name": "marinhojc",
+          "rank": "Gold member"
+        },
+        "feature_details": {
+          "feature_id": 547049,
+          "feature_type": "Movie",
+          "year": 2008,
+          "title": "Frost/Nixon",
+          "movie_name": "2008 - Frost / Nixon, l'heure de vérité",
+          "imdb_id": 870111,
+          "tmdb_id": 11499
+        },
+        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/9926778",
+        "related_links": [
+          {
+            "label": "All subtitles for frost/nixon",
+            "url": "https://www.opensubtitles.com/pt-BR/movies/2008-frost-nixon",
+            "img_url": "https://s9.opensubtitles.com/features/9/4/0/547049.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574753,
+            "cd_number": 1,
+            "file_name": "Frost Nixon 2008.1080p.BluRay.x264 . NVEE"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649000",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649000",
+        "language": "nl",
+        "download_count": 4,
+        "new_download_count": 1,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:30:33Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Padre Padrone (1977) [1080p] [BluRay] [YTS.MX]",
+        "comments": "",
+        "legacy_subtitle_id": 9926776,
+        "legacy_uploader_id": 9891134,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 524045,
+          "feature_type": "Movie",
+          "year": 1977,
+          "title": "Padre Padrone",
+          "movie_name": "1977 - Padre Padrone",
+          "imdb_id": 76517,
+          "tmdb_id": 42225
+        },
+        "url": "https://www.opensubtitles.com/nl/subtitles/legacy/9926776",
+        "related_links": [
+          {
+            "label": "All subtitles for padre padrone",
+            "url": "https://www.opensubtitles.com/nl/movies/1977-padre-padrone",
+            "img_url": "https://s9.opensubtitles.com/features/5/4/0/524045.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574743,
+            "cd_number": 1,
+            "file_name": "Padre Padrone (1977) [1080p] [BluRay] [YTS.MX].BRTL.nl"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648998",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648998",
+        "language": "nl",
+        "download_count": 11,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:28:05Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Good.Doctor.S07E02.720p.HDTV.x264-SYNCOPY",
+        "comments": "",
+        "legacy_subtitle_id": 9926774,
+        "legacy_uploader_id": 2004363,
+        "uploader": {
+          "uploader_id": 67271,
+          "name": "LordCosmos",
+          "rank": "Platinum Member"
+        },
+        "feature_details": {
+          "feature_id": 1780077,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Skin in the Game",
+          "movie_name": "2024 - Skin in the Game",
+          "imdb_id": 30982667,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/nl/subtitles/legacy/9926774",
+        "related_links": [
+          {
+            "label": "All subtitles for skin in the game",
+            "url": "https://www.opensubtitles.com/nl/movies/2024-skin-in-the-game",
+            "img_url": "https://s9.opensubtitles.com/features/7/7/0/1780077.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574741,
+            "cd_number": 1,
+            "file_name": "The.Good.Doctor.S07E02.720p.HDTV.x264-SYNCOPY"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648987",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648987",
+        "language": "en",
+        "download_count": 4,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": true,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:27:52Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Equalizer.2021.S04E03.720p.HDTV.x265-MiNX",
+        "comments": "Non Hi:HDTV:Duration = 00:43:25\r\n\"Synced\"\r\n\r\n\r\nThe.Equalizer.2021.S04E03.720p.HDTV.x264-SYNCOPY\r\nThe.Equalizer.2021.S04E03.HDTV.x264-TGx",
+        "legacy_subtitle_id": 9926773,
+        "legacy_uploader_id": 8396040,
+        "uploader": {
+          "uploader_id": 227612,
+          "name": "m_i_s",
+          "rank": "Administrator"
+        },
+        "feature_details": {
+          "feature_id": 1780663,
+          "feature_type": "Movie",
+          "year": null,
+          "title": "\"The Equalizer\" Bind Justice",
+          "movie_name": " - \"The Equalizer\" Bind Justice",
+          "imdb_id": 31249354,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926773",
+        "related_links": [
+          {
+            "label": "All subtitles for \"the equalizer\" bind justice",
+            "url": "https://www.opensubtitles.com/en/movies/the-equalizer-bind-justice",
+            "img_url": "https://s9.opensubtitles.com/features/3/6/6/1780663.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574729,
+            "cd_number": 1,
+            "file_name": "The.Equalizer.2021.S04E03.720p.HDTV.x265-MiNX"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648985",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648985",
+        "language": "pt-BR",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:27:33Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Revolutionary Road 2008 1080p BluRay x264 anoXmous",
+        "comments": "Revisão das quebras de linhas e resinc para o Release ANOX de 01h.59m.01s e 23FPS.\r\nCréditos mantidos.\r\nTitulo: Foi Apenas Um Sonho (2008)\r\n16 anos\r\n30/01/2009 (BR) \r\nDrama, Romance \r\n1h59m\r\nSinopse\r\nApril (Kate Winslet) e Frank Wheeler (Leonardo DiCaprio) são um casal jovem que vive no subúrbio de Connecticut com seus dois filhos na década de 1950. A máscara da auto segurança esconde a enorme frustração que sentem por não serem completos em seu relacionamento ou na carreira. Determinados a conhecerem a si mesmos, eles decidem se mudar para a França. Mas o relacionamento começa a corroer em um ciclo infinito de brigas, ciúmes e recriminações, e a viagem e seus sonhos correm grandes riscos de acabar.\r\n.",
+        "legacy_subtitle_id": 9926771,
+        "legacy_uploader_id": 825270,
+        "uploader": {
+          "uploader_id": 47683,
+          "name": "marinhojc",
+          "rank": "Gold member"
+        },
+        "feature_details": {
+          "feature_id": 546559,
+          "feature_type": "Movie",
+          "year": 2008,
+          "title": "Revolutionary Road",
+          "movie_name": "2008 - Les Noces rebelles",
+          "imdb_id": 959337,
+          "tmdb_id": 4148
+        },
+        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/9926771",
+        "related_links": [
+          {
+            "label": "All subtitles for revolutionary road",
+            "url": "https://www.opensubtitles.com/pt-BR/movies/2008-revolutionary-road",
+            "img_url": "https://s9.opensubtitles.com/features/9/5/5/546559.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574734,
+            "cd_number": 1,
+            "file_name": "Revolutionary.Road.2008.1080p.BluRay.x264.anoXmous_"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648989",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648989",
+        "language": "ar",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": false,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:27:27Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Annihilation",
+        "comments": "",
+        "legacy_subtitle_id": 9926770,
+        "legacy_uploader_id": 9894697,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 610804,
+          "feature_type": "Movie",
+          "year": 2018,
+          "title": "Annihilation",
+          "movie_name": "2018 - Annihilation",
+          "imdb_id": 2798920,
+          "tmdb_id": 300668
+        },
+        "url": "https://www.opensubtitles.com/ar/subtitles/legacy/9926770",
+        "related_links": [
+          {
+            "label": "All subtitles for annihilation",
+            "url": "https://www.opensubtitles.com/ar/movies/2018-annihilation",
+            "img_url": "https://s9.opensubtitles.com/features/4/0/8/610804.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574732,
+            "cd_number": 1,
+            "file_name": "Annihilation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648997",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648997",
+        "language": "en",
+        "download_count": 5,
+        "new_download_count": 0,
+        "hearing_impaired": true,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": true,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:26:54Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Equalizer.2021.S04E03.720p.HDTV.x265-MiNX",
+        "comments": "Hi:HDTV:Duration = 00:43:25\r\n\"Synced\"\r\n\r\n\r\nThe.Equalizer.2021.S04E03.720p.HDTV.x264-SYNCOPY\r\nThe.Equalizer.2021.S04E03.HDTV.x264-TGx",
+        "legacy_subtitle_id": 9926768,
+        "legacy_uploader_id": 8396040,
+        "uploader": {
+          "uploader_id": 227612,
+          "name": "m_i_s",
+          "rank": "Administrator"
+        },
+        "feature_details": {
+          "feature_id": 1780663,
+          "feature_type": "Movie",
+          "year": null,
+          "title": "\"The Equalizer\" Bind Justice",
+          "movie_name": " - \"The Equalizer\" Bind Justice",
+          "imdb_id": 31249354,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926768",
+        "related_links": [
+          {
+            "label": "All subtitles for \"the equalizer\" bind justice",
+            "url": "https://www.opensubtitles.com/en/movies/the-equalizer-bind-justice",
+            "img_url": "https://s9.opensubtitles.com/features/3/6/6/1780663.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574740,
+            "cd_number": 1,
+            "file_name": "The.Equalizer.2021.S04E03.720p.HDTV.x265-MiNX.Hi"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648957",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648957",
+        "language": "fi",
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": true,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:21:52Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Bears.and.I.1974.DV.2160p.WEB.H265-RVKD",
+        "comments": "",
+        "legacy_subtitle_id": 9926760,
+        "legacy_uploader_id": 9227036,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1278431,
+          "feature_type": "Movie",
+          "year": 1974,
+          "title": "The Bears and I",
+          "movie_name": "1974 - Los osos y yo",
+          "imdb_id": 71199,
+          "tmdb_id": 103698
+        },
+        "url": "https://www.opensubtitles.com/fi/subtitles/legacy/9926760",
+        "related_links": [
+          {
+            "label": "All subtitles for the bears and i",
+            "url": "https://www.opensubtitles.com/fi/movies/1974-the-bears-and-i",
+            "img_url": "https://s9.opensubtitles.com/features/1/3/4/1278431.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574700,
+            "cd_number": 1,
+            "file_name": "The.Bears.and.I.1974.DV.2160p.WEB.H265-RVKD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648942",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648942",
         "language": "es",
-        "download_count": 544,
+        "download_count": 3,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 25.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:12:21Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Recours.en.grace.1960.",
+        "comments": "Release 1,36 GB, 01:34:25.\r\nSubtítulos de Arqlexdelcine, ThomasV y Felipemarlou.",
+        "legacy_subtitle_id": 9926740,
+        "legacy_uploader_id": 9061937,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1780800,
+          "feature_type": "Movie",
+          "year": 1960,
+          "title": "Recours en grâce",
+          "movie_name": "1960 - Recours en grâce",
+          "imdb_id": 54236,
+          "tmdb_id": 332894
+        },
+        "url": "https://www.opensubtitles.com/es/subtitles/legacy/9926740",
+        "related_links": [
+          {
+            "label": "All subtitles for recours en grâce",
+            "url": "https://www.opensubtitles.com/es/movies/1960-recours-en-grace",
+            "img_url": "https://s9.opensubtitles.com/features/0/0/8/1780800.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574685,
+            "cd_number": 1,
+            "file_name": "Recours.en.grace.1960."
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648946",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648946",
+        "language": "hr",
+        "download_count": 31,
         "new_download_count": 18,
         "hearing_impaired": false,
         "hd": true,
-        "format": null,
-        "fps": 25.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": true,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2011-05-28T08:48:56Z",
-        "file_hashes": [
-          "24645fd5e2db461b"
-        ],
-        "release": "Le Mepris (1963) HDRip Dual XviD Ac3 by FitoCorleone",
-        "comments": "El.Desprecio.(Le.Mepris).(1963).HDRip.Dual.(Spa.Fr.).(Xvid+2Ac3).(proteinicos.es)...FitoCorleone.avi [1.47 Gb]/ Corregidos por el GTC de DivXClasico para Proteinicos y DXC",
-        "legacy_subtitle_id": 4184944,
-        "uploader": {
-          "id": 32127,
-          "name": "marlowe62",
-          "rank": "trusted"
-        },
-        "feature_details": {
-          "feature_id": 518020,
-          "feature_type": "Movie",
-          "year": 1963,
-          "title": "Contempt",
-          "movie_name": "1963 - Contempt",
-          "imdb_id": 57345,
-          "tmdb_id": 266
-        },
-        "url": "https://www.opensubtitles.com/es/subtitles/legacy/4184944",
-        "related_links": {
-          "label": "All subtitles for Contempt",
-          "url": "https://www.opensubtitles.com/es/movies/1963-contempt",
-          "img_url": "https://s9.osdb.link/features/0/2/0/518020.jpg"
-        },
-        "files": [
-          {
-            "id": 548202,
-            "cd_number": 1,
-            "file_name": "Le Mepris (1963) HDRip Dual XviD Ac3 by FitoCorleone.Esp.srt"
-          }
-        ],
-        "subtitle_id": "496722"
-      }
-    },
-    {
-      "id": "495449",
-      "type": "subtitle",
-      "attributes": {
-        "language": "pt-BR",
-        "download_count": 189,
-        "new_download_count": 1,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
         "fps": 23.976,
         "votes": 0,
-        "points": 0,
         "ratings": 0.0,
         "from_trusted": false,
-        "auto_translation": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:10:23Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2012-07-14T19:47:18Z",
-        "file_hashes": [
-          "30e7217485fe3ad6",
-          "7c0064ae0fc4545e"
-        ],
-        "release": "Gnger Snaps",
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "e.g.: MArgylle.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-GalaxyRG265[TGx]ovieName.1970.720p.x264.YIFY",
         "comments": "",
-        "legacy_subtitle_id": 4617243,
+        "legacy_subtitle_id": 9926732,
+        "legacy_uploader_id": 0,
         "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
         },
         "feature_details": {
-          "feature_id": 518342,
+          "feature_id": 1777362,
           "feature_type": "Movie",
-          "year": 2000,
-          "title": "Ginger Snaps",
-          "movie_name": "2000 - Ginger Snaps",
-          "imdb_id": 210070,
-          "tmdb_id": 9871
+          "year": 2024,
+          "title": "Argylle",
+          "movie_name": "2024 - Argylle",
+          "imdb_id": 15009428,
+          "tmdb_id": 848538
         },
-        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/4617243",
-        "related_links": {
-          "label": "All subtitles for Ginger Snaps",
-          "url": "https://www.opensubtitles.com/pt-BR/movies/2000-ginger-snaps",
-          "img_url": "https://s9.osdb.link/features/2/4/3/518342.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/hr/subtitles/legacy/9926732",
+        "related_links": [
           {
-            "id": 546827,
-            "cd_number": 1,
-            "file_name": "Ginger Snaps [2000] DvDrip [Eng] Bugz.srt"
+            "label": "All subtitles for argylle",
+            "url": "https://www.opensubtitles.com/hr/movies/2024-argylle",
+            "img_url": "https://s9.opensubtitles.com/features/2/6/3/1777362.jpg"
           }
         ],
-        "subtitle_id": "495449"
+        "files": [
+          {
+            "file_id": 8574689,
+            "cd_number": 1,
+            "file_name": "Argylle.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-GalaxyRG265"
+          }
+        ]
       }
     },
     {
-      "id": "496964",
+      "id": "7648943",
       "type": "subtitle",
       "attributes": {
-        "language": "es",
-        "download_count": 1190,
-        "new_download_count": 6,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 23.976,
-        "votes": 1,
-        "points": 10,
-        "ratings": 10.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2012-05-18T00:13:46Z",
-        "file_hashes": [
-          "15fc68deda540c18",
-          "4e779e3db972616e",
-          "584cee070d42ecee",
-          "bc0c0e2a02aae580",
-          "c335de78aee8816f",
-          "f73ced6e066e2b1a"
-        ],
-        "release": "1963.El desprecio (subt)",
-        "comments": "",
-        "legacy_subtitle_id": 4552383,
-        "uploader": {
-          "id": 63170,
-          "name": "robot2xl",
-          "rank": "read only"
-        },
-        "feature_details": {
-          "feature_id": 518020,
-          "feature_type": "Movie",
-          "year": 1963,
-          "title": "Contempt",
-          "movie_name": "1963 - Contempt",
-          "imdb_id": 57345,
-          "tmdb_id": 266
-        },
-        "url": "https://www.opensubtitles.com/es/subtitles/legacy/4552383",
-        "related_links": {
-          "label": "All subtitles for Contempt",
-          "url": "https://www.opensubtitles.com/es/movies/1963-contempt",
-          "img_url": "https://s9.osdb.link/features/0/2/0/518020.jpg"
-        },
-        "files": [
-          {
-            "id": 548446,
-            "cd_number": 1,
-            "file_name": "1963.El desprecio (subt).srt"
-          }
-        ],
-        "subtitle_id": "496964"
-      }
-    },
-    {
-      "id": "490625",
-      "type": "subtitle",
-      "attributes": {
-        "language": "en",
-        "download_count": 7989,
-        "new_download_count": 11,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
-        "fps": 0.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2013-07-06T11:07:28Z",
-        "file_hashes": [
-          "cd5070b37f5562a1",
-          "d68aa6b42c15c37c",
-          "833bd86ccf2baad4",
-          "a13b3cf545635c86",
-          "2beceb4a621c3551",
-          "ed78bf7a8865de2b",
-          "64ea1e1998bb325e",
-          "1e973da84d720c78"
-        ],
-        "release": "9.Songs.2004.720p.BluRay.x264.anoXmous",
-        "comments": "",
-        "legacy_subtitle_id": 5075303,
-        "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
-        },
-        "feature_details": {
-          "feature_id": 518052,
-          "feature_type": "Movie",
-          "year": 2004,
-          "title": "9 Songs",
-          "movie_name": "2004 - 9 Songs",
-          "imdb_id": 411705,
-          "tmdb_id": 27
-        },
-        "url": "https://www.opensubtitles.com/en/subtitles/legacy/5075303",
-        "related_links": {
-          "label": "All subtitles for 9 Songs",
-          "url": "https://www.opensubtitles.com/en/movies/2004-9-songs",
-          "img_url": "https://s9.osdb.link/features/2/5/0/518052.jpg"
-        },
-        "files": [
-          {
-            "id": 541296,
-            "cd_number": 1,
-            "file_name": "9.Songs.2004.720p.BluRay.x264.anoXmous_eng.srt"
-          }
-        ],
-        "subtitle_id": "490625"
-      }
-    },
-    {
-      "id": "496396",
-      "type": "subtitle",
-      "attributes": {
-        "language": "nl",
-        "download_count": 1993,
-        "new_download_count": 16,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 25.0,
-        "votes": 1,
-        "points": 7,
-        "ratings": 7.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2013-10-10T22:54:26Z",
-        "file_hashes": [
-          "d1fca955dee8a162"
-        ],
-        "release": "Come and See (Idi i smotri) (1985)",
-        "comments": "",
-        "legacy_subtitle_id": 5217608,
-        "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
-        },
-        "feature_details": {
-          "feature_id": 518417,
-          "feature_type": "Movie",
-          "year": 1985,
-          "title": "Come and See",
-          "movie_name": "1985 - Come and See",
-          "imdb_id": 91251,
-          "tmdb_id": 25237
-        },
-        "url": "https://www.opensubtitles.com/nl/subtitles/legacy/5217608",
-        "related_links": {
-          "label": "All subtitles for Come and See",
-          "url": "https://www.opensubtitles.com/nl/movies/1985-come-and-see",
-          "img_url": "https://s9.osdb.link/features/7/1/4/518417.jpg"
-        },
-        "files": [
-          {
-            "id": 547857,
-            "cd_number": 1,
-            "file_name": "Come and See (Idi i smotri) (1985)-dut(1).srt"
-          }
-        ],
-        "subtitle_id": "496396"
-      }
-    },
-    {
-      "id": "493247",
-      "type": "subtitle",
-      "attributes": {
-        "language": "el",
-        "download_count": 1052,
-        "new_download_count": 15,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
-        "fps": 23.976,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2011-05-17T07:28:54Z",
-        "file_hashes": [
-          "f18a66832003935f",
-          "d70ce082e784e558",
-          "be75d119bd176633",
-          "79b9c234a5ed604c",
-          "248cdedeb7e335a2",
-          "0da050d1ff5a4eac"
-        ],
-        "release": "Superman.1978.720.BluRay.x264-VarK",
-        "comments": "",
-        "legacy_subtitle_id": 4179141,
-        "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
-        },
-        "feature_details": {
-          "feature_id": 517956,
-          "feature_type": "Movie",
-          "year": 1978,
-          "title": "Superman",
-          "movie_name": "1978 - Superman",
-          "imdb_id": 78346,
-          "tmdb_id": 1924
-        },
-        "url": "https://www.opensubtitles.com/el/subtitles/legacy/4179141",
-        "related_links": {
-          "label": "All subtitles for Superman",
-          "url": "https://www.opensubtitles.com/el/movies/1978-superman",
-          "img_url": "https://s9.osdb.link/features/6/5/9/517956.jpg"
-        },
-        "files": [
-          {
-            "id": 544327,
-            "cd_number": 1,
-            "file_name": "Superman.1978.720.BluRay.x264-VarK.srt"
-          }
-        ],
-        "subtitle_id": "493247"
-      }
-    },
-    {
-      "id": "492688",
-      "type": "subtitle",
-      "attributes": {
-        "language": "en",
-        "download_count": 72506,
-        "new_download_count": 57,
-        "hearing_impaired": true,
-        "hd": false,
-        "format": null,
-        "fps": 25.0,
-        "votes": 2,
-        "points": 20,
-        "ratings": 10.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2008-07-09T13:19:22Z",
-        "file_hashes": [
-          "b21fe3b49e07162f",
-          "634b8243fa848d64",
-          "550a4e2946259d0f",
-          "4d00b3b6064d45a1",
-          "42128baec2586f16",
-          "36ccd59945c29dce",
-          "2b8cfe81e4f08d2a",
-          "1532bd96a04193db",
-          "4a2ee5d6d7569f5d",
-          "5283512ca1f690ac",
-          "567dfbc453e81d95",
-          "678e346d491b317f",
-          "9e338903336bcde9",
-          "f3eb8b6ee3bdcbbb"
-        ],
-        "release": "Rocky.I[1976]DvDrip-aXXo",
-        "comments": "Rocky-The.Complete.Saga[2007]DvDrip-aXXo",
-        "legacy_subtitle_id": 3302711,
-        "uploader": {
-          "id": 119465,
-          "name": "os_robot",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 517932,
-          "feature_type": "Movie",
-          "year": 1976,
-          "title": "Rocky",
-          "movie_name": "1976 - Rocky",
-          "imdb_id": 75148,
-          "tmdb_id": 1366
-        },
-        "url": "https://www.opensubtitles.com/en/subtitles/legacy/3302711",
-        "related_links": {
-          "label": "All subtitles for Rocky",
-          "url": "https://www.opensubtitles.com/en/movies/1976-rocky",
-          "img_url": "https://s9.osdb.link/features/2/3/9/517932.jpg"
-        },
-        "files": [
-          {
-            "id": 543715,
-            "cd_number": 1,
-            "file_name": "Rocky.I[1976]DvDrip-aXXo.srt"
-          }
-        ],
-        "subtitle_id": "492688"
-      }
-    },
-    {
-      "id": "496159",
-      "type": "subtitle",
-      "attributes": {
-        "language": "de",
-        "download_count": 226,
-        "new_download_count": 4,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 25.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": true,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2012-07-21T17:11:45Z",
-        "file_hashes": [],
-        "release": "Komm.und.sieh.1985.German.DVDRip.Retail",
-        "comments": "RUSCICO / Russian Cinema Council",
-        "legacy_subtitle_id": 4622375,
-        "uploader": {
-          "id": 41812,
-          "name": "Ralle1",
-          "rank": "administrator"
-        },
-        "feature_details": {
-          "feature_id": 518417,
-          "feature_type": "Movie",
-          "year": 1985,
-          "title": "Come and See",
-          "movie_name": "1985 - Come and See",
-          "imdb_id": 91251,
-          "tmdb_id": 25237
-        },
-        "url": "https://www.opensubtitles.com/de/subtitles/legacy/4622375",
-        "related_links": {
-          "label": "All subtitles for Come and See",
-          "url": "https://www.opensubtitles.com/de/movies/1985-come-and-see",
-          "img_url": "https://s9.osdb.link/features/7/1/4/518417.jpg"
-        },
-        "files": [
-          {
-            "id": 6027938,
-            "cd_number": 2,
-            "file_name": "Komm.und.sieh.1985.German.DVDRip.CD2.Retail.srt"
-          },
-          {
-            "id": 6027936,
-            "cd_number": 1,
-            "file_name": "Komm.und.sieh.1985.German.DVDRip.CD1.Retail.srt"
-          }
-        ],
-        "subtitle_id": "496159"
-      }
-    },
-    {
-      "id": "492466",
-      "type": "subtitle",
-      "attributes": {
-        "language": "he",
-        "download_count": 128,
-        "new_download_count": 1,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 0.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2008-02-08T02:00:42Z",
-        "file_hashes": [],
-        "release": "Rocky.1976.DVDRip.XviD.AC3.iNTERNAL-QiM",
-        "comments": null,
-        "legacy_subtitle_id": 3246129,
-        "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
-        },
-        "feature_details": {
-          "feature_id": 517932,
-          "feature_type": "Movie",
-          "year": 1976,
-          "title": "Rocky",
-          "movie_name": "1976 - Rocky",
-          "imdb_id": 75148,
-          "tmdb_id": 1366
-        },
-        "url": "https://www.opensubtitles.com/he/subtitles/legacy/3246129",
-        "related_links": {
-          "label": "All subtitles for Rocky",
-          "url": "https://www.opensubtitles.com/he/movies/1976-rocky",
-          "img_url": "https://s9.osdb.link/features/2/3/9/517932.jpg"
-        },
-        "files": [
-          {
-            "id": 6026439,
-            "cd_number": 2,
-            "file_name": "qim-rockyb.srt"
-          },
-          {
-            "id": 6026437,
-            "cd_number": 1,
-            "file_name": "qim-rockya.srt"
-          }
-        ],
-        "subtitle_id": "492466"
-      }
-    },
-    {
-      "id": "492560",
-      "type": "subtitle",
-      "attributes": {
-        "language": "pt-BR",
-        "download_count": 64,
+        "subtitle_id": "7648943",
+        "language": "hu",
+        "download_count": 0,
         "new_download_count": 2,
         "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 0.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2017-07-29T22:49:40Z",
-        "file_hashes": [],
-        "release": "jornada",
-        "comments": "",
-        "legacy_subtitle_id": 7052825,
-        "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
-        },
-        "feature_details": {
-          "feature_id": 517867,
-          "feature_type": "Movie",
-          "year": 1985,
-          "title": "Rambo: First Blood Part II",
-          "movie_name": "1985 - Rambo: First Blood Part II",
-          "imdb_id": 89880,
-          "tmdb_id": 1369
-        },
-        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/7052825",
-        "related_links": {
-          "label": "All subtitles for Rambo: First Blood Part II",
-          "url": "https://www.opensubtitles.com/pt-BR/movies/1985-rambo-first-blood-part-ii",
-          "img_url": "https://s9.osdb.link/features/7/6/8/517867.jpg"
-        },
-        "files": [
-          {
-            "id": 6026472,
-            "cd_number": 1,
-            "file_name": "jornada.srt"
-          }
-        ],
-        "subtitle_id": "492560"
-      }
-    },
-    {
-      "id": "496158",
-      "type": "subtitle",
-      "attributes": {
-        "language": "it",
-        "download_count": 5601,
-        "new_download_count": 25,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 23.976,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2005-02-28T23:00:00Z",
-        "file_hashes": [
-          "15fc68deda540c18",
-          "bc0c0e2a02aae580"
-        ],
-        "release": "Mépris, Le (1963)",
-        "comments": null,
-        "legacy_subtitle_id": 172898,
-        "uploader": {
-          "id": 16601,
-          "name": "jago71 (a)",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 518020,
-          "feature_type": "Movie",
-          "year": 1963,
-          "title": "Contempt",
-          "movie_name": "1963 - Contempt",
-          "imdb_id": 57345,
-          "tmdb_id": 266
-        },
-        "url": "https://www.opensubtitles.com/it/subtitles/legacy/172898",
-        "related_links": {
-          "label": "All subtitles for Contempt",
-          "url": "https://www.opensubtitles.com/it/movies/1963-contempt",
-          "img_url": "https://s9.osdb.link/features/0/2/0/518020.jpg"
-        },
-        "files": [
-          {
-            "id": 547598,
-            "cd_number": 1,
-            "file_name": "Jean Luc Godard - Il disprezzo.srt"
-          }
-        ],
-        "subtitle_id": "496158"
-      }
-    },
-    {
-      "id": "493563",
-      "type": "subtitle",
-      "attributes": {
-        "language": "en",
-        "download_count": 14796,
-        "new_download_count": 12,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 23.976,
-        "votes": 1,
-        "points": 10,
-        "ratings": 10.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2001-12-04T23:00:00Z",
-        "file_hashes": [
-          "9e8897b1c297bdd7",
-          "915f95a843d8cb27",
-          "3bb8bd561fe0039f",
-          "8aff716a1eb5d7ad",
-          "c3139f35b5da3403"
-        ],
-        "release": "The Secret Garden",
-        "comments": null,
-        "legacy_subtitle_id": 106540,
-        "uploader": {
-          "id": 4143,
-          "name": "Panayot (a)",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 518028,
-          "feature_type": "Movie",
-          "year": 1993,
-          "title": "The Secret Garden",
-          "movie_name": "1993 - The Secret Garden",
-          "imdb_id": 108071,
-          "tmdb_id": 11236
-        },
-        "url": "https://www.opensubtitles.com/en/subtitles/legacy/106540",
-        "related_links": {
-          "label": "All subtitles for The Secret Garden",
-          "url": "https://www.opensubtitles.com/en/movies/1993-the-secret-garden",
-          "img_url": "https://s9.osdb.link/features/8/2/0/518028.jpg"
-        },
-        "files": [
-          {
-            "id": 544691,
-            "cd_number": 1,
-            "file_name": "TheSecretGarden_EN.sub"
-          }
-        ],
-        "subtitle_id": "493563"
-      }
-    },
-    {
-      "id": "491468",
-      "type": "subtitle",
-      "attributes": {
-        "language": "en",
-        "download_count": 3063,
-        "new_download_count": 6,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 23.98,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2003-09-15T22:00:00Z",
-        "file_hashes": [
-          "61a8b7927cfdbd57",
-          "6c76438e31a879c1",
-          "80ec9c61f2ba849d",
-          "e5bb3005bb891155"
-        ],
-        "release": "Better Luck Tomorrow (2002)",
-        "comments": null,
-        "legacy_subtitle_id": 53957,
-        "uploader": {
-          "id": 4296,
-          "name": "blink182 (a)",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 518095,
-          "feature_type": "Movie",
-          "year": 2002,
-          "title": "Better Luck Tomorrow",
-          "movie_name": "2002 - Better Luck Tomorrow",
-          "imdb_id": 280477,
-          "tmdb_id": 14290
-        },
-        "url": "https://www.opensubtitles.com/en/subtitles/legacy/53957",
-        "related_links": {
-          "label": "All subtitles for Better Luck Tomorrow",
-          "url": "https://www.opensubtitles.com/en/movies/2002-better-luck-tomorrow",
-          "img_url": "https://s9.osdb.link/features/5/9/0/518095.jpg"
-        },
-        "files": [
-          {
-            "id": 542293,
-            "cd_number": 1,
-            "file_name": "better.luck.tomorrow.dvdrip.xvid-deity.srt"
-          }
-        ],
-        "subtitle_id": "491468"
-      }
-    },
-    {
-      "id": "497222",
-      "type": "subtitle",
-      "attributes": {
-        "language": "fr",
-        "download_count": 331,
-        "new_download_count": 1,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 0.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": true,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2006-11-26T11:08:47Z",
-        "file_hashes": [],
-        "release": "Mifunes.Sidste.Sang.1999.DVDRip.DivX5.Ericb™",
-        "comments": "",
-        "legacy_subtitle_id": 3087794,
-        "uploader": {
-          "id": 34343,
-          "name": "ericb2038",
-          "rank": "administrator"
-        },
-        "feature_details": {
-          "feature_id": 518154,
-          "feature_type": "Movie",
-          "year": 1999,
-          "title": "Mifune's Last Song",
-          "movie_name": "1999 - Mifune's Last Song",
-          "imdb_id": 164756,
-          "tmdb_id": 139
-        },
-        "url": "https://www.opensubtitles.com/fr/subtitles/legacy/3087794",
-        "related_links": {
-          "label": "All subtitles for Mifune's Last Song",
-          "url": "https://www.opensubtitles.com/fr/movies/1999-mifunes-sidste-sang",
-          "img_url": "https://s9.osdb.link/features/4/5/1/518154.jpg"
-        },
-        "files": [
-          {
-            "id": 6028346,
-            "cd_number": 1,
-            "file_name": null
-          }
-        ],
-        "subtitle_id": "497222"
-      }
-    },
-    {
-      "id": "492205",
-      "type": "subtitle",
-      "attributes": {
-        "language": "bs",
-        "download_count": 78,
-        "new_download_count": 1,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 23.976,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2013-03-06T10:30:31Z",
-        "file_hashes": [
-          "4fb8fdd40a832911"
-        ],
-        "release": "Sneakers Collector's Edition 1992 DvDrip[Eng]-greenbud1969",
-        "comments": "",
-        "legacy_subtitle_id": 4847866,
-        "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
-        },
-        "feature_details": {
-          "feature_id": 518015,
-          "feature_type": "Movie",
-          "year": 1992,
-          "title": "Sneakers",
-          "movie_name": "1992 - Sneakers",
-          "imdb_id": 105435,
-          "tmdb_id": 2322
-        },
-        "url": "https://www.opensubtitles.com/bs/subtitles/legacy/4847866",
-        "related_links": {
-          "label": "All subtitles for Sneakers",
-          "url": "https://www.opensubtitles.com/bs/movies/1992-sneakers",
-          "img_url": "https://s9.osdb.link/features/5/1/0/518015.jpg"
-        },
-        "files": [
-          {
-            "id": 543165,
-            "cd_number": 1,
-            "file_name": "Sneakers Collector's Edition 1992 DvDrip[Eng]-greenbud1969-hrv.srt"
-          }
-        ],
-        "subtitle_id": "492205"
-      }
-    },
-    {
-      "id": "492053",
-      "type": "subtitle",
-      "attributes": {
-        "language": "bg",
-        "download_count": 112,
-        "new_download_count": 1,
-        "hearing_impaired": false,
         "hd": true,
-        "format": null,
-        "fps": 0.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2013-12-31T15:59:15Z",
-        "file_hashes": [
-          "08c041e7a96f2596",
-          "d040374e1b5af86b",
-          "60b5a90375840936"
-        ],
-        "release": "Labyrinth.1986.1080p.Blu-ray.DTS.x264-SSG",
-        "comments": "",
-        "legacy_subtitle_id": 5469554,
-        "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
-        },
-        "feature_details": {
-          "feature_id": 517978,
-          "feature_type": "Movie",
-          "year": 1986,
-          "title": "Labyrinth",
-          "movie_name": "1986 - Labyrinth",
-          "imdb_id": 91369,
-          "tmdb_id": 13597
-        },
-        "url": "https://www.opensubtitles.com/bg/subtitles/legacy/5469554",
-        "related_links": {
-          "label": "All subtitles for Labyrinth",
-          "url": "https://www.opensubtitles.com/bg/movies/1986-labyrinth",
-          "img_url": "https://s9.osdb.link/features/8/7/9/517978.jpg"
-        },
-        "files": [
-          {
-            "id": 542998,
-            "cd_number": 1,
-            "file_name": null
-          }
-        ],
-        "subtitle_id": "492053"
-      }
-    },
-    {
-      "id": "492379",
-      "type": "subtitle",
-      "attributes": {
-        "language": "en",
-        "download_count": 3093,
-        "new_download_count": 13,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
-        "fps": 30.0,
-        "votes": 1,
-        "points": 7,
-        "ratings": 7.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2015-11-23T17:12:28Z",
-        "file_hashes": [
-          "03bbe2e5ff613980",
-          "07a6e6706b0f5bc7",
-          "64e026dc3d7813b1",
-          "939a584d9ffddb3b",
-          "a00b5aad576b98e0"
-        ],
-        "release": "Rambo.First.Blood.Part.II.1985.UNCUT.m720p.BluRay.x264-BiRD",
-        "comments": "",
-        "legacy_subtitle_id": 6394942,
-        "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
-        },
-        "feature_details": {
-          "feature_id": 517867,
-          "feature_type": "Movie",
-          "year": 1985,
-          "title": "Rambo: First Blood Part II",
-          "movie_name": "1985 - Rambo: First Blood Part II",
-          "imdb_id": 89880,
-          "tmdb_id": 1369
-        },
-        "url": "https://www.opensubtitles.com/en/subtitles/legacy/6394942",
-        "related_links": {
-          "label": "All subtitles for Rambo: First Blood Part II",
-          "url": "https://www.opensubtitles.com/en/movies/1985-rambo-first-blood-part-ii",
-          "img_url": "https://s9.osdb.link/features/7/6/8/517867.jpg"
-        },
-        "files": [
-          {
-            "id": 543364,
-            "cd_number": 1,
-            "file_name": "Rambo.First.Blood.Part.II.1985.UNCUT.m720p.BluRay.x264-BiRD.srt"
-          }
-        ],
-        "subtitle_id": "492379"
-      }
-    },
-    {
-      "id": "496727",
-      "type": "subtitle",
-      "attributes": {
-        "language": "en",
-        "download_count": 1912,
-        "new_download_count": 62,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
         "fps": 23.976,
         "votes": 0,
-        "points": 0,
         "ratings": 0.0,
         "from_trusted": false,
-        "auto_translation": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:08:43Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2016-08-12T06:53:45Z",
-        "file_hashes": [],
-        "release": "Idi.i.smotri.AKA.Come.and.See.1985.IVC.1080p.BluRay.Remux.AVC.FLAC.2.0-oddset",
-        "comments": "",
-        "legacy_subtitle_id": 6708061,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Cat.from.Outer.Space.1978.1080p.AMZN.WEB-DL.DDP2.0.x264-ABM",
+        "comments": "SubRip időzítve.",
+        "legacy_subtitle_id": 9926730,
+        "legacy_uploader_id": 544590,
         "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
+          "uploader_id": 42947,
+          "name": "Re-Hard",
+          "rank": "Platinum Member"
         },
         "feature_details": {
-          "feature_id": 518417,
-          "feature_type": "Movie",
-          "year": 1985,
-          "title": "Come and See",
-          "movie_name": "1985 - Come and See",
-          "imdb_id": 91251,
-          "tmdb_id": 25237
-        },
-        "url": "https://www.opensubtitles.com/en/subtitles/legacy/6708061",
-        "related_links": {
-          "label": "All subtitles for Come and See",
-          "url": "https://www.opensubtitles.com/en/movies/1985-come-and-see",
-          "img_url": "https://s9.osdb.link/features/7/1/4/518417.jpg"
-        },
-        "files": [
-          {
-            "id": 6028156,
-            "cd_number": 1,
-            "file_name": "Idi.i.smotri.AKA.Come.and.See.1985.IVC.1080p.BluRay.Remux.AVC.FLAC.2.0-oddset.srt"
-          }
-        ],
-        "subtitle_id": "496727"
-      }
-    },
-    {
-      "id": "494184",
-      "type": "subtitle",
-      "attributes": {
-        "language": "en",
-        "download_count": 225,
-        "new_download_count": 7,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 23.976,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2018-06-20T21:03:30Z",
-        "file_hashes": [
-          "67f48a109146739f"
-        ],
-        "release": "My Big Fat Greek Wedding (2002)",
-        "comments": "",
-        "legacy_subtitle_id": 7395276,
-        "uploader": {
-          "id": 69112,
-          "name": "oliviomoura",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 518298,
-          "feature_type": "Movie",
-          "year": 2002,
-          "title": "My Big Fat Greek Wedding",
-          "movie_name": "2002 - My Big Fat Greek Wedding",
-          "imdb_id": 259446,
-          "tmdb_id": 8346
-        },
-        "url": "https://www.opensubtitles.com/en/subtitles/legacy/7395276",
-        "related_links": {
-          "label": "All subtitles for My Big Fat Greek Wedding",
-          "url": "https://www.opensubtitles.com/en/movies/2002-my-big-fat-greek-wedding",
-          "img_url": "https://s9.osdb.link/features/8/9/2/518298.jpg"
-        },
-        "files": [
-          {
-            "id": 545383,
-            "cd_number": 1,
-            "file_name": "My Big Fat Greek Wedding (2002).srt"
-          }
-        ],
-        "subtitle_id": "494184"
-      }
-    },
-    {
-      "id": "495029",
-      "type": "subtitle",
-      "attributes": {
-        "language": "id",
-        "download_count": 92,
-        "new_download_count": 3,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
-        "fps": 23.976,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2018-03-12T15:24:41Z",
-        "file_hashes": [
-          "b6f47ed0b3c03fe7",
-          "6c908b4768a656cd"
-        ],
-        "release": "Superman.1978.720.BrRip.264.YIFY",
-        "comments": "",
-        "legacy_subtitle_id": 7289212,
-        "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
-        },
-        "feature_details": {
-          "feature_id": 517956,
+          "feature_id": 549410,
           "feature_type": "Movie",
           "year": 1978,
-          "title": "Superman",
-          "movie_name": "1978 - Superman",
-          "imdb_id": 78346,
-          "tmdb_id": 1924
+          "title": "The Cat from Outer Space",
+          "movie_name": "1978 - The Cat from Outer Space",
+          "imdb_id": 77305,
+          "tmdb_id": 19378
         },
-        "url": "https://www.opensubtitles.com/id/subtitles/legacy/7289212",
-        "related_links": {
-          "label": "All subtitles for Superman",
-          "url": "https://www.opensubtitles.com/id/movies/1978-superman",
-          "img_url": "https://s9.osdb.link/features/6/5/9/517956.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/hu/subtitles/legacy/9926730",
+        "related_links": [
           {
-            "id": 546353,
-            "cd_number": 1,
-            "file_name": "Superman.1978.720.BrRip.264.YIFY.srt"
+            "label": "All subtitles for the cat from outer space",
+            "url": "https://www.opensubtitles.com/hu/movies/1978-the-cat-from-outer-space",
+            "img_url": "https://s9.opensubtitles.com/features/0/1/4/549410.jpg"
           }
         ],
-        "subtitle_id": "495029"
+        "files": [
+          {
+            "file_id": 8574686,
+            "cd_number": 1,
+            "file_name": "The.Cat.from.Outer.Space.1978.1080p.AMZN.WEB-DL.DDP2.0.x264-ABM"
+          }
+        ]
       }
     },
     {
-      "id": "491710",
+      "id": "7648956",
       "type": "subtitle",
       "attributes": {
-        "language": "hr",
-        "download_count": 264,
-        "new_download_count": 3,
+        "subtitle_id": "7648956",
+        "language": "hu",
+        "download_count": 0,
+        "new_download_count": 0,
         "hearing_impaired": false,
         "hd": true,
-        "format": null,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:08:04Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Cat.from.Outer.Space.1978.HDR.2160p.WEB.H265-RVKD",
+        "comments": "SubRip, passzol még:\r\nThe.Cat.From.Outer.Space.1978.DV.2160p.WEB.H265-RVKD",
+        "legacy_subtitle_id": 9926729,
+        "legacy_uploader_id": 544590,
+        "uploader": {
+          "uploader_id": 42947,
+          "name": "Re-Hard",
+          "rank": "Platinum Member"
+        },
+        "feature_details": {
+          "feature_id": 549410,
+          "feature_type": "Movie",
+          "year": 1978,
+          "title": "The Cat from Outer Space",
+          "movie_name": "1978 - The Cat from Outer Space",
+          "imdb_id": 77305,
+          "tmdb_id": 19378
+        },
+        "url": "https://www.opensubtitles.com/hu/subtitles/legacy/9926729",
+        "related_links": [
+          {
+            "label": "All subtitles for the cat from outer space",
+            "url": "https://www.opensubtitles.com/hu/movies/1978-the-cat-from-outer-space",
+            "img_url": "https://s9.opensubtitles.com/features/0/1/4/549410.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574699,
+            "cd_number": 1,
+            "file_name": "rvkd-the.cat.from.outer.space.1978.hdr.2160p.web.h265"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648968",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648968",
+        "language": "pt-BR",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
         "fps": 25.0,
         "votes": 0,
-        "points": 0,
         "ratings": 0.0,
         "from_trusted": false,
-        "auto_translation": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:05:24Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2014-10-15T21:17:32Z",
-        "file_hashes": [
-          "c79058765ee99e0a"
-        ],
-        "release": "Rambo First Blood Part II (1985) 1080p",
-        "comments": "",
-        "legacy_subtitle_id": 5858665,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Recours en grace_Raf Vallone_1960_PARENTE",
+        "comments": "Release 1,36 GB, 01:34:25.",
+        "legacy_subtitle_id": 9926722,
+        "legacy_uploader_id": 9061937,
         "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
         },
         "feature_details": {
-          "feature_id": 517867,
+          "feature_id": 1780800,
           "feature_type": "Movie",
-          "year": 1985,
-          "title": "Rambo: First Blood Part II",
-          "movie_name": "1985 - Rambo: First Blood Part II",
-          "imdb_id": 89880,
-          "tmdb_id": 1369
+          "year": 1960,
+          "title": "Recours en grâce",
+          "movie_name": "1960 - Recours en grâce",
+          "imdb_id": 54236,
+          "tmdb_id": 332894
         },
-        "url": "https://www.opensubtitles.com/hr/subtitles/legacy/5858665",
-        "related_links": {
-          "label": "All subtitles for Rambo: First Blood Part II",
-          "url": "https://www.opensubtitles.com/hr/movies/1985-rambo-first-blood-part-ii",
-          "img_url": "https://s9.osdb.link/features/7/6/8/517867.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/9926722",
+        "related_links": [
           {
-            "id": 542589,
-            "cd_number": 1,
-            "file_name": "Rambo First Blood Part II (1985) 1080p.srt"
+            "label": "All subtitles for recours en grâce",
+            "url": "https://www.opensubtitles.com/pt-BR/movies/1960-recours-en-grace",
+            "img_url": "https://s9.opensubtitles.com/features/0/0/8/1780800.jpg"
           }
         ],
-        "subtitle_id": "491710"
+        "files": [
+          {
+            "file_id": 8574711,
+            "cd_number": 1,
+            "file_name": "Recours en grace_Raf Vallone_1960_PARENTE"
+          }
+        ]
       }
     },
     {
-      "id": "494835",
+      "id": "7648970",
       "type": "subtitle",
       "attributes": {
-        "language": "pt-BR",
-        "download_count": 2028,
-        "new_download_count": 10,
+        "subtitle_id": "7648970",
+        "language": "ja",
+        "download_count": 0,
+        "new_download_count": 0,
         "hearing_impaired": false,
-        "hd": true,
-        "format": null,
-        "fps": 24.0,
-        "votes": 2,
-        "points": 20,
-        "ratings": 10.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2014-09-07T13:57:21Z",
-        "file_hashes": [
-          "52f1edef48d6d6d6",
-          "3aa0a4f2c2af62d3",
-          "07e8799505553e42"
-        ],
-        "release": "Red Sonja.1985.BDRip.720p.MultiLang.MultiSub-Pitt",
-        "comments": "",
-        "legacy_subtitle_id": 5815278,
-        "uploader": {
-          "id": 62530,
-          "name": "fjones1979",
-          "rank": "trusted"
-        },
-        "feature_details": {
-          "feature_id": 518067,
-          "feature_type": "Movie",
-          "year": 1985,
-          "title": "Red Sonja",
-          "movie_name": "1985 - Red Sonja",
-          "imdb_id": 89893,
-          "tmdb_id": 9626
-        },
-        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/5815278",
-        "related_links": {
-          "label": "All subtitles for Red Sonja",
-          "url": "https://www.opensubtitles.com/pt-BR/movies/1985-red-sonja",
-          "img_url": "https://s9.osdb.link/features/7/6/0/518067.jpg"
-        },
-        "files": [
-          {
-            "id": 546129,
-            "cd_number": 1,
-            "file_name": "Red Sonja.1985.BDRip.720p.MultiLang.MultiSub-Pitt.por.srt"
-          }
-        ],
-        "subtitle_id": "494835"
-      }
-    },
-    {
-      "id": "492618",
-      "type": "subtitle",
-      "attributes": {
-        "language": "pl",
-        "download_count": 147,
-        "new_download_count": 4,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
-        "fps": 0.0,
+        "hd": false,
+        "fps": 23.976,
         "votes": 0,
-        "points": 0,
         "ratings": 0.0,
         "from_trusted": false,
-        "auto_translation": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T16:05:03Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2015-07-08T20:47:42Z",
-        "file_hashes": [],
-        "release": "Presumed.Innocent.1990.720p.BRRip.XviD.AC3-RARBG",
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Apothecary.Diaries.S01E18.NTV.1280x20.x264",
         "comments": "",
-        "legacy_subtitle_id": 6228423,
+        "legacy_subtitle_id": 9926721,
+        "legacy_uploader_id": 9885383,
         "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
+          "uploader_id": 517521,
+          "name": "kokolakiss",
+          "rank": "Platinum Member"
         },
         "feature_details": {
-          "feature_id": 517957,
+          "feature_id": 1778125,
+          "feature_type": "Movie",
+          "year": null,
+          "title": "\"The Apothecary Diaries\" Episode #1.18",
+          "movie_name": " - \"The Apothecary Diaries\" Episode #1.18",
+          "imdb_id": 30192651,
+          "tmdb_id": null
+        },
+        "url": "https://www.opensubtitles.com/ja/subtitles/legacy/9926721",
+        "related_links": [
+          {
+            "label": "All subtitles for \"the apothecary diaries\" episode #1.18",
+            "url": "https://www.opensubtitles.com/ja/movies/the-apothecary-diaries-episode-1-18",
+            "img_url": "https://s9.opensubtitles.com/features/5/2/1/1778125.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574713,
+            "cd_number": 1,
+            "file_name": "The.Apothecary.Diaries.S01E18.NTV.1280x20.x264"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7649013",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7649013",
+        "language": "pl",
+        "download_count": 0,
+        "new_download_count": 997,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 24.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": null,
+        "foreign_parts_only": true,
+        "upload_date": "2024-03-05T15:59:32Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Dune.Part.Two.2024.1080p.HDTS.Snoopy.x265",
+        "comments": "This was originally included but must've been left out when uploading,",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 1779906,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Dune: Part Two",
+          "movie_name": "2024 - Dune: Part Two",
+          "imdb_id": 15239678,
+          "tmdb_id": 693134
+        },
+        "url": "https://www.opensubtitles.com/pl/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for dune: part two",
+            "url": "https://www.opensubtitles.com/pl/movies/2024-dune-part-two",
+            "img_url": "https://s9.opensubtitles.com/features/6/0/9/1779906.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574756,
+            "cd_number": 1,
+            "file_name": "Dune.Part.Two.2024.1080p.HDTS.Snoopy.x265.mp4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648933",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648933",
+        "language": "pt-PT",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:57:50Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Eminent Domain",
+        "comments": "",
+        "legacy_subtitle_id": 9926715,
+        "legacy_uploader_id": 0,
+        "uploader": {
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
+        },
+        "feature_details": {
+          "feature_id": 1323905,
           "feature_type": "Movie",
           "year": 1990,
-          "title": "Presumed Innocent",
-          "movie_name": "1990 - Presumed Innocent",
-          "imdb_id": 100404,
-          "tmdb_id": 11092
+          "title": "Eminent Domain",
+          "movie_name": "1990 - Eminent Domain",
+          "imdb_id": 101809,
+          "tmdb_id": 299572
         },
-        "url": "https://www.opensubtitles.com/pl/subtitles/legacy/6228423",
-        "related_links": {
-          "label": "All subtitles for Presumed Innocent",
-          "url": "https://www.opensubtitles.com/pl/movies/1990-presumed-innocent",
-          "img_url": "https://s9.osdb.link/features/7/5/9/517957.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/pt-PT/subtitles/legacy/9926715",
+        "related_links": [
           {
-            "id": 6026497,
-            "cd_number": 1,
-            "file_name": "Presumed.Innocent.1990.720p.BRRip.XviD.AC3-RARBG.txt"
+            "label": "All subtitles for eminent domain",
+            "url": "https://www.opensubtitles.com/pt-PT/movies/1990-eminent-domain",
+            "img_url": "https://s9.opensubtitles.com/features/5/0/9/1323905.jpg"
           }
         ],
-        "subtitle_id": "492618"
+        "files": [
+          {
+            "file_id": 8574676,
+            "cd_number": 1,
+            "file_name": "Eminent.Domain.1990.1080p.BluRay.x264.AAC-[YTS.MX]"
+          }
+        ]
       }
     },
     {
-      "id": "493274",
+      "id": "7648940",
       "type": "subtitle",
       "attributes": {
-        "language": "el",
-        "download_count": 2135,
-        "new_download_count": 8,
+        "subtitle_id": "7648940",
+        "language": "fi",
+        "download_count": 1,
+        "new_download_count": 0,
         "hearing_impaired": false,
         "hd": true,
-        "format": null,
         "fps": 23.976,
         "votes": 0,
-        "points": 0,
         "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
+        "from_trusted": true,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:57:23Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2011-06-16T09:28:29Z",
-        "file_hashes": [
-          "e0b2ecd1d30eae3d",
-          "bb3ac3cd1296bb41",
-          "afd64229a5a97ceb",
-          "ab745682f9fff4a3",
-          "a7ec96e51193ec0c",
-          "9762fffb748e84dd",
-          "95c076ab7aac40e3",
-          "699ef0f6a9a200b3",
-          "5260d3a1160964fd",
-          "44288e2a544b0bbe",
-          "0f4e9ce210361ea6",
-          "076dee141e7f1608"
-        ],
-        "release": "Superman.1978.The.Movie.THEATRICAL.720p.BluRay.x264-SEVENTWENTY",
-        "comments": "",
-        "legacy_subtitle_id": 4193694,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Cat.from.Outer.Space.1978.DV.2160p.WEB.H265-RVKD",
+        "comments": "The.Cat.from.Outer.Space.1978.HDR.2160p.WEB.H265-RVKD",
+        "legacy_subtitle_id": 9926714,
+        "legacy_uploader_id": 9227036,
         "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
         },
         "feature_details": {
-          "feature_id": 517956,
+          "feature_id": 549410,
           "feature_type": "Movie",
           "year": 1978,
-          "title": "Superman",
-          "movie_name": "1978 - Superman",
-          "imdb_id": 78346,
-          "tmdb_id": 1924
+          "title": "The Cat from Outer Space",
+          "movie_name": "1978 - The Cat from Outer Space",
+          "imdb_id": 77305,
+          "tmdb_id": 19378
         },
-        "url": "https://www.opensubtitles.com/el/subtitles/legacy/4193694",
-        "related_links": {
-          "label": "All subtitles for Superman",
-          "url": "https://www.opensubtitles.com/el/movies/1978-superman",
-          "img_url": "https://s9.osdb.link/features/6/5/9/517956.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/fi/subtitles/legacy/9926714",
+        "related_links": [
           {
-            "id": 544362,
-            "cd_number": 1,
-            "file_name": "Superman.1978.The.Movie.THEATRICAL.720p.BluRay.x264-SEVENTWENTY.srt"
+            "label": "All subtitles for the cat from outer space",
+            "url": "https://www.opensubtitles.com/fi/movies/1978-the-cat-from-outer-space",
+            "img_url": "https://s9.opensubtitles.com/features/0/1/4/549410.jpg"
           }
         ],
-        "subtitle_id": "493274"
+        "files": [
+          {
+            "file_id": 8574683,
+            "cd_number": 1,
+            "file_name": "The.Cat.from.Outer.Space.1978.DV.2160p.WEB.H265-RVKD"
+          }
+        ]
       }
     },
     {
-      "id": "492286",
+      "id": "7648937",
       "type": "subtitle",
       "attributes": {
-        "language": "nl",
-        "download_count": 68,
-        "new_download_count": 4,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 0.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2018-02-27T17:53:14Z",
-        "file_hashes": [],
-        "release": "Avenging.Angelo.2002.DD5.1DVDrip.Billgfx",
-        "comments": "srt bestand (van sub bestand overgezet)",
-        "legacy_subtitle_id": 7273290,
-        "uploader": {
-          "id": 119465,
-          "name": "os_robot",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 518061,
-          "feature_type": "Movie",
-          "year": 2002,
-          "title": "Avenging Angelo",
-          "movie_name": "2002 - Avenging Angelo",
-          "imdb_id": 275947,
-          "tmdb_id": 13437
-        },
-        "url": "https://www.opensubtitles.com/nl/subtitles/legacy/7273290",
-        "related_links": {
-          "label": "All subtitles for Avenging Angelo",
-          "url": "https://www.opensubtitles.com/nl/movies/2002-avenging-angelo",
-          "img_url": "https://s9.osdb.link/features/1/6/0/518061.jpg"
-        },
-        "files": [
-          {
-            "id": 6026341,
-            "cd_number": 1,
-            "file_name": "Avenging.Angelo.2002.DD5.1DVDrip.Billgfx.srt"
-          }
-        ],
-        "subtitle_id": "492286"
-      }
-    },
-    {
-      "id": "493564",
-      "type": "subtitle",
-      "attributes": {
-        "language": "pt-BR",
-        "download_count": 409,
-        "new_download_count": 2,
+        "subtitle_id": "7648937",
+        "language": "fa",
+        "download_count": 20,
+        "new_download_count": 0,
         "hearing_impaired": false,
         "hd": true,
-        "format": null,
-        "fps": 23.98,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2011-12-07T16:18:39Z",
-        "file_hashes": [],
-        "release": "BLU RAY Edition 720p",
-        "comments": "Reesincronizado para BLU RAY",
-        "legacy_subtitle_id": 4427765,
-        "uploader": {
-          "id": 57091,
-          "name": "jrgeraldo",
-          "rank": "trusted"
-        },
-        "feature_details": {
-          "feature_id": 518092,
-          "feature_type": "Movie",
-          "year": 1993,
-          "title": "The Scent of Green Papaya",
-          "movie_name": "1993 - The Scent of Green Papaya",
-          "imdb_id": 107617,
-          "tmdb_id": 19552
-        },
-        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/4427765",
-        "related_links": {
-          "label": "All subtitles for The Scent of Green Papaya",
-          "url": "https://www.opensubtitles.com/pt-BR/movies/1993-the-scent-of-green-papaya",
-          "img_url": "https://s9.osdb.link/features/2/9/0/518092.jpg"
-        },
-        "files": [
-          {
-            "id": 6026904,
-            "cd_number": 1,
-            "file_name": "The Scent of green papaya 720p.srt"
-          }
-        ],
-        "subtitle_id": "493564"
-      }
-    },
-    {
-      "id": "496356",
-      "type": "subtitle",
-      "attributes": {
-        "language": "es",
-        "download_count": 1362,
-        "new_download_count": 5,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 0.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2007-08-24T03:43:01Z",
-        "file_hashes": [],
-        "release": "Le Mépris (1963)",
-        "comments": "Ripeados por www.clan-sudamerica.com.ar para la versión AR.",
-        "legacy_subtitle_id": 3142821,
-        "uploader": {
-          "id": 32144,
-          "name": "juanmbelgrano",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 518020,
-          "feature_type": "Movie",
-          "year": 1963,
-          "title": "Contempt",
-          "movie_name": "1963 - Contempt",
-          "imdb_id": 57345,
-          "tmdb_id": 266
-        },
-        "url": "https://www.opensubtitles.com/es/subtitles/legacy/3142821",
-        "related_links": {
-          "label": "All subtitles for Contempt",
-          "url": "https://www.opensubtitles.com/es/movies/1963-contempt",
-          "img_url": "https://s9.osdb.link/features/0/2/0/518020.jpg"
-        },
-        "files": [
-          {
-            "id": 6028003,
-            "cd_number": 1,
-            "file_name": null
-          }
-        ],
-        "subtitle_id": "496356"
-      }
-    },
-    {
-      "id": "494247",
-      "type": "subtitle",
-      "attributes": {
-        "language": "es",
-        "download_count": 163,
-        "new_download_count": 11,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
         "fps": 23.976,
         "votes": 0,
-        "points": 0,
         "ratings": 0.0,
         "from_trusted": false,
-        "auto_translation": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:57:18Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2016-10-30T19:24:56Z",
-        "file_hashes": [],
-        "release": "The French Lieutenant’s Woman (BluRay Criterion)",
-        "comments": "Extraidos de DVD y sincronizados con BluRay de Criterion Collection (castellano)",
-        "legacy_subtitle_id": 6779693,
-        "uploader": {
-          "id": 54914,
-          "name": "G-CineParaGourmets",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 518188,
-          "feature_type": "Movie",
-          "year": 1981,
-          "title": "The French Lieutenant's Woman",
-          "movie_name": "1981 - The French Lieutenant's Woman",
-          "imdb_id": 82416,
-          "tmdb_id": 12537
-        },
-        "url": "https://www.opensubtitles.com/es/subtitles/legacy/6779693",
-        "related_links": {
-          "label": "All subtitles for The French Lieutenant's Woman",
-          "url": "https://www.opensubtitles.com/es/movies/1981-the-french-lieutenant-s-woman",
-          "img_url": "https://s9.osdb.link/features/8/8/1/518188.jpg"
-        },
-        "files": [
-          {
-            "id": 6027185,
-            "cd_number": 1,
-            "file_name": "The French Lieutenants Woman SINCRO BDrip.srt"
-          }
-        ],
-        "subtitle_id": "494247"
-      }
-    },
-    {
-      "id": "490989",
-      "type": "subtitle",
-      "attributes": {
-        "language": "en",
-        "download_count": 630,
-        "new_download_count": 5,
-        "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 23.98,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": true,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2010-02-20T05:27:09Z",
-        "file_hashes": [
-          "448a2a91ffa37ce2"
-        ],
-        "release": "Prey for Rock & Roll_en",
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Iron.Man.Rise.of.Technovore.2013.BRRip.720p",
         "comments": "",
-        "legacy_subtitle_id": 3643318,
+        "legacy_subtitle_id": 9926713,
+        "legacy_uploader_id": 0,
         "uploader": {
-          "id": 46478,
-          "name": "alien07tit",
-          "rank": "trusted"
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
         },
         "feature_details": {
-          "feature_id": 518116,
+          "feature_id": 582786,
           "feature_type": "Movie",
-          "year": 2003,
-          "title": "Prey for Rock &amp; Roll",
-          "movie_name": "2003 - Prey for Rock &amp; Roll",
-          "imdb_id": 307351,
-          "tmdb_id": 28026
+          "year": 2013,
+          "title": "Iron Man: Rise of Technovore",
+          "movie_name": "2013 - Iron Man: Rise of Technovore",
+          "imdb_id": 2654124,
+          "tmdb_id": 169934
         },
-        "url": "https://www.opensubtitles.com/en/subtitles/legacy/3643318",
-        "related_links": {
-          "label": "All subtitles for Prey for Rock & Roll",
-          "url": "https://www.opensubtitles.com/en/movies/2003-prey-for-rock-roll",
-          "img_url": "https://s9.osdb.link/features/6/1/1/518116.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/fa/subtitles/legacy/9926713",
+        "related_links": [
           {
-            "id": 541719,
-            "cd_number": 1,
-            "file_name": "Prey for Rock & Roll_en.srt"
+            "label": "All subtitles for iron man: rise of technovore",
+            "url": "https://www.opensubtitles.com/fa/movies/2013-iron-man-rise-of-technovore",
+            "img_url": "https://s9.opensubtitles.com/features/6/8/7/582786.jpg"
           }
         ],
-        "subtitle_id": "490989"
+        "files": [
+          {
+            "file_id": 8574680,
+            "cd_number": 1,
+            "file_name": "Iron.Man.Rise.of.Technovore.2013.BRRip.720p"
+          }
+        ]
       }
     },
     {
-      "id": "493449",
+      "id": "7648934",
       "type": "subtitle",
       "attributes": {
+        "subtitle_id": "7648934",
+        "language": "hr",
+        "download_count": 39,
+        "new_download_count": 9,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:57:07Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "H.264.WEB.RIP.RTNNJ\u0026AV1.WEB.RIP.RTNNJ\u0026H.265.WEB.RIP.RTNNJ",
+        "comments": "",
+        "legacy_subtitle_id": 9926712,
+        "legacy_uploader_id": 9437858,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1777362,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Argylle",
+          "movie_name": "2024 - Argylle",
+          "imdb_id": 15009428,
+          "tmdb_id": 848538
+        },
+        "url": "https://www.opensubtitles.com/hr/subtitles/legacy/9926712",
+        "related_links": [
+          {
+            "label": "All subtitles for argylle",
+            "url": "https://www.opensubtitles.com/hr/movies/2024-argylle",
+            "img_url": "https://s9.opensubtitles.com/features/2/6/3/1777362.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574677,
+            "cd_number": 1,
+            "file_name": "Argylle {2024} - Action_ Thriller 6_0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648935",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648935",
+        "language": "pt-BR",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:54:39Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "A.Frozen.Flower.2008.DC.KOREAN.1080p.BluRay.H264.AAC-VXT",
+        "comments": "Feita também a revisão das quebras de linhas e o Resinc para o Release YTS de 02h.23m.03s e 23 FPS\r\nCréditos Mantidos.\r\n.\r\nFlor Congelada (2008)\r\n18 anos \r\n30/12/2008 (KR) \r\nDrama \r\nDuração 2h23m\r\nSinopse\r\n\"Para seu último amor, o destino o levou a trair seu primeiro amor.\"\r\nUm drama histórico ambientado na dinastia Koryo e focado no relacionamento entre um rei e seu guarda-costas. Sob o domínio da dinastia Yuan China, o rei da dinastia Goryeo Coréia é pressionado a produzir um sucessor no trono. Incapaz de fazer amor com sua rainha, porque ele está apaixonado por seu guarda-costas, Hong Lim, o rei pede que os dois dormam juntos. Esse contato sexual formula um amor proibido entre Hong Lim e a rainha.",
+        "legacy_subtitle_id": 9926711,
+        "legacy_uploader_id": 825270,
+        "uploader": {
+          "uploader_id": 47683,
+          "name": "marinhojc",
+          "rank": "Gold member"
+        },
+        "feature_details": {
+          "feature_id": 551864,
+          "feature_type": "Movie",
+          "year": 2008,
+          "title": "A Frozen Flower",
+          "movie_name": "2008 - King Protector",
+          "imdb_id": 1155053,
+          "tmdb_id": 17903
+        },
+        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/9926711",
+        "related_links": [
+          {
+            "label": "All subtitles for a frozen flower",
+            "url": "https://www.opensubtitles.com/pt-BR/movies/2008-ssang-hwa-jeom",
+            "img_url": "https://s9.opensubtitles.com/features/4/6/8/551864.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574678,
+            "cd_number": 1,
+            "file_name": "A.Frozen.Flower.2008.DC.KOREAN.1080p.BluRay.H264.AAC-VXT"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648919",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648919",
+        "language": "ro",
+        "download_count": 2,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 0.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:50:33Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Nyad",
+        "comments": "",
+        "legacy_subtitle_id": 9926710,
+        "legacy_uploader_id": 10025298,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 1508008,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Nyad",
+          "movie_name": "2023 - Nyad",
+          "imdb_id": 5302918,
+          "tmdb_id": 895549
+        },
+        "url": "https://www.opensubtitles.com/ro/subtitles/legacy/9926710",
+        "related_links": [
+          {
+            "label": "All subtitles for nyad",
+            "url": "https://www.opensubtitles.com/ro/movies/2023-nyad",
+            "img_url": "https://s9.opensubtitles.com/features/8/0/0/1508008.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574662,
+            "cd_number": 1,
+            "file_name": "Nyad"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648930",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648930",
         "language": "hu",
-        "download_count": 278,
-        "new_download_count": 2,
+        "download_count": 1,
+        "new_download_count": 0,
         "hearing_impaired": false,
-        "hd": false,
-        "format": null,
-        "fps": 25.0,
+        "hd": true,
+        "fps": 23.976,
         "votes": 0,
-        "points": 0,
         "ratings": 0.0,
         "from_trusted": false,
-        "auto_translation": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:48:04Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2010-12-11T17:53:17Z",
-        "file_hashes": [
-          "20b5b2e2406a5e84"
-        ],
-        "release": "Amerikai nindzsa",
-        "comments": "",
-        "legacy_subtitle_id": 4003237,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.Boondock.Saints.1999.1080p.AMZN.WEB-DL.DDP.2.0.H.264-PiRaTeS",
+        "comments": "SubRip időzítve.",
+        "legacy_subtitle_id": 9926707,
+        "legacy_uploader_id": 544590,
         "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
+          "uploader_id": 42947,
+          "name": "Re-Hard",
+          "rank": "Platinum Member"
         },
         "feature_details": {
-          "feature_id": 518031,
+          "feature_id": 27,
           "feature_type": "Movie",
-          "year": 1985,
-          "title": "American Ninja",
-          "movie_name": "1985 - American Ninja",
-          "imdb_id": 88708,
-          "tmdb_id": 12500
+          "year": 1999,
+          "title": "The Boondock Saints",
+          "movie_name": "1999 - Les Anges de Boston",
+          "imdb_id": 144117,
+          "tmdb_id": 8374
         },
-        "url": "https://www.opensubtitles.com/hu/subtitles/legacy/4003237",
-        "related_links": {
-          "label": "All subtitles for American Ninja",
-          "url": "https://www.opensubtitles.com/hu/movies/1985-american-ninja",
-          "img_url": "https://s9.osdb.link/features/1/3/0/518031.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/hu/subtitles/legacy/9926707",
+        "related_links": [
           {
-            "id": 544561,
-            "cd_number": 1,
-            "file_name": "american.ninja.hun.subrip-by.S.to.the.G.srt"
+            "label": "All subtitles for the boondock saints",
+            "url": "https://www.opensubtitles.com/hu/movies/1999-the-boondock-saints",
+            "img_url": "https://s9.opensubtitles.com/features/7/2/-/27.jpg"
           }
         ],
-        "subtitle_id": "493449"
+        "files": [
+          {
+            "file_id": 8574673,
+            "cd_number": 1,
+            "file_name": "The.Boondock.Saints.1999.1080p.AMZN.WEB-DL.DDP.2.0.H.264-PiRaTeS"
+          }
+        ]
       }
     },
     {
-      "id": "496249",
+      "id": "7648927",
       "type": "subtitle",
       "attributes": {
+        "subtitle_id": "7648927",
         "language": "pt-BR",
-        "download_count": 4693,
-        "new_download_count": 6,
+        "download_count": 1,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 24.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:45:49Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Flame.Citron.2008.BLURAY.1080p.BluRay.x264.AAC5.1-[YTS.MX]",
+        "comments": "Ajuste para o Release YTS de 02h.15m.51s e 24 FPS.\r\nNão tinha créditos e mantive assim!\r\n.\r\nFlame \u0026 Citron - Os Resistentes\r\nTítulo original: Flammen \u0026 Citronen\r\n15 anos \r\n28/03/2008 (DK) \r\nDrama, História, Guerra \r\nTime 2h9m\r\nSinopse - Copenhague, 1944. A Dinamarca está ocupada pela Alemanha nazista. Flame e Citron são dois membros da resistência encarregados de liquidar informantes dinamarqueses. Por ordem do comando, eles agora também podem matar alemães. Na luta pela liberdade, todas as áreas são cinzentas e torna-se cada vez mais difícil saber quem é amigo e quem é inimigo. Baseada em fatos reais.",
+        "legacy_subtitle_id": 9926705,
+        "legacy_uploader_id": 825270,
+        "uploader": {
+          "uploader_id": 47683,
+          "name": "marinhojc",
+          "rank": "Gold member"
+        },
+        "feature_details": {
+          "feature_id": 546317,
+          "feature_type": "Movie",
+          "year": 2008,
+          "title": "Flame \u0026amp; Citron",
+          "movie_name": "2008 - Les Soldats de l'ombre",
+          "imdb_id": 920458,
+          "tmdb_id": 8883
+        },
+        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/9926705",
+        "related_links": [
+          {
+            "label": "All subtitles for flame \u0026 citron",
+            "url": "https://www.opensubtitles.com/pt-BR/movies/2008-flame-citron",
+            "img_url": "https://s9.opensubtitles.com/features/7/1/3/546317.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574671,
+            "cd_number": 1,
+            "file_name": "Flame.Citron.2008.BLURAY.1080p.BluRay.x264.AAC5.1-[YTS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648924",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648924",
+        "language": "fi",
+        "download_count": 0,
+        "new_download_count": 0,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": true,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:42:05Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "The.BFG.2016.DV.2160p.WEB.H265-RVKD",
+        "comments": "The.BFG.2016.HDR.2160p.WEB.H265-RVKD",
+        "legacy_subtitle_id": 9926703,
+        "legacy_uploader_id": 9227036,
+        "uploader": {
+          "uploader_id": null,
+          "name": "Anonymous",
+          "rank": "anonymous"
+        },
+        "feature_details": {
+          "feature_id": 609075,
+          "feature_type": "Movie",
+          "year": 2016,
+          "title": "The BFG",
+          "movie_name": "2016 - Le BGG : Le Bon Gros Géant",
+          "imdb_id": 3691740,
+          "tmdb_id": 267935
+        },
+        "url": "https://www.opensubtitles.com/fi/subtitles/legacy/9926703",
+        "related_links": [
+          {
+            "label": "All subtitles for the bfg",
+            "url": "https://www.opensubtitles.com/fi/movies/2016-the-bfg",
+            "img_url": "https://s9.opensubtitles.com/features/5/7/0/609075.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574668,
+            "cd_number": 1,
+            "file_name": "The.BFG.2016.DV.2160p.WEB.H265-RVKD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648984",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648984",
+        "language": "sv",
+        "download_count": 0,
+        "new_download_count": 104,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:34:42Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Meatballs.Part.II.1984.WEBRip.x264-ION10",
+        "comments": "",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 75893,
+          "name": "LadyOscar3",
+          "rank": "Platinum Member"
+        },
+        "feature_details": {
+          "feature_id": 580790,
+          "feature_type": "Movie",
+          "year": 1984,
+          "title": "Meatballs Part II",
+          "movie_name": "1984 - Meatballs Part II",
+          "imdb_id": 87700,
+          "tmdb_id": 40771
+        },
+        "url": "https://www.opensubtitles.com/sv/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for meatballs part ii",
+            "url": "https://www.opensubtitles.com/sv/movies/1984-meatballs-part-ii",
+            "img_url": "https://s9.opensubtitles.com/features/0/9/7/580790.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574727,
+            "cd_number": 1,
+            "file_name": "Meatballs.Part.II.1984.WEBRip.x264-ION10"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648983",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648983",
+        "language": "et",
+        "download_count": 0,
+        "new_download_count": 1160,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 24.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": null,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:34:28Z",
+        "ai_translated": true,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Code.8.Part.2.2024.NF.WEBRip",
+        "comments": "Code.8.Part.II.2024.720p.NF.WEB-DL.DDP5.1.Atmos.H.264-NFCODERED\r\nCode.8.Part.II.2024.1080p.WEB-DL.DDP5.1.Atmos.H.264-CODERED\r\nCode.8.Part.II.2024.1080p.NF.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-NFCODERED\r\nCode.8.Part.II.2024.1080p.WEB.H264-BerserkSuccinctDalmatianOfSupport\r\nCode.8.Part.II.2024.2024.720p.NF.WEBRip.800MB.x264-GalaxyRG\r\nCode.8.Part.II.2024.1080p.NF.WEBRip.1400MB.DD5.1.x264-GalaxyRG\r\nCode.8.Part.II.2024.720p.WEBRip.6CH.x265.HEVC-PSA\r\nCode.8.Part.II.2024.1080p.WEBRip.6CH.x265.HEVC-PSA\r\n\r\n[official subtitle, works with only \"NETFLiX\" WEBRip/WEB-DL re-encodes]",
+        "legacy_subtitle_id": null,
+        "legacy_uploader_id": 1,
+        "uploader": {
+          "uploader_id": 227538,
+          "name": "hadilan",
+          "rank": "Trusted member"
+        },
+        "feature_details": {
+          "feature_id": 1780107,
+          "feature_type": "Movie",
+          "year": 2024,
+          "title": "Code 8: Part II",
+          "movie_name": "2024 - Code 8: Part II",
+          "imdb_id": 14764464,
+          "tmdb_id": 932420
+        },
+        "url": "https://www.opensubtitles.com/et/subtitles/legacy/",
+        "related_links": [
+          {
+            "label": "All subtitles for code 8: part ii",
+            "url": "https://www.opensubtitles.com/et/movies/2024-code-8-part-ii",
+            "img_url": "https://s9.opensubtitles.com/features/7/0/1/1780107.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574726,
+            "cd_number": 1,
+            "file_name": "Code.8.Part.2.2024.NF.WEBRip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648915",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648915",
+        "language": "bs",
+        "download_count": 12,
+        "new_download_count": 5,
         "hearing_impaired": false,
         "hd": false,
-        "format": null,
-        "fps": 23.976,
-        "votes": 9,
-        "points": 36,
-        "ratings": 4.0,
-        "from_trusted": true,
-        "auto_translation": false,
+        "fps": 0.0,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:31:26Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2007-01-12T10:51:03Z",
-        "file_hashes": [
-          "170ac64a31adec34",
-          "584cee070d42ecee",
-          "9c812694e2070b32",
-          "bc0c0e2a02aae580"
-        ],
-        "release": "Le Mépris",
-        "comments": "Filme de Jean-Luc Godard. \r\n\r\nSincronizado para o DVD-Rip da Criterion.",
-        "legacy_subtitle_id": 3095229,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Dune.Part.Two.2024.HDCAM.c1nem4.x264-SUNSCREEN",
+        "comments": "",
+        "legacy_subtitle_id": 9926699,
+        "legacy_uploader_id": 0,
         "uploader": {
-          "id": 35327,
-          "name": "MovimentoCinemaLivre",
-          "rank": "trusted"
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
         },
         "feature_details": {
-          "feature_id": 518020,
+          "feature_id": 1779906,
           "feature_type": "Movie",
-          "year": 1963,
-          "title": "Contempt",
-          "movie_name": "1963 - Contempt",
-          "imdb_id": 57345,
-          "tmdb_id": 266
+          "year": 2024,
+          "title": "Dune: Part Two",
+          "movie_name": "2024 - Dune: Part Two",
+          "imdb_id": 15239678,
+          "tmdb_id": 693134
         },
-        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/3095229",
-        "related_links": {
-          "label": "All subtitles for Contempt",
-          "url": "https://www.opensubtitles.com/pt-BR/movies/1963-contempt",
-          "img_url": "https://s9.osdb.link/features/0/2/0/518020.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/bs/subtitles/legacy/9926699",
+        "related_links": [
           {
-            "id": 547702,
-            "cd_number": 1,
-            "file_name": "O Desprezo.srt"
+            "label": "All subtitles for dune: part two",
+            "url": "https://www.opensubtitles.com/bs/movies/2024-dune-part-two",
+            "img_url": "https://s9.opensubtitles.com/features/6/0/9/1779906.jpg"
           }
         ],
-        "subtitle_id": "496249"
+        "files": [
+          {
+            "file_id": 8574658,
+            "cd_number": 1,
+            "file_name": "Dune.Part.Two.2024.HDCAM.c1nem4.x264-SUNSCREEN-hrv"
+          }
+        ]
       }
     },
     {
-      "id": "495317",
+      "id": "7648910",
       "type": "subtitle",
       "attributes": {
-        "language": "nl",
-        "download_count": 1024,
+        "subtitle_id": "7648910",
+        "language": "ar",
+        "download_count": 2,
+        "new_download_count": 2,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:20:28Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Perfect.Days.2023.2160p.WEB.H265-PancakeBreakfastPizzaLunchSteakDinner Perfect.Days.2023.HDR.2160p.W",
+        "comments": "",
+        "legacy_subtitle_id": 9926697,
+        "legacy_uploader_id": 6704739,
+        "uploader": {
+          "uploader_id": 118007,
+          "name": "NizarEzzeddine",
+          "rank": "Subtitle Translator"
+        },
+        "feature_details": {
+          "feature_id": 1769926,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Perfect Days",
+          "movie_name": "2023 - Perfect Days",
+          "imdb_id": 27503384,
+          "tmdb_id": 976893
+        },
+        "url": "https://www.opensubtitles.com/ar/subtitles/legacy/9926697",
+        "related_links": [
+          {
+            "label": "All subtitles for perfect days",
+            "url": "https://www.opensubtitles.com/ar/movies/2023-perfect-days",
+            "img_url": "https://s9.opensubtitles.com/features/6/2/9/1769926.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574652,
+            "cd_number": 1,
+            "file_name": "Perfect.Days.2023.JAPANESE.720p.AMZN.WEBRip.800MB.x264-GalaxyRG"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648936",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648936",
+        "language": "hu",
+        "download_count": 4,
+        "new_download_count": 2,
+        "hearing_impaired": false,
+        "hd": true,
+        "fps": 23.976,
+        "votes": 0,
+        "ratings": 0.0,
+        "from_trusted": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:09:28Z",
+        "ai_translated": false,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Perfect.Days.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+        "comments": "SubRip, passzol még:\r\nPerfect.Days.2023.JAPANESE.720p.AMZN.WEBRip.800MB.x264-GalaxyRG\r\nPerfect.Days.2023.JAPANESE.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG\r\nPerfect.Days.2023.JAPANESE.720p.10bit.WEBRip.6CH.x265.HEVC-PSA\r\nPerfect.Days.2023.JAPANESE.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA\r\nPerfect.Days.2023.720p.AMZN.WEB-DL.DDP5.1.H.264-FLUX\r\nPerfect.Days.2023.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-FLUX\r\nPerfect.Days.2023.REPACK.2160p.AMZN.WEB-DL.DDP5.1.H.265-FLUX\r\nPerfect.Days.2023.1080p.WEB.H264-PancakeBreakfastPizzaLunchSteakDinner\r\nPerfect.Days.2023.2160p.WEB.H265-PancakeBreakfastPizzaLunchSteakDinner\r\nPerfect.Days.2023.HDR.2160p.WEB.H265-PancakeBreakfastPizzaLunchSteakDinner",
+        "legacy_subtitle_id": 9926695,
+        "legacy_uploader_id": 544590,
+        "uploader": {
+          "uploader_id": 42947,
+          "name": "Re-Hard",
+          "rank": "Platinum Member"
+        },
+        "feature_details": {
+          "feature_id": 1769926,
+          "feature_type": "Movie",
+          "year": 2023,
+          "title": "Perfect Days",
+          "movie_name": "2023 - Perfect Days",
+          "imdb_id": 27503384,
+          "tmdb_id": 976893
+        },
+        "url": "https://www.opensubtitles.com/hu/subtitles/legacy/9926695",
+        "related_links": [
+          {
+            "label": "All subtitles for perfect days",
+            "url": "https://www.opensubtitles.com/hu/movies/2023-perfect-days",
+            "img_url": "https://s9.opensubtitles.com/features/6/2/9/1769926.jpg"
+          }
+        ],
+        "files": [
+          {
+            "file_id": 8574679,
+            "cd_number": 1,
+            "file_name": "Perfect.Days.2023.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7648941",
+      "type": "subtitle",
+      "attributes": {
+        "subtitle_id": "7648941",
+        "language": "hu",
+        "download_count": 7,
         "new_download_count": 3,
         "hearing_impaired": false,
-        "hd": false,
-        "format": null,
+        "hd": true,
         "fps": 23.976,
         "votes": 0,
-        "points": 0,
         "ratings": 0.0,
         "from_trusted": false,
-        "auto_translation": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T15:01:02Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2005-01-06T23:00:00Z",
-        "file_hashes": [
-          "0481ff64bbb3e569",
-          "78dbfebe39cf8fda"
-        ],
-        "release": "Wimbledon (2004)",
-        "comments": null,
-        "legacy_subtitle_id": 167805,
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Poor.Things.2023.1080p.BluRay.x264-ROEN",
+        "comments": "SubRip, passzol még:\r\nPoor.Things.2023.BDRip.x264-ROEN\r\nPoor.Things.2023.720p.BluRay.x264.AAC-[YTS.MX]\r\nPoor.Things.2023.1080p.BluRay.x264.AAC5.1-[YTS.MX]\r\nPoor.Things.2023.720p.BluRay.x264-ROEN\r\nPoor.Things.2023.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265\r\nPoor.Things.2023.1080p.BluRay.H264-RiSEHD\r\nPoor.Things.2023.1080p.BluRay.DD+5.1.x264-HiDt",
+        "legacy_subtitle_id": 9926689,
+        "legacy_uploader_id": 544590,
         "uploader": {
-          "id": 29441,
-          "name": "n-ghtmar3 (a)",
-          "rank": "bronze member"
+          "uploader_id": 42947,
+          "name": "Re-Hard",
+          "rank": "Platinum Member"
         },
         "feature_details": {
-          "feature_id": 518184,
+          "feature_id": 1770919,
           "feature_type": "Movie",
-          "year": 2004,
-          "title": "Wimbledon",
-          "movie_name": "2004 - Wimbledon",
-          "imdb_id": 360201,
-          "tmdb_id": 11823
+          "year": 2023,
+          "title": "Poor Things",
+          "movie_name": "2023 - Pauvres créatures",
+          "imdb_id": 14230458,
+          "tmdb_id": 792307
         },
-        "url": "https://www.opensubtitles.com/nl/subtitles/legacy/167805",
-        "related_links": {
-          "label": "All subtitles for Wimbledon",
-          "url": "https://www.opensubtitles.com/nl/movies/2004-wimbledon",
-          "img_url": "https://s9.osdb.link/features/4/8/1/518184.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/hu/subtitles/legacy/9926689",
+        "related_links": [
           {
-            "id": 546670,
-            "cd_number": 1,
-            "file_name": "Wimbledon DVD.srt"
+            "label": "All subtitles for poor things",
+            "url": "https://www.opensubtitles.com/hu/movies/2023-poor-things",
+            "img_url": "https://s9.opensubtitles.com/features/9/1/9/1770919.jpg"
           }
         ],
-        "subtitle_id": "495317"
+        "files": [
+          {
+            "file_id": 8574684,
+            "cd_number": 1,
+            "file_name": "Poor.Things.2023.1080p.BluRay.x264-ROEN"
+          }
+        ]
       }
     },
     {
-      "id": "493928",
+      "id": "7648882",
       "type": "subtitle",
       "attributes": {
-        "language": "pt-BR",
-        "download_count": 154,
-        "new_download_count": 2,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
-        "fps": 0.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2015-11-30T22:13:05Z",
-        "file_hashes": [
-          "3bfc4a0f6837178b",
-          "e6bb1f2dc7108cc7"
-        ],
-        "release": "the.scent.of.green.papaya.1993.720p.bluray.x264-hd4u",
-        "comments": "",
-        "legacy_subtitle_id": 6405944,
-        "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS_",
-          "rank": "app developer"
-        },
-        "feature_details": {
-          "feature_id": 518092,
-          "feature_type": "Movie",
-          "year": 1993,
-          "title": "The Scent of Green Papaya",
-          "movie_name": "1993 - The Scent of Green Papaya",
-          "imdb_id": 107617,
-          "tmdb_id": 19552
-        },
-        "url": "https://www.opensubtitles.com/pt-BR/subtitles/legacy/6405944",
-        "related_links": {
-          "label": "All subtitles for The Scent of Green Papaya",
-          "url": "https://www.opensubtitles.com/pt-BR/movies/1993-the-scent-of-green-papaya",
-          "img_url": "https://s9.osdb.link/features/2/9/0/518092.jpg"
-        },
-        "files": [
-          {
-            "id": 545101,
-            "cd_number": 1,
-            "file_name": "the.scent.of.green.papaya.1993.720p.bluray.x264-hd4u.srt"
-          }
-        ],
-        "subtitle_id": "493928"
-      }
-    },
-    {
-      "id": "495429",
-      "type": "subtitle",
-      "attributes": {
-        "language": "he",
-        "download_count": 3619,
-        "new_download_count": 1,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
-        "fps": 0.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2011-02-12T16:09:47Z",
-        "file_hashes": [
-          "fe54ea26e27d2b49",
-          "d9c8282ba8b2b699",
-          "d89365a0cf252853",
-          "d033dcaf5a9f95cd",
-          "cc8742da613be592",
-          "bd203bf206e01b7b",
-          "b7f70a63aaa0b08f",
-          "b54a3c1f4b1a0774",
-          "b541d5e01c5f38c5",
-          "a4e0324e087eecc6",
-          "97b297eb690e2f72",
-          "92af07fbf3c91679",
-          "92043c6ffac0475a",
-          "8dfbb6a94162651a",
-          "8bb42d4c39e67593",
-          "844a6ddcbab3e991",
-          "7f6a563d2389c001",
-          "6cda30da82e076eb",
-          "6ccb32e10b1e45c2",
-          "464c169f88954a17",
-          "3d42dbf366a2d58d",
-          "32f3e1966f4dce00",
-          "32d58a607eb3c0b7",
-          "2ee8fed8b2d6fbc2"
-        ],
-        "release": "Rocky.1976.720p.Bluray.x264-PPQ",
-        "comments": "",
-        "legacy_subtitle_id": 4094528,
-        "uploader": {
-          "id": 43318,
-          "name": "guybs79",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 517932,
-          "feature_type": "Movie",
-          "year": 1976,
-          "title": "Rocky",
-          "movie_name": "1976 - Rocky",
-          "imdb_id": 75148,
-          "tmdb_id": 1366
-        },
-        "url": "https://www.opensubtitles.com/he/subtitles/legacy/4094528",
-        "related_links": {
-          "label": "All subtitles for Rocky",
-          "url": "https://www.opensubtitles.com/he/movies/1976-rocky",
-          "img_url": "https://s9.osdb.link/features/2/3/9/517932.jpg"
-        },
-        "files": [
-          {
-            "id": 546798,
-            "cd_number": 1,
-            "file_name": null
-          }
-        ],
-        "subtitle_id": "495429"
-      }
-    },
-    {
-      "id": "496561",
-      "type": "subtitle",
-      "attributes": {
-        "language": "es",
-        "download_count": 709,
-        "new_download_count": 6,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
-        "fps": 23.976,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2009-11-07T13:08:32Z",
-        "file_hashes": [],
-        "release": "contempt.1963.576p.bdrip.ac3.x264-[gx]",
-        "comments": "",
-        "legacy_subtitle_id": 3586969,
-        "uploader": {
-          "id": 34929,
-          "name": "elguaxo",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 518020,
-          "feature_type": "Movie",
-          "year": 1963,
-          "title": "Contempt",
-          "movie_name": "1963 - Contempt",
-          "imdb_id": 57345,
-          "tmdb_id": 266
-        },
-        "url": "https://www.opensubtitles.com/es/subtitles/legacy/3586969",
-        "related_links": {
-          "label": "All subtitles for Contempt",
-          "url": "https://www.opensubtitles.com/es/movies/1963-contempt",
-          "img_url": "https://s9.osdb.link/features/0/2/0/518020.jpg"
-        },
-        "files": [
-          {
-            "id": 6028083,
-            "cd_number": 1,
-            "file_name": "contempt.1963.576p.bdrip.ac3.x264-[gx].spa.srt"
-          }
-        ],
-        "subtitle_id": "496561"
-      }
-    },
-    {
-      "id": "491436",
-      "type": "subtitle",
-      "attributes": {
-        "language": "es",
-        "download_count": 1074,
-        "new_download_count": 2,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
-        "fps": 23.976,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": true,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2010-02-09T00:21:31Z",
-        "file_hashes": [
-          "f730bb2c6a013c78",
-          "dde2b970fcd9d156",
-          "63f9423c6533ab2e",
-          "385fb88a71cc9798",
-          "022afb97521e5106"
-        ],
-        "release": "1080p.HDDVD.x264-FSiHD",
-        "comments": "Español latinoamericano.",
-        "legacy_subtitle_id": 3637234,
-        "uploader": {
-          "id": 35187,
-          "name": "ShooCat",
-          "rank": "trusted"
-        },
-        "feature_details": {
-          "feature_id": 518015,
-          "feature_type": "Movie",
-          "year": 1992,
-          "title": "Sneakers",
-          "movie_name": "1992 - Sneakers",
-          "imdb_id": 105435,
-          "tmdb_id": 2322
-        },
-        "url": "https://www.opensubtitles.com/es/subtitles/legacy/3637234",
-        "related_links": {
-          "label": "All subtitles for Sneakers",
-          "url": "https://www.opensubtitles.com/es/movies/1992-sneakers",
-          "img_url": "https://s9.osdb.link/features/5/1/0/518015.jpg"
-        },
-        "files": [
-          {
-            "id": 542254,
-            "cd_number": 1,
-            "file_name": null
-          }
-        ],
-        "subtitle_id": "491436"
-      }
-    },
-    {
-      "id": "497328",
-      "type": "subtitle",
-      "attributes": {
-        "language": "pt-PT",
-        "download_count": 187,
-        "new_download_count": 1,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
-        "fps": 25.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2016-04-17T15:28:44Z",
-        "file_hashes": [
-          "549ef5b46ffb15e3",
-          "84d466fc4d01394e"
-        ],
-        "release": "Flightplan.2005.1080p.BluRay.x264.VPPV",
-        "comments": "",
-        "legacy_subtitle_id": 6594775,
-        "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
-        },
-        "feature_details": {
-          "feature_id": 518117,
-          "feature_type": "Movie",
-          "year": 2005,
-          "title": "Flightplan",
-          "movie_name": "2005 - Flightplan",
-          "imdb_id": 408790,
-          "tmdb_id": 9315
-        },
-        "url": "https://www.opensubtitles.com/pt-PT/subtitles/legacy/6594775",
-        "related_links": {
-          "label": "All subtitles for Flightplan",
-          "url": "https://www.opensubtitles.com/pt-PT/movies/2005-flightplan",
-          "img_url": "https://s9.osdb.link/features/7/1/1/518117.jpg"
-        },
-        "files": [
-          {
-            "id": 548829,
-            "cd_number": 1,
-            "file_name": "Flightplan.2005.1080p.BluRay.x264.VPPV-por.srt"
-          }
-        ],
-        "subtitle_id": "497328"
-      }
-    },
-    {
-      "id": "491578",
-      "type": "subtitle",
-      "attributes": {
-        "language": "nl",
-        "download_count": 2420,
-        "new_download_count": 7,
+        "subtitle_id": "7648882",
+        "language": "en",
+        "download_count": 0,
+        "new_download_count": 0,
         "hearing_impaired": false,
         "hd": false,
-        "format": null,
-        "fps": 23.976,
+        "fps": 0.0,
         "votes": 0,
-        "points": 0,
         "ratings": 0.0,
         "from_trusted": false,
-        "auto_translation": false,
+        "foreign_parts_only": false,
+        "upload_date": "2024-03-05T14:57:54Z",
         "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2013-06-29T09:10:38Z",
-        "file_hashes": [
-          "8b658b0eb165e673",
-          "7f3e8904f3bd6edb",
-          "1a7f974e20e8e424"
-        ],
-        "release": "Labyrinth.1986",
+        "nb_cd": 1,
+        "machine_translated": false,
+        "release": "Feriado eng",
         "comments": "",
-        "legacy_subtitle_id": 5064248,
+        "legacy_subtitle_id": 9926688,
+        "legacy_uploader_id": 0,
         "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
+          "uploader_id": 3282,
+          "name": "os-auto",
+          "rank": "Application Developers"
         },
         "feature_details": {
-          "feature_id": 517978,
+          "feature_id": 600977,
           "feature_type": "Movie",
-          "year": 1986,
-          "title": "Labyrinth",
-          "movie_name": "1986 - Labyrinth",
-          "imdb_id": 91369,
-          "tmdb_id": 13597
+          "year": 2014,
+          "title": "Holiday",
+          "movie_name": "2014 - Holiday",
+          "imdb_id": 3509662,
+          "tmdb_id": 297641
         },
-        "url": "https://www.opensubtitles.com/nl/subtitles/legacy/5064248",
-        "related_links": {
-          "label": "All subtitles for Labyrinth",
-          "url": "https://www.opensubtitles.com/nl/movies/1986-labyrinth",
-          "img_url": "https://s9.osdb.link/features/8/7/9/517978.jpg"
-        },
-        "files": [
+        "url": "https://www.opensubtitles.com/en/subtitles/legacy/9926688",
+        "related_links": [
           {
-            "id": 542435,
-            "cd_number": 1,
-            "file_name": "Labyrinth.1986.Eng-dut.srt"
+            "label": "All subtitles for holiday",
+            "url": "https://www.opensubtitles.com/en/movies/2014-feriado",
+            "img_url": "https://s9.opensubtitles.com/features/7/7/9/600977.jpg"
           }
         ],
-        "subtitle_id": "491578"
-      }
-    },
-    {
-      "id": "492605",
-      "type": "subtitle",
-      "attributes": {
-        "language": "en",
-        "download_count": 4213,
-        "new_download_count": 31,
-        "hearing_impaired": true,
-        "hd": true,
-        "format": null,
-        "fps": 23.976,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2016-09-18T23:50:11Z",
-        "file_hashes": [
-          "1a7f974e20e8e424",
-          "8b658b0eb165e673",
-          "c2fb6b4e6a5179bd",
-          "d0195cb8addde0ea"
-        ],
-        "release": "Labyrinth.1986.REMASTERED.1080p.BluRay.x264-SiNNERS",
-        "comments": "",
-        "legacy_subtitle_id": 6738526,
-        "uploader": {
-          "id": 75189,
-          "name": "farkem",
-          "rank": "bronze member"
-        },
-        "feature_details": {
-          "feature_id": 517978,
-          "feature_type": "Movie",
-          "year": 1986,
-          "title": "Labyrinth",
-          "movie_name": "1986 - Labyrinth",
-          "imdb_id": 91369,
-          "tmdb_id": 13597
-        },
-        "url": "https://www.opensubtitles.com/en/subtitles/legacy/6738526",
-        "related_links": {
-          "label": "All subtitles for Labyrinth",
-          "url": "https://www.opensubtitles.com/en/movies/1986-labyrinth",
-          "img_url": "https://s9.osdb.link/features/8/7/9/517978.jpg"
-        },
         "files": [
           {
-            "id": 543625,
+            "file_id": 8574624,
             "cd_number": 1,
-            "file_name": "Labyrinth (1986) REMASTERED 1080p BluRay.en SDH.srt"
+            "file_name": "Feriado eng"
           }
-        ],
-        "subtitle_id": "492605"
-      }
-    },
-    {
-      "id": "490717",
-      "type": "subtitle",
-      "attributes": {
-        "language": "en",
-        "download_count": 8927,
-        "new_download_count": 11,
-        "hearing_impaired": false,
-        "hd": true,
-        "format": null,
-        "fps": 25.0,
-        "votes": 0,
-        "points": 0,
-        "ratings": 0.0,
-        "from_trusted": false,
-        "auto_translation": false,
-        "ai_translated": false,
-        "machine_translated": null,
-        "upload_date": "2013-06-13T20:49:01Z",
-        "file_hashes": [
-          "e95d60656ea4a15e",
-          "c4c1b111b2e25cb8",
-          "c247e37cd67d1de5",
-          "c22dba2e5ed8dc36",
-          "b2fe6a99502e13dc",
-          "9d5cca242bfa220f",
-          "988ab6ad013a5b29",
-          "75f58cbde51bc2cd",
-          "7560c0d19347249a",
-          "6add9a4fcfdc5278",
-          "46214cb2c02bed59",
-          "3d708bee947c63a7",
-          "1eae5fb2e4e2ce6b",
-          "19694beed581b925",
-          "147bd86ed359afb9"
-        ],
-        "release": "Rambo First Blood II (1985) 720p BRRip x264 [Dual Audio] [Hindi+English]--AbhinavRocks",
-        "comments": "",
-        "legacy_subtitle_id": 5040645,
-        "uploader": {
-          "id": 3282,
-          "name": "COF7CJpS",
-          "rank": "app developer"
-        },
-        "feature_details": {
-          "feature_id": 517867,
-          "feature_type": "Movie",
-          "year": 1985,
-          "title": "Rambo: First Blood Part II",
-          "movie_name": "1985 - Rambo: First Blood Part II",
-          "imdb_id": 89880,
-          "tmdb_id": 1369
-        },
-        "url": "https://www.opensubtitles.com/en/subtitles/legacy/5040645",
-        "related_links": {
-          "label": "All subtitles for Rambo: First Blood Part II",
-          "url": "https://www.opensubtitles.com/en/movies/1985-rambo-first-blood-part-ii",
-          "img_url": "https://s9.osdb.link/features/7/6/8/517867.jpg"
-        },
-        "files": [
-          {
-            "id": 541409,
-            "cd_number": 1,
-            "file_name": "Rambo First Blood II (1985) 720p BRRip x264 [Dual Audio] [Hindi+English]--AbhinavRocks-eng.srt"
-          }
-        ],
-        "subtitle_id": "490717"
+        ]
       }
     }
   ]
