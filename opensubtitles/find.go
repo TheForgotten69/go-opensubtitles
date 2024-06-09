@@ -51,7 +51,7 @@ type SubtitlesOptions struct {
 	//Feature ID of the feature
 	ID int `url:"id,omitempty"`
 	//IMDB ID of the feature
-	ImdbID int `url:"imdb_id,omitempty"`
+	ImdbID string `url:"imdb_id,omitempty"`
 	//TMDB ID of the feature
 	TmdbID int `url:"tmdb_id,omitempty"`
 	//movie, episode or all, (default: all)
