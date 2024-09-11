@@ -79,9 +79,9 @@ type SubtitlesOptions struct {
 	//Order direction of the returned results (asc, desc)
 	OrderDirection string `url:"order_direction,omitempty"`
 	//For Tvshows
-	EpisodeNumber int `json:"episode_number"`
+	EpisodeNumber int `url:"episode_number,omitempty"`
 	//exclude, include, only (default: include)
-	ForeignPartsOnly string `json:"foreign_parts_only"`
+	ForeignPartsOnly string `url:"foreign_parts_only,omitempty"`
 	//Results page to display
 	Page int `url:"page,omitempty"`
 	// For Tvshows

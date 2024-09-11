@@ -1,4 +1,4 @@
-module github.com/TheForgotten69/go-opensubtitles
+module github.com/seba1213/go-opensubtitles
 
 go 1.15
 
